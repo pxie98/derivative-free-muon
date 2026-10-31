@@ -1,0 +1,542 @@
+[
+  {
+    "case": 1,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 33,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 1,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 64,
+    "iteration_to_target": 63,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 1,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 103,
+    "iteration_to_target": 102,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 1,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 2081,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 4161,
+    "iteration_to_target": 64,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 6956,
+    "iteration_to_target": 107,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 331,
+    "iteration_to_target": 66,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 2081,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 4161,
+    "iteration_to_target": 64,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 6956,
+    "iteration_to_target": 107,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.1,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 1,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 33,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 2,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 50,
+    "iteration_to_target": 49,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 2,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 113,
+    "iteration_to_target": 112,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 2,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 2081,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 3186,
+    "iteration_to_target": 49,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 6306,
+    "iteration_to_target": 97,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 296,
+    "iteration_to_target": 59,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 2081,
+    "iteration_to_target": 32,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 3186,
+    "iteration_to_target": 49,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 6306,
+    "iteration_to_target": 97,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.1,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 2,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 59,
+    "iteration_to_target": 58,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 3,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 83,
+    "iteration_to_target": 82,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 3,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 114,
+    "iteration_to_target": 113,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 3,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 3771,
+    "iteration_to_target": 58,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 5331,
+    "iteration_to_target": 82,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 7151,
+    "iteration_to_target": 110,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 476,
+    "iteration_to_target": 95,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 3771,
+    "iteration_to_target": 58,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 5331,
+    "iteration_to_target": 82,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 7151,
+    "iteration_to_target": 110,
+    "last_recorded_calls": 13001,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.1,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 3,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 43,
+    "iteration_to_target": 42,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 4,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 67,
+    "iteration_to_target": 66,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 4,
+    "method": "Full-gradient Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 111,
+    "iteration_to_target": 110,
+    "last_recorded_calls": 201,
+    "extra_gradient_work_excluded": true
+  },
+  {
+    "case": 4,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 10795,
+    "iteration_to_target": 42,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 16963,
+    "iteration_to_target": 66,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Entrywise DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 28014,
+    "iteration_to_target": 109,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 1171,
+    "iteration_to_target": 130,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 1801,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.1,
+    "calls_to_target": 10795,
+    "iteration_to_target": 42,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.01,
+    "calls_to_target": 16963,
+    "iteration_to_target": 66,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Low-rank DFO-Muon v2",
+    "relative_gap_target": 0.001,
+    "calls_to_target": 28014,
+    "iteration_to_target": 109,
+    "last_recorded_calls": 51401,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.1,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 2601,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.01,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 2601,
+    "extra_gradient_work_excluded": false
+  },
+  {
+    "case": 4,
+    "method": "Direct structured search",
+    "relative_gap_target": 0.001,
+    "calls_to_target": null,
+    "iteration_to_target": null,
+    "last_recorded_calls": 2601,
+    "extra_gradient_work_excluded": false
+  }
+]

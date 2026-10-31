@@ -1,0 +1,11 @@
+{
+  "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 08:22:19) [Clang 14.0.6 ]",
+  "numpy": "1.26.4",
+  "matplotlib": "3.9.2",
+  "platform": "macOS-15.3-arm64-arm-64bit",
+  "machine": "arm64",
+  "blas_threads": "1",
+  "omp_threads": "1",
+  "polar": "numpy.linalg.svd(full_matrices=False); economy completion",
+  "zero_threshold": 2.220446049250313e-16
+}

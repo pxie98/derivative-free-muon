@@ -1,0 +1,15 @@
+{
+  "views": 20,
+  "method": "coordinate",
+  "seed": 707,
+  "eta": 0.001,
+  "phase": "tune",
+  "calls": 13450,
+  "iterations": 1,
+  "objective": 0.49838553967436183,
+  "seconds": 1.7702267080021556,
+  "polar_seconds": 0.0006229999999050051,
+  "data_residual": 0.9983828766079234,
+  "all_view_residual": 0.9986951479033678,
+  "heldout_residual": 0.9987576183251787
+}

@@ -1,0 +1,59 @@
+{
+  "case": {
+    "id": 3,
+    "m": 8,
+    "n": 8,
+    "samples": 256,
+    "target_rank": 2,
+    "noise_std": 0.01,
+    "regularization": 0.0001,
+    "learning_rate": 0.035,
+    "low_rank_probes": 4,
+    "direct_candidates": 8,
+    "direct_learning_rate": 0.003,
+    "seed": 3303
+  },
+  "ridge_optimum": 0.0009974971456491158,
+  "methods": [
+    {
+      "method": "Full-gradient Muon",
+      "initial_objective": 6.4192198547159816,
+      "final_objective": 0.004402220179568062,
+      "final_relative_objective": 0.0005304775752904625,
+      "final_recovery_error": 0.023890238093403328,
+      "function_evaluations": 201
+    },
+    {
+      "method": "Entrywise DFO-Muon",
+      "initial_objective": 6.4192198547159816,
+      "final_objective": 0.006709627819374153,
+      "final_relative_objective": 0.0008899864098643363,
+      "final_recovery_error": 0.03192355378559973,
+      "function_evaluations": 13001
+    },
+    {
+      "method": "Low-rank DFO-Muon",
+      "initial_objective": 6.4192198547159816,
+      "final_objective": 0.33369692865570827,
+      "final_relative_objective": 0.05183669448872212,
+      "final_recovery_error": 0.2368289589393592,
+      "function_evaluations": 1001
+    },
+    {
+      "method": "Low-rank DFO-Muon v2",
+      "initial_objective": 6.4192198547159816,
+      "final_objective": 0.00519032912888022,
+      "final_relative_objective": 0.0006532699787637668,
+      "final_recovery_error": 0.02643121673900035,
+      "function_evaluations": 13001
+    },
+    {
+      "method": "Direct structured search",
+      "initial_objective": 6.4192198547159816,
+      "final_objective": 6.026413430859808,
+      "final_relative_objective": 0.9387982525421769,
+      "final_recovery_error": 0.9701180124772557,
+      "function_evaluations": 1801
+    }
+  ]
+}

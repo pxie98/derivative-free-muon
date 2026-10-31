@@ -1,0 +1,26 @@
+{
+  "views": 20,
+  "method": "jaguar",
+  "seed": 903,
+  "eta": 0.0003,
+  "phase": "test",
+  "q": 32,
+  "probes_per_update": 1,
+  "radius": 0.001,
+  "beta": 0.9,
+  "projection_rank": 8,
+  "projection_refresh": 100,
+  "calls": 19999,
+  "iterations": 6666,
+  "objective": 0.33179723667338645,
+  "gap": 0.6494961039949555,
+  "data_residual": 0.6501689547286804,
+  "times": {
+    "objective": 2.2931047109905194,
+    "probes_and_estimate": 0.1432713130616321,
+    "update": 4.064834040977075,
+    "total": 6.503961874999732,
+    "other": 0.002751809970504837
+  },
+  "heldout_residual": 0.6692885232554413
+}

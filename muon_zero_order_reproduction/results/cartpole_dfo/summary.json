@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "seeds": 5,
+    "iterations": 70,
+    "probes": 8,
+    "train_episodes": 3,
+    "eval_episodes": 40,
+    "horizon": 500,
+    "radius": 0.1,
+    "enhanced_probes": 12,
+    "enhanced_train_episodes": 2,
+    "enhanced_radius": 0.2,
+    "learning_rate": 0.1,
+    "beta": 0.8,
+    "hidden": 8
+  },
+  "summary": [
+    {
+      "method": "Policy-gradient Muon",
+      "seeds": 5,
+      "mean_final_return": 500.0,
+      "std_final_return": 0.0,
+      "solved_seeds": 5,
+      "mean_first_solved_iteration": 20.4,
+      "mean_first_solved_policy_evaluations": 20.4,
+      "mean_first_solved_episodes": 979.2,
+      "mean_trajectory_return": 395.8014788732395
+    },
+    {
+      "method": "Rank-one ZO-SGD",
+      "seeds": 5,
+      "mean_final_return": 500.0,
+      "std_final_return": 0.0,
+      "solved_seeds": 5,
+      "mean_first_solved_iteration": 56.4,
+      "mean_first_solved_policy_evaluations": 902.4,
+      "mean_first_solved_episodes": 2707.2,
+      "mean_trajectory_return": 203.08176056338027
+    },
+    {
+      "method": "DFO-Muon",
+      "seeds": 5,
+      "mean_final_return": 500.0,
+      "std_final_return": 0.0,
+      "solved_seeds": 5,
+      "mean_first_solved_iteration": 34.2,
+      "mean_first_solved_policy_evaluations": 547.2,
+      "mean_first_solved_episodes": 1641.6,
+      "mean_trajectory_return": 320.6153521126761
+    },
+    {
+      "method": "Enhanced DFO-Muon",
+      "seeds": 5,
+      "mean_final_return": 500.0,
+      "std_final_return": 0.0,
+      "solved_seeds": 5,
+      "mean_first_solved_iteration": 27.2,
+      "mean_first_solved_policy_evaluations": 652.8,
+      "mean_first_solved_episodes": 1305.6,
+      "mean_trajectory_return": 358.4225352112676
+    }
+  ]
+}

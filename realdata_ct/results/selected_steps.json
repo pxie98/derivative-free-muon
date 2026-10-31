@@ -1,0 +1,16 @@
+{
+  "20": {
+    "rankone": 0.01,
+    "orthogonal": 0.01,
+    "sphere": 0.01,
+    "zo_sgd": 0.003,
+    "coordinate": 0.3
+  },
+  "120": {
+    "rankone": 0.01,
+    "orthogonal": 0.01,
+    "sphere": 0.01,
+    "zo_sgd": 0.003,
+    "coordinate": 0.3
+  }
+}

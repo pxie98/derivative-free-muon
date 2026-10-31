@@ -1,0 +1,15 @@
+{
+  "views": 20,
+  "method": "zo_sgd",
+  "seed": 707,
+  "eta": 0.003,
+  "phase": "tune",
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.03498767035176356,
+  "seconds": 2.7029889159894083,
+  "polar_seconds": 0.006209283019416034,
+  "data_residual": 0.10300692813230379,
+  "all_view_residual": 0.1599710262723294,
+  "heldout_residual": 0.16908023937747205
+}

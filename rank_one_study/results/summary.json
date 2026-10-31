@@ -1,0 +1,186 @@
+{
+  "protocol": "Fixed original problems and parameters; 200 updates; no new tuning.",
+  "seeds": [
+    2101,
+    2102,
+    2103,
+    2104,
+    2105,
+    2106,
+    2107,
+    2108,
+    2109,
+    2110,
+    2111,
+    2112,
+    2113,
+    2114,
+    2115,
+    2116,
+    2117,
+    2118,
+    2119,
+    2120,
+    2121,
+    2122,
+    2123,
+    2124,
+    2125,
+    2126,
+    2127,
+    2128,
+    2129,
+    2130
+  ],
+  "targets": [
+    0.5,
+    0.1,
+    0.01
+  ],
+  "cases": [
+    {
+      "case": 1,
+      "targets": [
+        {
+          "target": 0.5,
+          "coordinate_calls": 781,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 121.0,
+          "min_calls": 106,
+          "max_calls": 146,
+          "ratio": 6.454545454545454
+        },
+        {
+          "target": 0.1,
+          "coordinate_calls": 2081,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 316.0,
+          "min_calls": 261,
+          "max_calls": 486,
+          "ratio": 6.5854430379746836
+        },
+        {
+          "target": 0.01,
+          "coordinate_calls": 4161,
+          "successes": 0,
+          "trials": 30,
+          "median_calls_successful": null,
+          "min_calls": null,
+          "max_calls": null,
+          "ratio": null
+        }
+      ],
+      "terminal_gap_median": 0.06445373448046676
+    },
+    {
+      "case": 2,
+      "targets": [
+        {
+          "target": 0.5,
+          "coordinate_calls": 781,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 116.0,
+          "min_calls": 101,
+          "max_calls": 156,
+          "ratio": 6.732758620689655
+        },
+        {
+          "target": 0.1,
+          "coordinate_calls": 2081,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 323.5,
+          "min_calls": 241,
+          "max_calls": 456,
+          "ratio": 6.432766615146831
+        },
+        {
+          "target": 0.01,
+          "coordinate_calls": 3186,
+          "successes": 0,
+          "trials": 30,
+          "median_calls_successful": null,
+          "min_calls": null,
+          "max_calls": null,
+          "ratio": null
+        }
+      ],
+      "terminal_gap_median": 0.07106179867893156
+    },
+    {
+      "case": 3,
+      "targets": [
+        {
+          "target": 0.5,
+          "coordinate_calls": 1431,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 191.0,
+          "min_calls": 161,
+          "max_calls": 216,
+          "ratio": 7.492146596858639
+        },
+        {
+          "target": 0.1,
+          "coordinate_calls": 3771,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 456.0,
+          "min_calls": 411,
+          "max_calls": 526,
+          "ratio": 8.269736842105264
+        },
+        {
+          "target": 0.01,
+          "coordinate_calls": 5331,
+          "successes": 0,
+          "trials": 30,
+          "median_calls_successful": null,
+          "min_calls": null,
+          "max_calls": null,
+          "ratio": null
+        }
+      ],
+      "terminal_gap_median": 0.05321222256933733
+    },
+    {
+      "case": 4,
+      "targets": [
+        {
+          "target": 0.5,
+          "coordinate_calls": 4113,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 352.0,
+          "min_calls": 298,
+          "max_calls": 406,
+          "ratio": 11.684659090909092
+        },
+        {
+          "target": 0.1,
+          "coordinate_calls": 10795,
+          "successes": 30,
+          "trials": 30,
+          "median_calls_successful": 1085.5,
+          "min_calls": 883,
+          "max_calls": 1288,
+          "ratio": 9.944725932749884
+        },
+        {
+          "target": 0.01,
+          "coordinate_calls": 16963,
+          "successes": 0,
+          "trials": 30,
+          "median_calls_successful": null,
+          "min_calls": null,
+          "max_calls": null,
+          "ratio": null
+        }
+      ],
+      "terminal_gap_median": 0.08344071363114641
+    }
+  ]
+}

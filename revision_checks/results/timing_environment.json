@@ -1,0 +1,40 @@
+{
+  "python": "3.12.7",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "platform": "macOS-15.3-arm64-arm-64bit",
+  "machine": "arm64",
+  "workers": 1,
+  "blas_threads": "1",
+  "budget": 20000,
+  "step_grid": [
+    0.001,
+    0.003,
+    0.01,
+    0.03,
+    0.1
+  ],
+  "jaguar_step_grid": [
+    1e-05,
+    3e-05,
+    0.0001,
+    0.0003,
+    0.001,
+    0.003,
+    0.01,
+    0.03,
+    0.1
+  ],
+  "tune_seeds": [
+    707,
+    808
+  ],
+  "evaluation_seeds": [
+    901,
+    902,
+    903,
+    904,
+    905
+  ],
+  "data_sha256": "03a35c57ae52026f980ffcf540a4243a02f198b3fcdd8dff72cb251f70b067cc"
+}

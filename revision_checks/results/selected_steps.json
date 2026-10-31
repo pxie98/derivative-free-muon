@@ -1,0 +1,14 @@
+{
+  "20": {
+    "sampled_coordinate": 0.01,
+    "jaguar": 0.0003,
+    "subspace_muon": 0.03,
+    "rank_matched_sgd": 0.003
+  },
+  "120": {
+    "sampled_coordinate": 0.01,
+    "jaguar": 0.0003,
+    "subspace_muon": 0.03,
+    "rank_matched_sgd": 0.003
+  }
+}

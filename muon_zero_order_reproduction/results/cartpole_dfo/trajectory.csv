@@ -1,0 +1,1421 @@
+method,seed,iteration,return,policy_evaluations,episodes
+Policy-gradient Muon,0,0,19.5,0,0
+Policy-gradient Muon,0,1,21.2,1,48
+Policy-gradient Muon,0,2,21.65,2,96
+Policy-gradient Muon,0,3,22.675,3,144
+Policy-gradient Muon,0,4,23.4,4,192
+Policy-gradient Muon,0,5,24.9,5,240
+Policy-gradient Muon,0,6,27.175,6,288
+Policy-gradient Muon,0,7,30.95,7,336
+Policy-gradient Muon,0,8,41.775,8,384
+Policy-gradient Muon,0,9,55.2,9,432
+Policy-gradient Muon,0,10,72.025,10,480
+Policy-gradient Muon,0,11,95.325,11,528
+Policy-gradient Muon,0,12,95.4,12,576
+Policy-gradient Muon,0,13,152.625,13,624
+Policy-gradient Muon,0,14,191.175,14,672
+Policy-gradient Muon,0,15,225.025,15,720
+Policy-gradient Muon,0,16,262.675,16,768
+Policy-gradient Muon,0,17,306.25,17,816
+Policy-gradient Muon,0,18,382.375,18,864
+Policy-gradient Muon,0,19,440.75,19,912
+Policy-gradient Muon,0,20,479.5,20,960
+Policy-gradient Muon,0,21,478.775,21,1008
+Policy-gradient Muon,0,22,488.7,22,1056
+Policy-gradient Muon,0,23,494.575,23,1104
+Policy-gradient Muon,0,24,500.0,24,1152
+Policy-gradient Muon,0,25,500.0,25,1200
+Policy-gradient Muon,0,26,500.0,26,1248
+Policy-gradient Muon,0,27,500.0,27,1296
+Policy-gradient Muon,0,28,500.0,28,1344
+Policy-gradient Muon,0,29,500.0,29,1392
+Policy-gradient Muon,0,30,500.0,30,1440
+Policy-gradient Muon,0,31,500.0,31,1488
+Policy-gradient Muon,0,32,500.0,32,1536
+Policy-gradient Muon,0,33,500.0,33,1584
+Policy-gradient Muon,0,34,500.0,34,1632
+Policy-gradient Muon,0,35,500.0,35,1680
+Policy-gradient Muon,0,36,500.0,36,1728
+Policy-gradient Muon,0,37,500.0,37,1776
+Policy-gradient Muon,0,38,500.0,38,1824
+Policy-gradient Muon,0,39,500.0,39,1872
+Policy-gradient Muon,0,40,500.0,40,1920
+Policy-gradient Muon,0,41,500.0,41,1968
+Policy-gradient Muon,0,42,500.0,42,2016
+Policy-gradient Muon,0,43,500.0,43,2064
+Policy-gradient Muon,0,44,500.0,44,2112
+Policy-gradient Muon,0,45,500.0,45,2160
+Policy-gradient Muon,0,46,500.0,46,2208
+Policy-gradient Muon,0,47,500.0,47,2256
+Policy-gradient Muon,0,48,500.0,48,2304
+Policy-gradient Muon,0,49,500.0,49,2352
+Policy-gradient Muon,0,50,500.0,50,2400
+Policy-gradient Muon,0,51,500.0,51,2448
+Policy-gradient Muon,0,52,500.0,52,2496
+Policy-gradient Muon,0,53,500.0,53,2544
+Policy-gradient Muon,0,54,500.0,54,2592
+Policy-gradient Muon,0,55,500.0,55,2640
+Policy-gradient Muon,0,56,500.0,56,2688
+Policy-gradient Muon,0,57,500.0,57,2736
+Policy-gradient Muon,0,58,500.0,58,2784
+Policy-gradient Muon,0,59,500.0,59,2832
+Policy-gradient Muon,0,60,500.0,60,2880
+Policy-gradient Muon,0,61,500.0,61,2928
+Policy-gradient Muon,0,62,500.0,62,2976
+Policy-gradient Muon,0,63,500.0,63,3024
+Policy-gradient Muon,0,64,500.0,64,3072
+Policy-gradient Muon,0,65,500.0,65,3120
+Policy-gradient Muon,0,66,500.0,66,3168
+Policy-gradient Muon,0,67,500.0,67,3216
+Policy-gradient Muon,0,68,500.0,68,3264
+Policy-gradient Muon,0,69,500.0,69,3312
+Policy-gradient Muon,0,70,500.0,70,3360
+Policy-gradient Muon,1,0,22.85,0,0
+Policy-gradient Muon,1,1,23.7,1,48
+Policy-gradient Muon,1,2,23.6,2,96
+Policy-gradient Muon,1,3,25.5,3,144
+Policy-gradient Muon,1,4,26.675,4,192
+Policy-gradient Muon,1,5,30.75,5,240
+Policy-gradient Muon,1,6,32.65,6,288
+Policy-gradient Muon,1,7,39.1,7,336
+Policy-gradient Muon,1,8,45.65,8,384
+Policy-gradient Muon,1,9,52.175,9,432
+Policy-gradient Muon,1,10,66.525,10,480
+Policy-gradient Muon,1,11,87.625,11,528
+Policy-gradient Muon,1,12,105.025,12,576
+Policy-gradient Muon,1,13,138.725,13,624
+Policy-gradient Muon,1,14,169.75,14,672
+Policy-gradient Muon,1,15,202.35,15,720
+Policy-gradient Muon,1,16,256.85,16,768
+Policy-gradient Muon,1,17,339.975,17,816
+Policy-gradient Muon,1,18,385.7,18,864
+Policy-gradient Muon,1,19,436.5,19,912
+Policy-gradient Muon,1,20,464.675,20,960
+Policy-gradient Muon,1,21,480.65,21,1008
+Policy-gradient Muon,1,22,495.425,22,1056
+Policy-gradient Muon,1,23,500.0,23,1104
+Policy-gradient Muon,1,24,500.0,24,1152
+Policy-gradient Muon,1,25,494.2,25,1200
+Policy-gradient Muon,1,26,500.0,26,1248
+Policy-gradient Muon,1,27,500.0,27,1296
+Policy-gradient Muon,1,28,500.0,28,1344
+Policy-gradient Muon,1,29,500.0,29,1392
+Policy-gradient Muon,1,30,500.0,30,1440
+Policy-gradient Muon,1,31,500.0,31,1488
+Policy-gradient Muon,1,32,500.0,32,1536
+Policy-gradient Muon,1,33,500.0,33,1584
+Policy-gradient Muon,1,34,500.0,34,1632
+Policy-gradient Muon,1,35,500.0,35,1680
+Policy-gradient Muon,1,36,500.0,36,1728
+Policy-gradient Muon,1,37,500.0,37,1776
+Policy-gradient Muon,1,38,500.0,38,1824
+Policy-gradient Muon,1,39,500.0,39,1872
+Policy-gradient Muon,1,40,500.0,40,1920
+Policy-gradient Muon,1,41,500.0,41,1968
+Policy-gradient Muon,1,42,500.0,42,2016
+Policy-gradient Muon,1,43,500.0,43,2064
+Policy-gradient Muon,1,44,500.0,44,2112
+Policy-gradient Muon,1,45,500.0,45,2160
+Policy-gradient Muon,1,46,500.0,46,2208
+Policy-gradient Muon,1,47,500.0,47,2256
+Policy-gradient Muon,1,48,500.0,48,2304
+Policy-gradient Muon,1,49,500.0,49,2352
+Policy-gradient Muon,1,50,500.0,50,2400
+Policy-gradient Muon,1,51,500.0,51,2448
+Policy-gradient Muon,1,52,500.0,52,2496
+Policy-gradient Muon,1,53,500.0,53,2544
+Policy-gradient Muon,1,54,500.0,54,2592
+Policy-gradient Muon,1,55,500.0,55,2640
+Policy-gradient Muon,1,56,500.0,56,2688
+Policy-gradient Muon,1,57,500.0,57,2736
+Policy-gradient Muon,1,58,500.0,58,2784
+Policy-gradient Muon,1,59,500.0,59,2832
+Policy-gradient Muon,1,60,500.0,60,2880
+Policy-gradient Muon,1,61,500.0,61,2928
+Policy-gradient Muon,1,62,500.0,62,2976
+Policy-gradient Muon,1,63,500.0,63,3024
+Policy-gradient Muon,1,64,500.0,64,3072
+Policy-gradient Muon,1,65,500.0,65,3120
+Policy-gradient Muon,1,66,500.0,66,3168
+Policy-gradient Muon,1,67,500.0,67,3216
+Policy-gradient Muon,1,68,500.0,68,3264
+Policy-gradient Muon,1,69,500.0,69,3312
+Policy-gradient Muon,1,70,500.0,70,3360
+Policy-gradient Muon,2,0,21.35,0,0
+Policy-gradient Muon,2,1,21.675,1,48
+Policy-gradient Muon,2,2,22.85,2,96
+Policy-gradient Muon,2,3,24.5,3,144
+Policy-gradient Muon,2,4,26.225,4,192
+Policy-gradient Muon,2,5,28.775,5,240
+Policy-gradient Muon,2,6,32.85,6,288
+Policy-gradient Muon,2,7,36.05,7,336
+Policy-gradient Muon,2,8,44.5,8,384
+Policy-gradient Muon,2,9,54.825,9,432
+Policy-gradient Muon,2,10,72.15,10,480
+Policy-gradient Muon,2,11,96.1,11,528
+Policy-gradient Muon,2,12,116.275,12,576
+Policy-gradient Muon,2,13,136.9,13,624
+Policy-gradient Muon,2,14,183.975,14,672
+Policy-gradient Muon,2,15,235.3,15,720
+Policy-gradient Muon,2,16,249.475,16,768
+Policy-gradient Muon,2,17,343.275,17,816
+Policy-gradient Muon,2,18,383.95,18,864
+Policy-gradient Muon,2,19,426.675,19,912
+Policy-gradient Muon,2,20,456.175,20,960
+Policy-gradient Muon,2,21,491.0,21,1008
+Policy-gradient Muon,2,22,496.4,22,1056
+Policy-gradient Muon,2,23,500.0,23,1104
+Policy-gradient Muon,2,24,500.0,24,1152
+Policy-gradient Muon,2,25,500.0,25,1200
+Policy-gradient Muon,2,26,497.525,26,1248
+Policy-gradient Muon,2,27,500.0,27,1296
+Policy-gradient Muon,2,28,500.0,28,1344
+Policy-gradient Muon,2,29,500.0,29,1392
+Policy-gradient Muon,2,30,500.0,30,1440
+Policy-gradient Muon,2,31,500.0,31,1488
+Policy-gradient Muon,2,32,500.0,32,1536
+Policy-gradient Muon,2,33,500.0,33,1584
+Policy-gradient Muon,2,34,500.0,34,1632
+Policy-gradient Muon,2,35,500.0,35,1680
+Policy-gradient Muon,2,36,500.0,36,1728
+Policy-gradient Muon,2,37,500.0,37,1776
+Policy-gradient Muon,2,38,500.0,38,1824
+Policy-gradient Muon,2,39,500.0,39,1872
+Policy-gradient Muon,2,40,500.0,40,1920
+Policy-gradient Muon,2,41,500.0,41,1968
+Policy-gradient Muon,2,42,500.0,42,2016
+Policy-gradient Muon,2,43,500.0,43,2064
+Policy-gradient Muon,2,44,500.0,44,2112
+Policy-gradient Muon,2,45,500.0,45,2160
+Policy-gradient Muon,2,46,500.0,46,2208
+Policy-gradient Muon,2,47,500.0,47,2256
+Policy-gradient Muon,2,48,500.0,48,2304
+Policy-gradient Muon,2,49,500.0,49,2352
+Policy-gradient Muon,2,50,500.0,50,2400
+Policy-gradient Muon,2,51,500.0,51,2448
+Policy-gradient Muon,2,52,500.0,52,2496
+Policy-gradient Muon,2,53,500.0,53,2544
+Policy-gradient Muon,2,54,500.0,54,2592
+Policy-gradient Muon,2,55,500.0,55,2640
+Policy-gradient Muon,2,56,500.0,56,2688
+Policy-gradient Muon,2,57,500.0,57,2736
+Policy-gradient Muon,2,58,500.0,58,2784
+Policy-gradient Muon,2,59,500.0,59,2832
+Policy-gradient Muon,2,60,500.0,60,2880
+Policy-gradient Muon,2,61,500.0,61,2928
+Policy-gradient Muon,2,62,500.0,62,2976
+Policy-gradient Muon,2,63,500.0,63,3024
+Policy-gradient Muon,2,64,500.0,64,3072
+Policy-gradient Muon,2,65,500.0,65,3120
+Policy-gradient Muon,2,66,500.0,66,3168
+Policy-gradient Muon,2,67,500.0,67,3216
+Policy-gradient Muon,2,68,500.0,68,3264
+Policy-gradient Muon,2,69,500.0,69,3312
+Policy-gradient Muon,2,70,500.0,70,3360
+Policy-gradient Muon,3,0,22.6,0,0
+Policy-gradient Muon,3,1,23.125,1,48
+Policy-gradient Muon,3,2,23.15,2,96
+Policy-gradient Muon,3,3,24.3,3,144
+Policy-gradient Muon,3,4,25.5,4,192
+Policy-gradient Muon,3,5,24.625,5,240
+Policy-gradient Muon,3,6,28.2,6,288
+Policy-gradient Muon,3,7,31.675,7,336
+Policy-gradient Muon,3,8,32.875,8,384
+Policy-gradient Muon,3,9,43.3,9,432
+Policy-gradient Muon,3,10,47.175,10,480
+Policy-gradient Muon,3,11,62.85,11,528
+Policy-gradient Muon,3,12,87.95,12,576
+Policy-gradient Muon,3,13,141.75,13,624
+Policy-gradient Muon,3,14,184.075,14,672
+Policy-gradient Muon,3,15,210.65,15,720
+Policy-gradient Muon,3,16,251.25,16,768
+Policy-gradient Muon,3,17,323.85,17,816
+Policy-gradient Muon,3,18,418.1,18,864
+Policy-gradient Muon,3,19,460.0,19,912
+Policy-gradient Muon,3,20,458.8,20,960
+Policy-gradient Muon,3,21,480.6,21,1008
+Policy-gradient Muon,3,22,487.425,22,1056
+Policy-gradient Muon,3,23,500.0,23,1104
+Policy-gradient Muon,3,24,500.0,24,1152
+Policy-gradient Muon,3,25,500.0,25,1200
+Policy-gradient Muon,3,26,500.0,26,1248
+Policy-gradient Muon,3,27,500.0,27,1296
+Policy-gradient Muon,3,28,500.0,28,1344
+Policy-gradient Muon,3,29,500.0,29,1392
+Policy-gradient Muon,3,30,500.0,30,1440
+Policy-gradient Muon,3,31,500.0,31,1488
+Policy-gradient Muon,3,32,500.0,32,1536
+Policy-gradient Muon,3,33,500.0,33,1584
+Policy-gradient Muon,3,34,500.0,34,1632
+Policy-gradient Muon,3,35,500.0,35,1680
+Policy-gradient Muon,3,36,500.0,36,1728
+Policy-gradient Muon,3,37,500.0,37,1776
+Policy-gradient Muon,3,38,500.0,38,1824
+Policy-gradient Muon,3,39,500.0,39,1872
+Policy-gradient Muon,3,40,500.0,40,1920
+Policy-gradient Muon,3,41,500.0,41,1968
+Policy-gradient Muon,3,42,500.0,42,2016
+Policy-gradient Muon,3,43,500.0,43,2064
+Policy-gradient Muon,3,44,500.0,44,2112
+Policy-gradient Muon,3,45,500.0,45,2160
+Policy-gradient Muon,3,46,500.0,46,2208
+Policy-gradient Muon,3,47,500.0,47,2256
+Policy-gradient Muon,3,48,500.0,48,2304
+Policy-gradient Muon,3,49,500.0,49,2352
+Policy-gradient Muon,3,50,500.0,50,2400
+Policy-gradient Muon,3,51,500.0,51,2448
+Policy-gradient Muon,3,52,500.0,52,2496
+Policy-gradient Muon,3,53,500.0,53,2544
+Policy-gradient Muon,3,54,500.0,54,2592
+Policy-gradient Muon,3,55,500.0,55,2640
+Policy-gradient Muon,3,56,500.0,56,2688
+Policy-gradient Muon,3,57,500.0,57,2736
+Policy-gradient Muon,3,58,500.0,58,2784
+Policy-gradient Muon,3,59,500.0,59,2832
+Policy-gradient Muon,3,60,500.0,60,2880
+Policy-gradient Muon,3,61,500.0,61,2928
+Policy-gradient Muon,3,62,500.0,62,2976
+Policy-gradient Muon,3,63,500.0,63,3024
+Policy-gradient Muon,3,64,500.0,64,3072
+Policy-gradient Muon,3,65,500.0,65,3120
+Policy-gradient Muon,3,66,500.0,66,3168
+Policy-gradient Muon,3,67,500.0,67,3216
+Policy-gradient Muon,3,68,500.0,68,3264
+Policy-gradient Muon,3,69,500.0,69,3312
+Policy-gradient Muon,3,70,500.0,70,3360
+Policy-gradient Muon,4,0,22.375,0,0
+Policy-gradient Muon,4,1,22.625,1,48
+Policy-gradient Muon,4,2,23.95,2,96
+Policy-gradient Muon,4,3,26.95,3,144
+Policy-gradient Muon,4,4,28.9,4,192
+Policy-gradient Muon,4,5,30.4,5,240
+Policy-gradient Muon,4,6,33.275,6,288
+Policy-gradient Muon,4,7,37.125,7,336
+Policy-gradient Muon,4,8,48.15,8,384
+Policy-gradient Muon,4,9,85.375,9,432
+Policy-gradient Muon,4,10,84.825,10,480
+Policy-gradient Muon,4,11,112.075,11,528
+Policy-gradient Muon,4,12,154.8,12,576
+Policy-gradient Muon,4,13,241.15,13,624
+Policy-gradient Muon,4,14,262.8,14,672
+Policy-gradient Muon,4,15,348.25,15,720
+Policy-gradient Muon,4,16,377.0,16,768
+Policy-gradient Muon,4,17,400.85,17,816
+Policy-gradient Muon,4,18,432.425,18,864
+Policy-gradient Muon,4,19,479.375,19,912
+Policy-gradient Muon,4,20,476.4,20,960
+Policy-gradient Muon,4,21,495.65,21,1008
+Policy-gradient Muon,4,22,494.925,22,1056
+Policy-gradient Muon,4,23,500.0,23,1104
+Policy-gradient Muon,4,24,500.0,24,1152
+Policy-gradient Muon,4,25,497.05,25,1200
+Policy-gradient Muon,4,26,500.0,26,1248
+Policy-gradient Muon,4,27,500.0,27,1296
+Policy-gradient Muon,4,28,500.0,28,1344
+Policy-gradient Muon,4,29,500.0,29,1392
+Policy-gradient Muon,4,30,500.0,30,1440
+Policy-gradient Muon,4,31,500.0,31,1488
+Policy-gradient Muon,4,32,500.0,32,1536
+Policy-gradient Muon,4,33,500.0,33,1584
+Policy-gradient Muon,4,34,500.0,34,1632
+Policy-gradient Muon,4,35,500.0,35,1680
+Policy-gradient Muon,4,36,500.0,36,1728
+Policy-gradient Muon,4,37,500.0,37,1776
+Policy-gradient Muon,4,38,500.0,38,1824
+Policy-gradient Muon,4,39,500.0,39,1872
+Policy-gradient Muon,4,40,500.0,40,1920
+Policy-gradient Muon,4,41,500.0,41,1968
+Policy-gradient Muon,4,42,500.0,42,2016
+Policy-gradient Muon,4,43,500.0,43,2064
+Policy-gradient Muon,4,44,500.0,44,2112
+Policy-gradient Muon,4,45,500.0,45,2160
+Policy-gradient Muon,4,46,500.0,46,2208
+Policy-gradient Muon,4,47,500.0,47,2256
+Policy-gradient Muon,4,48,500.0,48,2304
+Policy-gradient Muon,4,49,500.0,49,2352
+Policy-gradient Muon,4,50,500.0,50,2400
+Policy-gradient Muon,4,51,500.0,51,2448
+Policy-gradient Muon,4,52,500.0,52,2496
+Policy-gradient Muon,4,53,500.0,53,2544
+Policy-gradient Muon,4,54,500.0,54,2592
+Policy-gradient Muon,4,55,500.0,55,2640
+Policy-gradient Muon,4,56,500.0,56,2688
+Policy-gradient Muon,4,57,500.0,57,2736
+Policy-gradient Muon,4,58,500.0,58,2784
+Policy-gradient Muon,4,59,500.0,59,2832
+Policy-gradient Muon,4,60,500.0,60,2880
+Policy-gradient Muon,4,61,500.0,61,2928
+Policy-gradient Muon,4,62,500.0,62,2976
+Policy-gradient Muon,4,63,500.0,63,3024
+Policy-gradient Muon,4,64,500.0,64,3072
+Policy-gradient Muon,4,65,500.0,65,3120
+Policy-gradient Muon,4,66,500.0,66,3168
+Policy-gradient Muon,4,67,500.0,67,3216
+Policy-gradient Muon,4,68,500.0,68,3264
+Policy-gradient Muon,4,69,500.0,69,3312
+Policy-gradient Muon,4,70,500.0,70,3360
+Rank-one ZO-SGD,0,0,19.5,0,0
+Rank-one ZO-SGD,0,1,20.55,16,48
+Rank-one ZO-SGD,0,2,21.15,32,96
+Rank-one ZO-SGD,0,3,21.525,48,144
+Rank-one ZO-SGD,0,4,21.525,64,192
+Rank-one ZO-SGD,0,5,21.2,80,240
+Rank-one ZO-SGD,0,6,21.425,96,288
+Rank-one ZO-SGD,0,7,21.475,112,336
+Rank-one ZO-SGD,0,8,22.525,128,384
+Rank-one ZO-SGD,0,9,22.575,144,432
+Rank-one ZO-SGD,0,10,23.35,160,480
+Rank-one ZO-SGD,0,11,23.35,176,528
+Rank-one ZO-SGD,0,12,23.3,192,576
+Rank-one ZO-SGD,0,13,23.1,208,624
+Rank-one ZO-SGD,0,14,23.275,224,672
+Rank-one ZO-SGD,0,15,23.625,240,720
+Rank-one ZO-SGD,0,16,24.4,256,768
+Rank-one ZO-SGD,0,17,23.6,272,816
+Rank-one ZO-SGD,0,18,24.175,288,864
+Rank-one ZO-SGD,0,19,25.8,304,912
+Rank-one ZO-SGD,0,20,27.575,320,960
+Rank-one ZO-SGD,0,21,28.25,336,1008
+Rank-one ZO-SGD,0,22,28.05,352,1056
+Rank-one ZO-SGD,0,23,28.175,368,1104
+Rank-one ZO-SGD,0,24,32.725,384,1152
+Rank-one ZO-SGD,0,25,34.775,400,1200
+Rank-one ZO-SGD,0,26,36.575,416,1248
+Rank-one ZO-SGD,0,27,46.175,432,1296
+Rank-one ZO-SGD,0,28,47.2,448,1344
+Rank-one ZO-SGD,0,29,52.925,464,1392
+Rank-one ZO-SGD,0,30,55.825,480,1440
+Rank-one ZO-SGD,0,31,68.75,496,1488
+Rank-one ZO-SGD,0,32,79.825,512,1536
+Rank-one ZO-SGD,0,33,87.5,528,1584
+Rank-one ZO-SGD,0,34,83.45,544,1632
+Rank-one ZO-SGD,0,35,93.725,560,1680
+Rank-one ZO-SGD,0,36,112.475,576,1728
+Rank-one ZO-SGD,0,37,114.35,592,1776
+Rank-one ZO-SGD,0,38,136.475,608,1824
+Rank-one ZO-SGD,0,39,160.0,624,1872
+Rank-one ZO-SGD,0,40,207.625,640,1920
+Rank-one ZO-SGD,0,41,196.975,656,1968
+Rank-one ZO-SGD,0,42,220.05,672,2016
+Rank-one ZO-SGD,0,43,251.35,688,2064
+Rank-one ZO-SGD,0,44,287.125,704,2112
+Rank-one ZO-SGD,0,45,269.975,720,2160
+Rank-one ZO-SGD,0,46,320.1,736,2208
+Rank-one ZO-SGD,0,47,342.05,752,2256
+Rank-one ZO-SGD,0,48,387.1,768,2304
+Rank-one ZO-SGD,0,49,394.025,784,2352
+Rank-one ZO-SGD,0,50,410.875,800,2400
+Rank-one ZO-SGD,0,51,455.2,816,2448
+Rank-one ZO-SGD,0,52,461.275,832,2496
+Rank-one ZO-SGD,0,53,475.15,848,2544
+Rank-one ZO-SGD,0,54,486.35,864,2592
+Rank-one ZO-SGD,0,55,477.05,880,2640
+Rank-one ZO-SGD,0,56,479.925,896,2688
+Rank-one ZO-SGD,0,57,484.25,912,2736
+Rank-one ZO-SGD,0,58,485.975,928,2784
+Rank-one ZO-SGD,0,59,496.075,944,2832
+Rank-one ZO-SGD,0,60,500.0,960,2880
+Rank-one ZO-SGD,0,61,500.0,976,2928
+Rank-one ZO-SGD,0,62,500.0,992,2976
+Rank-one ZO-SGD,0,63,500.0,1008,3024
+Rank-one ZO-SGD,0,64,500.0,1024,3072
+Rank-one ZO-SGD,0,65,500.0,1040,3120
+Rank-one ZO-SGD,0,66,500.0,1056,3168
+Rank-one ZO-SGD,0,67,500.0,1072,3216
+Rank-one ZO-SGD,0,68,500.0,1088,3264
+Rank-one ZO-SGD,0,69,500.0,1104,3312
+Rank-one ZO-SGD,0,70,500.0,1120,3360
+Rank-one ZO-SGD,1,0,22.85,0,0
+Rank-one ZO-SGD,1,1,22.875,16,48
+Rank-one ZO-SGD,1,2,22.975,32,96
+Rank-one ZO-SGD,1,3,23.0,48,144
+Rank-one ZO-SGD,1,4,23.5,64,192
+Rank-one ZO-SGD,1,5,23.95,80,240
+Rank-one ZO-SGD,1,6,23.05,96,288
+Rank-one ZO-SGD,1,7,23.45,112,336
+Rank-one ZO-SGD,1,8,23.9,128,384
+Rank-one ZO-SGD,1,9,25.725,144,432
+Rank-one ZO-SGD,1,10,25.725,160,480
+Rank-one ZO-SGD,1,11,25.825,176,528
+Rank-one ZO-SGD,1,12,26.25,192,576
+Rank-one ZO-SGD,1,13,28.025,208,624
+Rank-one ZO-SGD,1,14,31.55,224,672
+Rank-one ZO-SGD,1,15,32.025,240,720
+Rank-one ZO-SGD,1,16,33.3,256,768
+Rank-one ZO-SGD,1,17,34.975,272,816
+Rank-one ZO-SGD,1,18,36.025,288,864
+Rank-one ZO-SGD,1,19,36.625,304,912
+Rank-one ZO-SGD,1,20,39.275,320,960
+Rank-one ZO-SGD,1,21,42.975,336,1008
+Rank-one ZO-SGD,1,22,51.45,352,1056
+Rank-one ZO-SGD,1,23,54.675,368,1104
+Rank-one ZO-SGD,1,24,60.925,384,1152
+Rank-one ZO-SGD,1,25,68.175,400,1200
+Rank-one ZO-SGD,1,26,71.025,416,1248
+Rank-one ZO-SGD,1,27,85.975,432,1296
+Rank-one ZO-SGD,1,28,86.15,448,1344
+Rank-one ZO-SGD,1,29,93.175,464,1392
+Rank-one ZO-SGD,1,30,107.1,480,1440
+Rank-one ZO-SGD,1,31,112.4,496,1488
+Rank-one ZO-SGD,1,32,108.975,512,1536
+Rank-one ZO-SGD,1,33,121.8,528,1584
+Rank-one ZO-SGD,1,34,156.25,544,1632
+Rank-one ZO-SGD,1,35,176.075,560,1680
+Rank-one ZO-SGD,1,36,195.65,576,1728
+Rank-one ZO-SGD,1,37,208.6,592,1776
+Rank-one ZO-SGD,1,38,202.075,608,1824
+Rank-one ZO-SGD,1,39,215.85,624,1872
+Rank-one ZO-SGD,1,40,210.65,640,1920
+Rank-one ZO-SGD,1,41,245.15,656,1968
+Rank-one ZO-SGD,1,42,271.525,672,2016
+Rank-one ZO-SGD,1,43,317.2,688,2064
+Rank-one ZO-SGD,1,44,349.475,704,2112
+Rank-one ZO-SGD,1,45,365.95,720,2160
+Rank-one ZO-SGD,1,46,401.15,736,2208
+Rank-one ZO-SGD,1,47,400.05,752,2256
+Rank-one ZO-SGD,1,48,416.7,768,2304
+Rank-one ZO-SGD,1,49,420.575,784,2352
+Rank-one ZO-SGD,1,50,423.4,800,2400
+Rank-one ZO-SGD,1,51,452.75,816,2448
+Rank-one ZO-SGD,1,52,460.725,832,2496
+Rank-one ZO-SGD,1,53,471.8,848,2544
+Rank-one ZO-SGD,1,54,471.025,864,2592
+Rank-one ZO-SGD,1,55,486.4,880,2640
+Rank-one ZO-SGD,1,56,493.325,896,2688
+Rank-one ZO-SGD,1,57,495.8,912,2736
+Rank-one ZO-SGD,1,58,499.6,928,2784
+Rank-one ZO-SGD,1,59,500.0,944,2832
+Rank-one ZO-SGD,1,60,500.0,960,2880
+Rank-one ZO-SGD,1,61,500.0,976,2928
+Rank-one ZO-SGD,1,62,497.15,992,2976
+Rank-one ZO-SGD,1,63,497.15,1008,3024
+Rank-one ZO-SGD,1,64,500.0,1024,3072
+Rank-one ZO-SGD,1,65,500.0,1040,3120
+Rank-one ZO-SGD,1,66,500.0,1056,3168
+Rank-one ZO-SGD,1,67,500.0,1072,3216
+Rank-one ZO-SGD,1,68,500.0,1088,3264
+Rank-one ZO-SGD,1,69,500.0,1104,3312
+Rank-one ZO-SGD,1,70,500.0,1120,3360
+Rank-one ZO-SGD,2,0,21.35,0,0
+Rank-one ZO-SGD,2,1,21.35,16,48
+Rank-one ZO-SGD,2,2,21.35,32,96
+Rank-one ZO-SGD,2,3,21.35,48,144
+Rank-one ZO-SGD,2,4,21.35,64,192
+Rank-one ZO-SGD,2,5,21.675,80,240
+Rank-one ZO-SGD,2,6,23.0,96,288
+Rank-one ZO-SGD,2,7,23.275,112,336
+Rank-one ZO-SGD,2,8,24.025,128,384
+Rank-one ZO-SGD,2,9,24.15,144,432
+Rank-one ZO-SGD,2,10,24.375,160,480
+Rank-one ZO-SGD,2,11,26.075,176,528
+Rank-one ZO-SGD,2,12,26.1,192,576
+Rank-one ZO-SGD,2,13,27.55,208,624
+Rank-one ZO-SGD,2,14,29.825,224,672
+Rank-one ZO-SGD,2,15,28.7,240,720
+Rank-one ZO-SGD,2,16,28.75,256,768
+Rank-one ZO-SGD,2,17,28.0,272,816
+Rank-one ZO-SGD,2,18,29.925,288,864
+Rank-one ZO-SGD,2,19,31.525,304,912
+Rank-one ZO-SGD,2,20,29.975,320,960
+Rank-one ZO-SGD,2,21,29.15,336,1008
+Rank-one ZO-SGD,2,22,29.25,352,1056
+Rank-one ZO-SGD,2,23,30.15,368,1104
+Rank-one ZO-SGD,2,24,29.425,384,1152
+Rank-one ZO-SGD,2,25,32.0,400,1200
+Rank-one ZO-SGD,2,26,32.4,416,1248
+Rank-one ZO-SGD,2,27,33.175,432,1296
+Rank-one ZO-SGD,2,28,39.425,448,1344
+Rank-one ZO-SGD,2,29,41.425,464,1392
+Rank-one ZO-SGD,2,30,44.975,480,1440
+Rank-one ZO-SGD,2,31,46.975,496,1488
+Rank-one ZO-SGD,2,32,50.725,512,1536
+Rank-one ZO-SGD,2,33,63.325,528,1584
+Rank-one ZO-SGD,2,34,64.7,544,1632
+Rank-one ZO-SGD,2,35,70.775,560,1680
+Rank-one ZO-SGD,2,36,76.575,576,1728
+Rank-one ZO-SGD,2,37,84.625,592,1776
+Rank-one ZO-SGD,2,38,92.425,608,1824
+Rank-one ZO-SGD,2,39,91.625,624,1872
+Rank-one ZO-SGD,2,40,110.45,640,1920
+Rank-one ZO-SGD,2,41,118.25,656,1968
+Rank-one ZO-SGD,2,42,116.375,672,2016
+Rank-one ZO-SGD,2,43,131.425,688,2064
+Rank-one ZO-SGD,2,44,144.775,704,2112
+Rank-one ZO-SGD,2,45,154.6,720,2160
+Rank-one ZO-SGD,2,46,175.0,736,2208
+Rank-one ZO-SGD,2,47,187.05,752,2256
+Rank-one ZO-SGD,2,48,202.475,768,2304
+Rank-one ZO-SGD,2,49,197.95,784,2352
+Rank-one ZO-SGD,2,50,222.525,800,2400
+Rank-one ZO-SGD,2,51,282.5,816,2448
+Rank-one ZO-SGD,2,52,306.75,832,2496
+Rank-one ZO-SGD,2,53,295.925,848,2544
+Rank-one ZO-SGD,2,54,315.325,864,2592
+Rank-one ZO-SGD,2,55,381.225,880,2640
+Rank-one ZO-SGD,2,56,381.375,896,2688
+Rank-one ZO-SGD,2,57,417.5,912,2736
+Rank-one ZO-SGD,2,58,413.325,928,2784
+Rank-one ZO-SGD,2,59,436.5,944,2832
+Rank-one ZO-SGD,2,60,441.075,960,2880
+Rank-one ZO-SGD,2,61,467.275,976,2928
+Rank-one ZO-SGD,2,62,484.775,992,2976
+Rank-one ZO-SGD,2,63,491.3,1008,3024
+Rank-one ZO-SGD,2,64,495.0,1024,3072
+Rank-one ZO-SGD,2,65,496.6,1040,3120
+Rank-one ZO-SGD,2,66,497.025,1056,3168
+Rank-one ZO-SGD,2,67,500.0,1072,3216
+Rank-one ZO-SGD,2,68,500.0,1088,3264
+Rank-one ZO-SGD,2,69,500.0,1104,3312
+Rank-one ZO-SGD,2,70,500.0,1120,3360
+Rank-one ZO-SGD,3,0,22.6,0,0
+Rank-one ZO-SGD,3,1,22.55,16,48
+Rank-one ZO-SGD,3,2,22.5,32,96
+Rank-one ZO-SGD,3,3,22.625,48,144
+Rank-one ZO-SGD,3,4,22.25,64,192
+Rank-one ZO-SGD,3,5,22.725,80,240
+Rank-one ZO-SGD,3,6,22.775,96,288
+Rank-one ZO-SGD,3,7,22.7,112,336
+Rank-one ZO-SGD,3,8,22.7,128,384
+Rank-one ZO-SGD,3,9,22.7,144,432
+Rank-one ZO-SGD,3,10,22.825,160,480
+Rank-one ZO-SGD,3,11,22.825,176,528
+Rank-one ZO-SGD,3,12,22.925,192,576
+Rank-one ZO-SGD,3,13,23.1,208,624
+Rank-one ZO-SGD,3,14,23.375,224,672
+Rank-one ZO-SGD,3,15,24.2,240,720
+Rank-one ZO-SGD,3,16,24.525,256,768
+Rank-one ZO-SGD,3,17,25.625,272,816
+Rank-one ZO-SGD,3,18,25.775,288,864
+Rank-one ZO-SGD,3,19,27.05,304,912
+Rank-one ZO-SGD,3,20,28.225,320,960
+Rank-one ZO-SGD,3,21,26.9,336,1008
+Rank-one ZO-SGD,3,22,28.625,352,1056
+Rank-one ZO-SGD,3,23,29.45,368,1104
+Rank-one ZO-SGD,3,24,31.35,384,1152
+Rank-one ZO-SGD,3,25,30.85,400,1200
+Rank-one ZO-SGD,3,26,31.775,416,1248
+Rank-one ZO-SGD,3,27,34.175,432,1296
+Rank-one ZO-SGD,3,28,34.85,448,1344
+Rank-one ZO-SGD,3,29,35.075,464,1392
+Rank-one ZO-SGD,3,30,36.1,480,1440
+Rank-one ZO-SGD,3,31,42.075,496,1488
+Rank-one ZO-SGD,3,32,45.475,512,1536
+Rank-one ZO-SGD,3,33,48.975,528,1584
+Rank-one ZO-SGD,3,34,56.675,544,1632
+Rank-one ZO-SGD,3,35,55.725,560,1680
+Rank-one ZO-SGD,3,36,65.775,576,1728
+Rank-one ZO-SGD,3,37,72.95,592,1776
+Rank-one ZO-SGD,3,38,90.425,608,1824
+Rank-one ZO-SGD,3,39,114.225,624,1872
+Rank-one ZO-SGD,3,40,133.7,640,1920
+Rank-one ZO-SGD,3,41,147.625,656,1968
+Rank-one ZO-SGD,3,42,142.25,672,2016
+Rank-one ZO-SGD,3,43,159.3,688,2064
+Rank-one ZO-SGD,3,44,186.225,704,2112
+Rank-one ZO-SGD,3,45,182.9,720,2160
+Rank-one ZO-SGD,3,46,197.275,736,2208
+Rank-one ZO-SGD,3,47,218.075,752,2256
+Rank-one ZO-SGD,3,48,233.45,768,2304
+Rank-one ZO-SGD,3,49,267.225,784,2352
+Rank-one ZO-SGD,3,50,309.85,800,2400
+Rank-one ZO-SGD,3,51,343.125,816,2448
+Rank-one ZO-SGD,3,52,377.7,832,2496
+Rank-one ZO-SGD,3,53,408.75,848,2544
+Rank-one ZO-SGD,3,54,416.075,864,2592
+Rank-one ZO-SGD,3,55,460.45,880,2640
+Rank-one ZO-SGD,3,56,454.3,896,2688
+Rank-one ZO-SGD,3,57,471.425,912,2736
+Rank-one ZO-SGD,3,58,447.7,928,2784
+Rank-one ZO-SGD,3,59,482.25,944,2832
+Rank-one ZO-SGD,3,60,472.025,960,2880
+Rank-one ZO-SGD,3,61,487.85,976,2928
+Rank-one ZO-SGD,3,62,484.45,992,2976
+Rank-one ZO-SGD,3,63,493.55,1008,3024
+Rank-one ZO-SGD,3,64,491.2,1024,3072
+Rank-one ZO-SGD,3,65,497.7,1040,3120
+Rank-one ZO-SGD,3,66,495.425,1056,3168
+Rank-one ZO-SGD,3,67,499.65,1072,3216
+Rank-one ZO-SGD,3,68,499.65,1088,3264
+Rank-one ZO-SGD,3,69,500.0,1104,3312
+Rank-one ZO-SGD,3,70,500.0,1120,3360
+Rank-one ZO-SGD,4,0,22.375,0,0
+Rank-one ZO-SGD,4,1,22.625,16,48
+Rank-one ZO-SGD,4,2,22.625,32,96
+Rank-one ZO-SGD,4,3,22.625,48,144
+Rank-one ZO-SGD,4,4,22.875,64,192
+Rank-one ZO-SGD,4,5,23.6,80,240
+Rank-one ZO-SGD,4,6,23.275,96,288
+Rank-one ZO-SGD,4,7,25.0,112,336
+Rank-one ZO-SGD,4,8,26.875,128,384
+Rank-one ZO-SGD,4,9,28.3,144,432
+Rank-one ZO-SGD,4,10,28.275,160,480
+Rank-one ZO-SGD,4,11,28.0,176,528
+Rank-one ZO-SGD,4,12,26.775,192,576
+Rank-one ZO-SGD,4,13,27.65,208,624
+Rank-one ZO-SGD,4,14,27.45,224,672
+Rank-one ZO-SGD,4,15,28.6,240,720
+Rank-one ZO-SGD,4,16,28.325,256,768
+Rank-one ZO-SGD,4,17,28.625,272,816
+Rank-one ZO-SGD,4,18,31.175,288,864
+Rank-one ZO-SGD,4,19,33.275,304,912
+Rank-one ZO-SGD,4,20,35.275,320,960
+Rank-one ZO-SGD,4,21,38.75,336,1008
+Rank-one ZO-SGD,4,22,43.125,352,1056
+Rank-one ZO-SGD,4,23,47.225,368,1104
+Rank-one ZO-SGD,4,24,49.975,384,1152
+Rank-one ZO-SGD,4,25,56.425,400,1200
+Rank-one ZO-SGD,4,26,59.0,416,1248
+Rank-one ZO-SGD,4,27,61.4,432,1296
+Rank-one ZO-SGD,4,28,66.9,448,1344
+Rank-one ZO-SGD,4,29,77.175,464,1392
+Rank-one ZO-SGD,4,30,73.35,480,1440
+Rank-one ZO-SGD,4,31,100.1,496,1488
+Rank-one ZO-SGD,4,32,114.575,512,1536
+Rank-one ZO-SGD,4,33,126.75,528,1584
+Rank-one ZO-SGD,4,34,118.6,544,1632
+Rank-one ZO-SGD,4,35,129.85,560,1680
+Rank-one ZO-SGD,4,36,131.875,576,1728
+Rank-one ZO-SGD,4,37,153.525,592,1776
+Rank-one ZO-SGD,4,38,191.675,608,1824
+Rank-one ZO-SGD,4,39,218.775,624,1872
+Rank-one ZO-SGD,4,40,247.1,640,1920
+Rank-one ZO-SGD,4,41,284.775,656,1968
+Rank-one ZO-SGD,4,42,288.2,672,2016
+Rank-one ZO-SGD,4,43,300.55,688,2064
+Rank-one ZO-SGD,4,44,327.475,704,2112
+Rank-one ZO-SGD,4,45,314.425,720,2160
+Rank-one ZO-SGD,4,46,375.9,736,2208
+Rank-one ZO-SGD,4,47,386.775,752,2256
+Rank-one ZO-SGD,4,48,408.95,768,2304
+Rank-one ZO-SGD,4,49,417.925,784,2352
+Rank-one ZO-SGD,4,50,430.0,800,2400
+Rank-one ZO-SGD,4,51,458.025,816,2448
+Rank-one ZO-SGD,4,52,461.575,832,2496
+Rank-one ZO-SGD,4,53,479.35,848,2544
+Rank-one ZO-SGD,4,54,480.2,864,2592
+Rank-one ZO-SGD,4,55,472.95,880,2640
+Rank-one ZO-SGD,4,56,481.9,896,2688
+Rank-one ZO-SGD,4,57,493.425,912,2736
+Rank-one ZO-SGD,4,58,494.225,928,2784
+Rank-one ZO-SGD,4,59,494.5,944,2832
+Rank-one ZO-SGD,4,60,495.175,960,2880
+Rank-one ZO-SGD,4,61,494.175,976,2928
+Rank-one ZO-SGD,4,62,496.0,992,2976
+Rank-one ZO-SGD,4,63,495.225,1008,3024
+Rank-one ZO-SGD,4,64,499.425,1024,3072
+Rank-one ZO-SGD,4,65,500.0,1040,3120
+Rank-one ZO-SGD,4,66,498.525,1056,3168
+Rank-one ZO-SGD,4,67,499.25,1072,3216
+Rank-one ZO-SGD,4,68,498.6,1088,3264
+Rank-one ZO-SGD,4,69,500.0,1104,3312
+Rank-one ZO-SGD,4,70,500.0,1120,3360
+DFO-Muon,0,0,19.5,0,0
+DFO-Muon,0,1,20.55,16,48
+DFO-Muon,0,2,21.475,32,96
+DFO-Muon,0,3,21.375,48,144
+DFO-Muon,0,4,22.525,64,192
+DFO-Muon,0,5,22.675,80,240
+DFO-Muon,0,6,23.35,96,288
+DFO-Muon,0,7,23.4,112,336
+DFO-Muon,0,8,24.575,128,384
+DFO-Muon,0,9,26.325,144,432
+DFO-Muon,0,10,29.725,160,480
+DFO-Muon,0,11,31.3,176,528
+DFO-Muon,0,12,35.125,192,576
+DFO-Muon,0,13,41.125,208,624
+DFO-Muon,0,14,55.775,224,672
+DFO-Muon,0,15,63.35,240,720
+DFO-Muon,0,16,79.675,256,768
+DFO-Muon,0,17,95.05,272,816
+DFO-Muon,0,18,104.025,288,864
+DFO-Muon,0,19,122.55,304,912
+DFO-Muon,0,20,139.05,320,960
+DFO-Muon,0,21,168.6,336,1008
+DFO-Muon,0,22,173.125,352,1056
+DFO-Muon,0,23,186.575,368,1104
+DFO-Muon,0,24,211.925,384,1152
+DFO-Muon,0,25,221.475,400,1200
+DFO-Muon,0,26,235.8,416,1248
+DFO-Muon,0,27,264.6,432,1296
+DFO-Muon,0,28,294.85,448,1344
+DFO-Muon,0,29,319.3,464,1392
+DFO-Muon,0,30,357.575,480,1440
+DFO-Muon,0,31,380.325,496,1488
+DFO-Muon,0,32,421.9,512,1536
+DFO-Muon,0,33,434.275,528,1584
+DFO-Muon,0,34,462.175,544,1632
+DFO-Muon,0,35,492.375,560,1680
+DFO-Muon,0,36,500.0,576,1728
+DFO-Muon,0,37,500.0,592,1776
+DFO-Muon,0,38,500.0,608,1824
+DFO-Muon,0,39,500.0,624,1872
+DFO-Muon,0,40,492.275,640,1920
+DFO-Muon,0,41,500.0,656,1968
+DFO-Muon,0,42,500.0,672,2016
+DFO-Muon,0,43,500.0,688,2064
+DFO-Muon,0,44,500.0,704,2112
+DFO-Muon,0,45,500.0,720,2160
+DFO-Muon,0,46,500.0,736,2208
+DFO-Muon,0,47,500.0,752,2256
+DFO-Muon,0,48,500.0,768,2304
+DFO-Muon,0,49,500.0,784,2352
+DFO-Muon,0,50,500.0,800,2400
+DFO-Muon,0,51,500.0,816,2448
+DFO-Muon,0,52,500.0,832,2496
+DFO-Muon,0,53,500.0,848,2544
+DFO-Muon,0,54,500.0,864,2592
+DFO-Muon,0,55,500.0,880,2640
+DFO-Muon,0,56,500.0,896,2688
+DFO-Muon,0,57,500.0,912,2736
+DFO-Muon,0,58,500.0,928,2784
+DFO-Muon,0,59,500.0,944,2832
+DFO-Muon,0,60,500.0,960,2880
+DFO-Muon,0,61,500.0,976,2928
+DFO-Muon,0,62,500.0,992,2976
+DFO-Muon,0,63,500.0,1008,3024
+DFO-Muon,0,64,500.0,1024,3072
+DFO-Muon,0,65,500.0,1040,3120
+DFO-Muon,0,66,500.0,1056,3168
+DFO-Muon,0,67,500.0,1072,3216
+DFO-Muon,0,68,500.0,1088,3264
+DFO-Muon,0,69,500.0,1104,3312
+DFO-Muon,0,70,500.0,1120,3360
+DFO-Muon,1,0,22.85,0,0
+DFO-Muon,1,1,22.95,16,48
+DFO-Muon,1,2,23.375,32,96
+DFO-Muon,1,3,24.025,48,144
+DFO-Muon,1,4,23.05,64,192
+DFO-Muon,1,5,23.4,80,240
+DFO-Muon,1,6,25.725,96,288
+DFO-Muon,1,7,25.725,112,336
+DFO-Muon,1,8,26.35,128,384
+DFO-Muon,1,9,26.65,144,432
+DFO-Muon,1,10,28.625,160,480
+DFO-Muon,1,11,30.075,176,528
+DFO-Muon,1,12,32.6,192,576
+DFO-Muon,1,13,36.2,208,624
+DFO-Muon,1,14,42.3,224,672
+DFO-Muon,1,15,48.025,240,720
+DFO-Muon,1,16,52.6,256,768
+DFO-Muon,1,17,67.05,272,816
+DFO-Muon,1,18,74.725,288,864
+DFO-Muon,1,19,80.625,304,912
+DFO-Muon,1,20,92.1,320,960
+DFO-Muon,1,21,98.425,336,1008
+DFO-Muon,1,22,135.325,352,1056
+DFO-Muon,1,23,202.275,368,1104
+DFO-Muon,1,24,227.55,384,1152
+DFO-Muon,1,25,266.95,400,1200
+DFO-Muon,1,26,304.875,416,1248
+DFO-Muon,1,27,341.4,432,1296
+DFO-Muon,1,28,370.55,448,1344
+DFO-Muon,1,29,409.975,464,1392
+DFO-Muon,1,30,448.35,480,1440
+DFO-Muon,1,31,484.25,496,1488
+DFO-Muon,1,32,493.525,512,1536
+DFO-Muon,1,33,496.175,528,1584
+DFO-Muon,1,34,500.0,544,1632
+DFO-Muon,1,35,500.0,560,1680
+DFO-Muon,1,36,493.6,576,1728
+DFO-Muon,1,37,500.0,592,1776
+DFO-Muon,1,38,500.0,608,1824
+DFO-Muon,1,39,500.0,624,1872
+DFO-Muon,1,40,500.0,640,1920
+DFO-Muon,1,41,500.0,656,1968
+DFO-Muon,1,42,497.2,672,2016
+DFO-Muon,1,43,500.0,688,2064
+DFO-Muon,1,44,500.0,704,2112
+DFO-Muon,1,45,486.125,720,2160
+DFO-Muon,1,46,476.55,736,2208
+DFO-Muon,1,47,495.15,752,2256
+DFO-Muon,1,48,497.2,768,2304
+DFO-Muon,1,49,500.0,784,2352
+DFO-Muon,1,50,500.0,800,2400
+DFO-Muon,1,51,500.0,816,2448
+DFO-Muon,1,52,500.0,832,2496
+DFO-Muon,1,53,500.0,848,2544
+DFO-Muon,1,54,500.0,864,2592
+DFO-Muon,1,55,500.0,880,2640
+DFO-Muon,1,56,500.0,896,2688
+DFO-Muon,1,57,500.0,912,2736
+DFO-Muon,1,58,500.0,928,2784
+DFO-Muon,1,59,500.0,944,2832
+DFO-Muon,1,60,500.0,960,2880
+DFO-Muon,1,61,500.0,976,2928
+DFO-Muon,1,62,500.0,992,2976
+DFO-Muon,1,63,500.0,1008,3024
+DFO-Muon,1,64,499.925,1024,3072
+DFO-Muon,1,65,500.0,1040,3120
+DFO-Muon,1,66,500.0,1056,3168
+DFO-Muon,1,67,500.0,1072,3216
+DFO-Muon,1,68,500.0,1088,3264
+DFO-Muon,1,69,500.0,1104,3312
+DFO-Muon,1,70,500.0,1120,3360
+DFO-Muon,2,0,21.35,0,0
+DFO-Muon,2,1,21.275,16,48
+DFO-Muon,2,2,21.35,32,96
+DFO-Muon,2,3,21.4,48,144
+DFO-Muon,2,4,22.05,64,192
+DFO-Muon,2,5,23.1,80,240
+DFO-Muon,2,6,24.275,96,288
+DFO-Muon,2,7,23.85,112,336
+DFO-Muon,2,8,25.375,128,384
+DFO-Muon,2,9,26.7,144,432
+DFO-Muon,2,10,31.775,160,480
+DFO-Muon,2,11,36.825,176,528
+DFO-Muon,2,12,42.6,192,576
+DFO-Muon,2,13,44.4,208,624
+DFO-Muon,2,14,68.6,224,672
+DFO-Muon,2,15,71.2,240,720
+DFO-Muon,2,16,85.625,256,768
+DFO-Muon,2,17,95.275,272,816
+DFO-Muon,2,18,106.625,288,864
+DFO-Muon,2,19,134.575,304,912
+DFO-Muon,2,20,167.275,320,960
+DFO-Muon,2,21,189.65,336,1008
+DFO-Muon,2,22,228.325,352,1056
+DFO-Muon,2,23,288.975,368,1104
+DFO-Muon,2,24,313.0,384,1152
+DFO-Muon,2,25,333.575,400,1200
+DFO-Muon,2,26,388.55,416,1248
+DFO-Muon,2,27,401.125,432,1296
+DFO-Muon,2,28,435.9,448,1344
+DFO-Muon,2,29,475.225,464,1392
+DFO-Muon,2,30,485.9,480,1440
+DFO-Muon,2,31,491.65,496,1488
+DFO-Muon,2,32,495.125,512,1536
+DFO-Muon,2,33,498.275,528,1584
+DFO-Muon,2,34,497.475,544,1632
+DFO-Muon,2,35,500.0,560,1680
+DFO-Muon,2,36,500.0,576,1728
+DFO-Muon,2,37,500.0,592,1776
+DFO-Muon,2,38,500.0,608,1824
+DFO-Muon,2,39,500.0,624,1872
+DFO-Muon,2,40,500.0,640,1920
+DFO-Muon,2,41,500.0,656,1968
+DFO-Muon,2,42,500.0,672,2016
+DFO-Muon,2,43,500.0,688,2064
+DFO-Muon,2,44,500.0,704,2112
+DFO-Muon,2,45,500.0,720,2160
+DFO-Muon,2,46,500.0,736,2208
+DFO-Muon,2,47,500.0,752,2256
+DFO-Muon,2,48,500.0,768,2304
+DFO-Muon,2,49,500.0,784,2352
+DFO-Muon,2,50,500.0,800,2400
+DFO-Muon,2,51,500.0,816,2448
+DFO-Muon,2,52,500.0,832,2496
+DFO-Muon,2,53,500.0,848,2544
+DFO-Muon,2,54,500.0,864,2592
+DFO-Muon,2,55,500.0,880,2640
+DFO-Muon,2,56,500.0,896,2688
+DFO-Muon,2,57,500.0,912,2736
+DFO-Muon,2,58,500.0,928,2784
+DFO-Muon,2,59,500.0,944,2832
+DFO-Muon,2,60,500.0,960,2880
+DFO-Muon,2,61,500.0,976,2928
+DFO-Muon,2,62,500.0,992,2976
+DFO-Muon,2,63,500.0,1008,3024
+DFO-Muon,2,64,500.0,1024,3072
+DFO-Muon,2,65,500.0,1040,3120
+DFO-Muon,2,66,500.0,1056,3168
+DFO-Muon,2,67,500.0,1072,3216
+DFO-Muon,2,68,500.0,1088,3264
+DFO-Muon,2,69,500.0,1104,3312
+DFO-Muon,2,70,500.0,1120,3360
+DFO-Muon,3,0,22.6,0,0
+DFO-Muon,3,1,22.5,16,48
+DFO-Muon,3,2,22.25,32,96
+DFO-Muon,3,3,22.125,48,144
+DFO-Muon,3,4,22.25,64,192
+DFO-Muon,3,5,22.6,80,240
+DFO-Muon,3,6,22.675,96,288
+DFO-Muon,3,7,22.675,112,336
+DFO-Muon,3,8,22.8,128,384
+DFO-Muon,3,9,23.175,144,432
+DFO-Muon,3,10,23.225,160,480
+DFO-Muon,3,11,23.55,176,528
+DFO-Muon,3,12,23.55,192,576
+DFO-Muon,3,13,24.1,208,624
+DFO-Muon,3,14,27.575,224,672
+DFO-Muon,3,15,25.925,240,720
+DFO-Muon,3,16,29.675,256,768
+DFO-Muon,3,17,32.7,272,816
+DFO-Muon,3,18,36.0,288,864
+DFO-Muon,3,19,40.6,304,912
+DFO-Muon,3,20,47.65,320,960
+DFO-Muon,3,21,54.025,336,1008
+DFO-Muon,3,22,63.725,352,1056
+DFO-Muon,3,23,73.375,368,1104
+DFO-Muon,3,24,81.1,384,1152
+DFO-Muon,3,25,94.05,400,1200
+DFO-Muon,3,26,105.9,416,1248
+DFO-Muon,3,27,120.075,432,1296
+DFO-Muon,3,28,133.475,448,1344
+DFO-Muon,3,29,156.95,464,1392
+DFO-Muon,3,30,150.875,480,1440
+DFO-Muon,3,31,181.6,496,1488
+DFO-Muon,3,32,181.3,512,1536
+DFO-Muon,3,33,215.125,528,1584
+DFO-Muon,3,34,246.575,544,1632
+DFO-Muon,3,35,273.15,560,1680
+DFO-Muon,3,36,294.25,576,1728
+DFO-Muon,3,37,298.8,592,1776
+DFO-Muon,3,38,299.8,608,1824
+DFO-Muon,3,39,318.65,624,1872
+DFO-Muon,3,40,330.925,640,1920
+DFO-Muon,3,41,343.45,656,1968
+DFO-Muon,3,42,376.875,672,2016
+DFO-Muon,3,43,430.175,688,2064
+DFO-Muon,3,44,460.025,704,2112
+DFO-Muon,3,45,488.275,720,2160
+DFO-Muon,3,46,494.825,736,2208
+DFO-Muon,3,47,500.0,752,2256
+DFO-Muon,3,48,500.0,768,2304
+DFO-Muon,3,49,500.0,784,2352
+DFO-Muon,3,50,500.0,800,2400
+DFO-Muon,3,51,500.0,816,2448
+DFO-Muon,3,52,500.0,832,2496
+DFO-Muon,3,53,500.0,848,2544
+DFO-Muon,3,54,500.0,864,2592
+DFO-Muon,3,55,500.0,880,2640
+DFO-Muon,3,56,500.0,896,2688
+DFO-Muon,3,57,500.0,912,2736
+DFO-Muon,3,58,500.0,928,2784
+DFO-Muon,3,59,500.0,944,2832
+DFO-Muon,3,60,500.0,960,2880
+DFO-Muon,3,61,500.0,976,2928
+DFO-Muon,3,62,500.0,992,2976
+DFO-Muon,3,63,500.0,1008,3024
+DFO-Muon,3,64,500.0,1024,3072
+DFO-Muon,3,65,500.0,1040,3120
+DFO-Muon,3,66,500.0,1056,3168
+DFO-Muon,3,67,500.0,1072,3216
+DFO-Muon,3,68,500.0,1088,3264
+DFO-Muon,3,69,500.0,1104,3312
+DFO-Muon,3,70,500.0,1120,3360
+DFO-Muon,4,0,22.375,0,0
+DFO-Muon,4,1,22.375,16,48
+DFO-Muon,4,2,22.625,32,96
+DFO-Muon,4,3,23.6,48,144
+DFO-Muon,4,4,23.725,64,192
+DFO-Muon,4,5,26.325,80,240
+DFO-Muon,4,6,27.3,96,288
+DFO-Muon,4,7,29.0,112,336
+DFO-Muon,4,8,30.0,128,384
+DFO-Muon,4,9,29.925,144,432
+DFO-Muon,4,10,31.45,160,480
+DFO-Muon,4,11,31.125,176,528
+DFO-Muon,4,12,34.05,192,576
+DFO-Muon,4,13,36.075,208,624
+DFO-Muon,4,14,38.2,224,672
+DFO-Muon,4,15,37.025,240,720
+DFO-Muon,4,16,47.75,256,768
+DFO-Muon,4,17,51.325,272,816
+DFO-Muon,4,18,74.9,288,864
+DFO-Muon,4,19,90.3,304,912
+DFO-Muon,4,20,102.3,320,960
+DFO-Muon,4,21,127.575,336,1008
+DFO-Muon,4,22,158.6,352,1056
+DFO-Muon,4,23,226.75,368,1104
+DFO-Muon,4,24,263.925,384,1152
+DFO-Muon,4,25,272.675,400,1200
+DFO-Muon,4,26,290.75,416,1248
+DFO-Muon,4,27,305.225,432,1296
+DFO-Muon,4,28,344.8,448,1344
+DFO-Muon,4,29,423.15,464,1392
+DFO-Muon,4,30,455.9,480,1440
+DFO-Muon,4,31,487.4,496,1488
+DFO-Muon,4,32,487.925,512,1536
+DFO-Muon,4,33,485.7,528,1584
+DFO-Muon,4,34,497.25,544,1632
+DFO-Muon,4,35,500.0,560,1680
+DFO-Muon,4,36,500.0,576,1728
+DFO-Muon,4,37,500.0,592,1776
+DFO-Muon,4,38,500.0,608,1824
+DFO-Muon,4,39,499.225,624,1872
+DFO-Muon,4,40,500.0,640,1920
+DFO-Muon,4,41,500.0,656,1968
+DFO-Muon,4,42,500.0,672,2016
+DFO-Muon,4,43,500.0,688,2064
+DFO-Muon,4,44,500.0,704,2112
+DFO-Muon,4,45,500.0,720,2160
+DFO-Muon,4,46,500.0,736,2208
+DFO-Muon,4,47,500.0,752,2256
+DFO-Muon,4,48,500.0,768,2304
+DFO-Muon,4,49,500.0,784,2352
+DFO-Muon,4,50,500.0,800,2400
+DFO-Muon,4,51,500.0,816,2448
+DFO-Muon,4,52,500.0,832,2496
+DFO-Muon,4,53,500.0,848,2544
+DFO-Muon,4,54,500.0,864,2592
+DFO-Muon,4,55,500.0,880,2640
+DFO-Muon,4,56,500.0,896,2688
+DFO-Muon,4,57,500.0,912,2736
+DFO-Muon,4,58,500.0,928,2784
+DFO-Muon,4,59,500.0,944,2832
+DFO-Muon,4,60,500.0,960,2880
+DFO-Muon,4,61,500.0,976,2928
+DFO-Muon,4,62,500.0,992,2976
+DFO-Muon,4,63,500.0,1008,3024
+DFO-Muon,4,64,500.0,1024,3072
+DFO-Muon,4,65,500.0,1040,3120
+DFO-Muon,4,66,500.0,1056,3168
+DFO-Muon,4,67,500.0,1072,3216
+DFO-Muon,4,68,500.0,1088,3264
+DFO-Muon,4,69,500.0,1104,3312
+DFO-Muon,4,70,500.0,1120,3360
+Enhanced DFO-Muon,0,0,19.5,0,0
+Enhanced DFO-Muon,0,1,20.55,24,48
+Enhanced DFO-Muon,0,2,21.2,48,96
+Enhanced DFO-Muon,0,3,21.525,72,144
+Enhanced DFO-Muon,0,4,20.925,96,192
+Enhanced DFO-Muon,0,5,20.825,120,240
+Enhanced DFO-Muon,0,6,22.05,144,288
+Enhanced DFO-Muon,0,7,23.975,168,336
+Enhanced DFO-Muon,0,8,24.0,192,384
+Enhanced DFO-Muon,0,9,25.175,216,432
+Enhanced DFO-Muon,0,10,24.95,240,480
+Enhanced DFO-Muon,0,11,30.375,264,528
+Enhanced DFO-Muon,0,12,31.0,288,576
+Enhanced DFO-Muon,0,13,33.9,312,624
+Enhanced DFO-Muon,0,14,44.15,336,672
+Enhanced DFO-Muon,0,15,54.975,360,720
+Enhanced DFO-Muon,0,16,69.875,384,768
+Enhanced DFO-Muon,0,17,83.65,408,816
+Enhanced DFO-Muon,0,18,97.625,432,864
+Enhanced DFO-Muon,0,19,134.025,456,912
+Enhanced DFO-Muon,0,20,168.775,480,960
+Enhanced DFO-Muon,0,21,225.125,504,1008
+Enhanced DFO-Muon,0,22,244.025,528,1056
+Enhanced DFO-Muon,0,23,341.725,552,1104
+Enhanced DFO-Muon,0,24,389.275,576,1152
+Enhanced DFO-Muon,0,25,419.425,600,1200
+Enhanced DFO-Muon,0,26,427.475,624,1248
+Enhanced DFO-Muon,0,27,452.525,648,1296
+Enhanced DFO-Muon,0,28,478.95,672,1344
+Enhanced DFO-Muon,0,29,489.55,696,1392
+Enhanced DFO-Muon,0,30,486.3,720,1440
+Enhanced DFO-Muon,0,31,499.6,744,1488
+Enhanced DFO-Muon,0,32,500.0,768,1536
+Enhanced DFO-Muon,0,33,500.0,792,1584
+Enhanced DFO-Muon,0,34,500.0,816,1632
+Enhanced DFO-Muon,0,35,500.0,840,1680
+Enhanced DFO-Muon,0,36,500.0,864,1728
+Enhanced DFO-Muon,0,37,500.0,888,1776
+Enhanced DFO-Muon,0,38,500.0,912,1824
+Enhanced DFO-Muon,0,39,500.0,936,1872
+Enhanced DFO-Muon,0,40,500.0,960,1920
+Enhanced DFO-Muon,0,41,500.0,984,1968
+Enhanced DFO-Muon,0,42,500.0,1008,2016
+Enhanced DFO-Muon,0,43,500.0,1032,2064
+Enhanced DFO-Muon,0,44,500.0,1056,2112
+Enhanced DFO-Muon,0,45,500.0,1080,2160
+Enhanced DFO-Muon,0,46,500.0,1104,2208
+Enhanced DFO-Muon,0,47,500.0,1128,2256
+Enhanced DFO-Muon,0,48,500.0,1152,2304
+Enhanced DFO-Muon,0,49,500.0,1176,2352
+Enhanced DFO-Muon,0,50,500.0,1200,2400
+Enhanced DFO-Muon,0,51,500.0,1224,2448
+Enhanced DFO-Muon,0,52,500.0,1248,2496
+Enhanced DFO-Muon,0,53,500.0,1272,2544
+Enhanced DFO-Muon,0,54,500.0,1296,2592
+Enhanced DFO-Muon,0,55,500.0,1320,2640
+Enhanced DFO-Muon,0,56,500.0,1344,2688
+Enhanced DFO-Muon,0,57,500.0,1368,2736
+Enhanced DFO-Muon,0,58,500.0,1392,2784
+Enhanced DFO-Muon,0,59,500.0,1416,2832
+Enhanced DFO-Muon,0,60,500.0,1440,2880
+Enhanced DFO-Muon,0,61,500.0,1464,2928
+Enhanced DFO-Muon,0,62,500.0,1488,2976
+Enhanced DFO-Muon,0,63,500.0,1512,3024
+Enhanced DFO-Muon,0,64,500.0,1536,3072
+Enhanced DFO-Muon,0,65,500.0,1560,3120
+Enhanced DFO-Muon,0,66,500.0,1584,3168
+Enhanced DFO-Muon,0,67,500.0,1608,3216
+Enhanced DFO-Muon,0,68,500.0,1632,3264
+Enhanced DFO-Muon,0,69,500.0,1656,3312
+Enhanced DFO-Muon,0,70,500.0,1680,3360
+Enhanced DFO-Muon,1,0,22.85,0,0
+Enhanced DFO-Muon,1,1,23.675,24,48
+Enhanced DFO-Muon,1,2,23.7,48,96
+Enhanced DFO-Muon,1,3,24.15,72,144
+Enhanced DFO-Muon,1,4,25.25,96,192
+Enhanced DFO-Muon,1,5,25.35,120,240
+Enhanced DFO-Muon,1,6,28.625,144,288
+Enhanced DFO-Muon,1,7,30.0,168,336
+Enhanced DFO-Muon,1,8,36.775,192,384
+Enhanced DFO-Muon,1,9,39.075,216,432
+Enhanced DFO-Muon,1,10,48.625,240,480
+Enhanced DFO-Muon,1,11,62.275,264,528
+Enhanced DFO-Muon,1,12,72.35,288,576
+Enhanced DFO-Muon,1,13,83.225,312,624
+Enhanced DFO-Muon,1,14,103.5,336,672
+Enhanced DFO-Muon,1,15,105.8,360,720
+Enhanced DFO-Muon,1,16,150.325,384,768
+Enhanced DFO-Muon,1,17,180.525,408,816
+Enhanced DFO-Muon,1,18,237.875,432,864
+Enhanced DFO-Muon,1,19,265.975,456,912
+Enhanced DFO-Muon,1,20,306.425,480,960
+Enhanced DFO-Muon,1,21,374.65,504,1008
+Enhanced DFO-Muon,1,22,404.45,528,1056
+Enhanced DFO-Muon,1,23,436.65,552,1104
+Enhanced DFO-Muon,1,24,492.15,576,1152
+Enhanced DFO-Muon,1,25,492.5,600,1200
+Enhanced DFO-Muon,1,26,496.05,624,1248
+Enhanced DFO-Muon,1,27,496.6,648,1296
+Enhanced DFO-Muon,1,28,500.0,672,1344
+Enhanced DFO-Muon,1,29,500.0,696,1392
+Enhanced DFO-Muon,1,30,500.0,720,1440
+Enhanced DFO-Muon,1,31,500.0,744,1488
+Enhanced DFO-Muon,1,32,500.0,768,1536
+Enhanced DFO-Muon,1,33,500.0,792,1584
+Enhanced DFO-Muon,1,34,500.0,816,1632
+Enhanced DFO-Muon,1,35,500.0,840,1680
+Enhanced DFO-Muon,1,36,500.0,864,1728
+Enhanced DFO-Muon,1,37,500.0,888,1776
+Enhanced DFO-Muon,1,38,500.0,912,1824
+Enhanced DFO-Muon,1,39,500.0,936,1872
+Enhanced DFO-Muon,1,40,500.0,960,1920
+Enhanced DFO-Muon,1,41,500.0,984,1968
+Enhanced DFO-Muon,1,42,500.0,1008,2016
+Enhanced DFO-Muon,1,43,500.0,1032,2064
+Enhanced DFO-Muon,1,44,500.0,1056,2112
+Enhanced DFO-Muon,1,45,500.0,1080,2160
+Enhanced DFO-Muon,1,46,500.0,1104,2208
+Enhanced DFO-Muon,1,47,500.0,1128,2256
+Enhanced DFO-Muon,1,48,500.0,1152,2304
+Enhanced DFO-Muon,1,49,500.0,1176,2352
+Enhanced DFO-Muon,1,50,500.0,1200,2400
+Enhanced DFO-Muon,1,51,500.0,1224,2448
+Enhanced DFO-Muon,1,52,500.0,1248,2496
+Enhanced DFO-Muon,1,53,500.0,1272,2544
+Enhanced DFO-Muon,1,54,500.0,1296,2592
+Enhanced DFO-Muon,1,55,500.0,1320,2640
+Enhanced DFO-Muon,1,56,500.0,1344,2688
+Enhanced DFO-Muon,1,57,500.0,1368,2736
+Enhanced DFO-Muon,1,58,500.0,1392,2784
+Enhanced DFO-Muon,1,59,500.0,1416,2832
+Enhanced DFO-Muon,1,60,500.0,1440,2880
+Enhanced DFO-Muon,1,61,500.0,1464,2928
+Enhanced DFO-Muon,1,62,500.0,1488,2976
+Enhanced DFO-Muon,1,63,500.0,1512,3024
+Enhanced DFO-Muon,1,64,500.0,1536,3072
+Enhanced DFO-Muon,1,65,500.0,1560,3120
+Enhanced DFO-Muon,1,66,500.0,1584,3168
+Enhanced DFO-Muon,1,67,500.0,1608,3216
+Enhanced DFO-Muon,1,68,500.0,1632,3264
+Enhanced DFO-Muon,1,69,500.0,1656,3312
+Enhanced DFO-Muon,1,70,500.0,1680,3360
+Enhanced DFO-Muon,2,0,21.35,0,0
+Enhanced DFO-Muon,2,1,21.4,24,48
+Enhanced DFO-Muon,2,2,21.875,48,96
+Enhanced DFO-Muon,2,3,23.7,72,144
+Enhanced DFO-Muon,2,4,24.35,96,192
+Enhanced DFO-Muon,2,5,26.5,120,240
+Enhanced DFO-Muon,2,6,27.9,144,288
+Enhanced DFO-Muon,2,7,33.65,168,336
+Enhanced DFO-Muon,2,8,36.75,192,384
+Enhanced DFO-Muon,2,9,44.3,216,432
+Enhanced DFO-Muon,2,10,47.95,240,480
+Enhanced DFO-Muon,2,11,69.2,264,528
+Enhanced DFO-Muon,2,12,82.55,288,576
+Enhanced DFO-Muon,2,13,96.3,312,624
+Enhanced DFO-Muon,2,14,120.45,336,672
+Enhanced DFO-Muon,2,15,142.475,360,720
+Enhanced DFO-Muon,2,16,177.425,384,768
+Enhanced DFO-Muon,2,17,195.05,408,816
+Enhanced DFO-Muon,2,18,250.925,432,864
+Enhanced DFO-Muon,2,19,240.65,456,912
+Enhanced DFO-Muon,2,20,264.075,480,960
+Enhanced DFO-Muon,2,21,283.125,504,1008
+Enhanced DFO-Muon,2,22,297.95,528,1056
+Enhanced DFO-Muon,2,23,370.825,552,1104
+Enhanced DFO-Muon,2,24,401.8,576,1152
+Enhanced DFO-Muon,2,25,459.15,600,1200
+Enhanced DFO-Muon,2,26,494.425,624,1248
+Enhanced DFO-Muon,2,27,497.55,648,1296
+Enhanced DFO-Muon,2,28,497.525,672,1344
+Enhanced DFO-Muon,2,29,497.2,696,1392
+Enhanced DFO-Muon,2,30,500.0,720,1440
+Enhanced DFO-Muon,2,31,499.9,744,1488
+Enhanced DFO-Muon,2,32,500.0,768,1536
+Enhanced DFO-Muon,2,33,500.0,792,1584
+Enhanced DFO-Muon,2,34,500.0,816,1632
+Enhanced DFO-Muon,2,35,500.0,840,1680
+Enhanced DFO-Muon,2,36,500.0,864,1728
+Enhanced DFO-Muon,2,37,500.0,888,1776
+Enhanced DFO-Muon,2,38,500.0,912,1824
+Enhanced DFO-Muon,2,39,500.0,936,1872
+Enhanced DFO-Muon,2,40,500.0,960,1920
+Enhanced DFO-Muon,2,41,500.0,984,1968
+Enhanced DFO-Muon,2,42,500.0,1008,2016
+Enhanced DFO-Muon,2,43,500.0,1032,2064
+Enhanced DFO-Muon,2,44,500.0,1056,2112
+Enhanced DFO-Muon,2,45,500.0,1080,2160
+Enhanced DFO-Muon,2,46,500.0,1104,2208
+Enhanced DFO-Muon,2,47,500.0,1128,2256
+Enhanced DFO-Muon,2,48,500.0,1152,2304
+Enhanced DFO-Muon,2,49,500.0,1176,2352
+Enhanced DFO-Muon,2,50,500.0,1200,2400
+Enhanced DFO-Muon,2,51,500.0,1224,2448
+Enhanced DFO-Muon,2,52,500.0,1248,2496
+Enhanced DFO-Muon,2,53,500.0,1272,2544
+Enhanced DFO-Muon,2,54,500.0,1296,2592
+Enhanced DFO-Muon,2,55,500.0,1320,2640
+Enhanced DFO-Muon,2,56,500.0,1344,2688
+Enhanced DFO-Muon,2,57,500.0,1368,2736
+Enhanced DFO-Muon,2,58,500.0,1392,2784
+Enhanced DFO-Muon,2,59,500.0,1416,2832
+Enhanced DFO-Muon,2,60,500.0,1440,2880
+Enhanced DFO-Muon,2,61,500.0,1464,2928
+Enhanced DFO-Muon,2,62,500.0,1488,2976
+Enhanced DFO-Muon,2,63,500.0,1512,3024
+Enhanced DFO-Muon,2,64,500.0,1536,3072
+Enhanced DFO-Muon,2,65,500.0,1560,3120
+Enhanced DFO-Muon,2,66,500.0,1584,3168
+Enhanced DFO-Muon,2,67,500.0,1608,3216
+Enhanced DFO-Muon,2,68,500.0,1632,3264
+Enhanced DFO-Muon,2,69,500.0,1656,3312
+Enhanced DFO-Muon,2,70,500.0,1680,3360
+Enhanced DFO-Muon,3,0,22.6,0,0
+Enhanced DFO-Muon,3,1,22.975,24,48
+Enhanced DFO-Muon,3,2,22.7,48,96
+Enhanced DFO-Muon,3,3,23.075,72,144
+Enhanced DFO-Muon,3,4,23.2,96,192
+Enhanced DFO-Muon,3,5,23.85,120,240
+Enhanced DFO-Muon,3,6,24.7,144,288
+Enhanced DFO-Muon,3,7,24.4,168,336
+Enhanced DFO-Muon,3,8,25.6,192,384
+Enhanced DFO-Muon,3,9,25.75,216,432
+Enhanced DFO-Muon,3,10,25.9,240,480
+Enhanced DFO-Muon,3,11,29.5,264,528
+Enhanced DFO-Muon,3,12,29.775,288,576
+Enhanced DFO-Muon,3,13,32.025,312,624
+Enhanced DFO-Muon,3,14,35.475,336,672
+Enhanced DFO-Muon,3,15,35.45,360,720
+Enhanced DFO-Muon,3,16,35.45,384,768
+Enhanced DFO-Muon,3,17,36.325,408,816
+Enhanced DFO-Muon,3,18,42.275,432,864
+Enhanced DFO-Muon,3,19,44.525,456,912
+Enhanced DFO-Muon,3,20,61.3,480,960
+Enhanced DFO-Muon,3,21,91.0,504,1008
+Enhanced DFO-Muon,3,22,104.4,528,1056
+Enhanced DFO-Muon,3,23,156.45,552,1104
+Enhanced DFO-Muon,3,24,178.225,576,1152
+Enhanced DFO-Muon,3,25,205.775,600,1200
+Enhanced DFO-Muon,3,26,260.45,624,1248
+Enhanced DFO-Muon,3,27,291.6,648,1296
+Enhanced DFO-Muon,3,28,285.175,672,1344
+Enhanced DFO-Muon,3,29,307.0,696,1392
+Enhanced DFO-Muon,3,30,334.55,720,1440
+Enhanced DFO-Muon,3,31,390.075,744,1488
+Enhanced DFO-Muon,3,32,454.6,768,1536
+Enhanced DFO-Muon,3,33,467.525,792,1584
+Enhanced DFO-Muon,3,34,483.625,816,1632
+Enhanced DFO-Muon,3,35,495.65,840,1680
+Enhanced DFO-Muon,3,36,497.775,864,1728
+Enhanced DFO-Muon,3,37,499.3,888,1776
+Enhanced DFO-Muon,3,38,500.0,912,1824
+Enhanced DFO-Muon,3,39,500.0,936,1872
+Enhanced DFO-Muon,3,40,500.0,960,1920
+Enhanced DFO-Muon,3,41,500.0,984,1968
+Enhanced DFO-Muon,3,42,500.0,1008,2016
+Enhanced DFO-Muon,3,43,500.0,1032,2064
+Enhanced DFO-Muon,3,44,500.0,1056,2112
+Enhanced DFO-Muon,3,45,500.0,1080,2160
+Enhanced DFO-Muon,3,46,500.0,1104,2208
+Enhanced DFO-Muon,3,47,500.0,1128,2256
+Enhanced DFO-Muon,3,48,500.0,1152,2304
+Enhanced DFO-Muon,3,49,500.0,1176,2352
+Enhanced DFO-Muon,3,50,500.0,1200,2400
+Enhanced DFO-Muon,3,51,500.0,1224,2448
+Enhanced DFO-Muon,3,52,500.0,1248,2496
+Enhanced DFO-Muon,3,53,500.0,1272,2544
+Enhanced DFO-Muon,3,54,500.0,1296,2592
+Enhanced DFO-Muon,3,55,500.0,1320,2640
+Enhanced DFO-Muon,3,56,500.0,1344,2688
+Enhanced DFO-Muon,3,57,500.0,1368,2736
+Enhanced DFO-Muon,3,58,500.0,1392,2784
+Enhanced DFO-Muon,3,59,500.0,1416,2832
+Enhanced DFO-Muon,3,60,500.0,1440,2880
+Enhanced DFO-Muon,3,61,500.0,1464,2928
+Enhanced DFO-Muon,3,62,500.0,1488,2976
+Enhanced DFO-Muon,3,63,500.0,1512,3024
+Enhanced DFO-Muon,3,64,500.0,1536,3072
+Enhanced DFO-Muon,3,65,500.0,1560,3120
+Enhanced DFO-Muon,3,66,500.0,1584,3168
+Enhanced DFO-Muon,3,67,500.0,1608,3216
+Enhanced DFO-Muon,3,68,500.0,1632,3264
+Enhanced DFO-Muon,3,69,500.0,1656,3312
+Enhanced DFO-Muon,3,70,500.0,1680,3360
+Enhanced DFO-Muon,4,0,22.375,0,0
+Enhanced DFO-Muon,4,1,22.375,24,48
+Enhanced DFO-Muon,4,2,22.375,48,96
+Enhanced DFO-Muon,4,3,24.45,72,144
+Enhanced DFO-Muon,4,4,24.325,96,192
+Enhanced DFO-Muon,4,5,25.3,120,240
+Enhanced DFO-Muon,4,6,27.825,144,288
+Enhanced DFO-Muon,4,7,29.05,168,336
+Enhanced DFO-Muon,4,8,30.2,192,384
+Enhanced DFO-Muon,4,9,33.875,216,432
+Enhanced DFO-Muon,4,10,36.1,240,480
+Enhanced DFO-Muon,4,11,45.975,264,528
+Enhanced DFO-Muon,4,12,60.6,288,576
+Enhanced DFO-Muon,4,13,63.55,312,624
+Enhanced DFO-Muon,4,14,88.175,336,672
+Enhanced DFO-Muon,4,15,111.525,360,720
+Enhanced DFO-Muon,4,16,134.7,384,768
+Enhanced DFO-Muon,4,17,229.25,408,816
+Enhanced DFO-Muon,4,18,282.225,432,864
+Enhanced DFO-Muon,4,19,357.05,456,912
+Enhanced DFO-Muon,4,20,398.225,480,960
+Enhanced DFO-Muon,4,21,352.75,504,1008
+Enhanced DFO-Muon,4,22,425.95,528,1056
+Enhanced DFO-Muon,4,23,470.225,552,1104
+Enhanced DFO-Muon,4,24,493.0,576,1152
+Enhanced DFO-Muon,4,25,493.825,600,1200
+Enhanced DFO-Muon,4,26,490.875,624,1248
+Enhanced DFO-Muon,4,27,500.0,648,1296
+Enhanced DFO-Muon,4,28,489.15,672,1344
+Enhanced DFO-Muon,4,29,500.0,696,1392
+Enhanced DFO-Muon,4,30,500.0,720,1440
+Enhanced DFO-Muon,4,31,500.0,744,1488
+Enhanced DFO-Muon,4,32,500.0,768,1536
+Enhanced DFO-Muon,4,33,500.0,792,1584
+Enhanced DFO-Muon,4,34,500.0,816,1632
+Enhanced DFO-Muon,4,35,500.0,840,1680
+Enhanced DFO-Muon,4,36,500.0,864,1728
+Enhanced DFO-Muon,4,37,500.0,888,1776
+Enhanced DFO-Muon,4,38,500.0,912,1824
+Enhanced DFO-Muon,4,39,500.0,936,1872
+Enhanced DFO-Muon,4,40,500.0,960,1920
+Enhanced DFO-Muon,4,41,500.0,984,1968
+Enhanced DFO-Muon,4,42,500.0,1008,2016
+Enhanced DFO-Muon,4,43,500.0,1032,2064
+Enhanced DFO-Muon,4,44,500.0,1056,2112
+Enhanced DFO-Muon,4,45,500.0,1080,2160
+Enhanced DFO-Muon,4,46,500.0,1104,2208
+Enhanced DFO-Muon,4,47,500.0,1128,2256
+Enhanced DFO-Muon,4,48,500.0,1152,2304
+Enhanced DFO-Muon,4,49,500.0,1176,2352
+Enhanced DFO-Muon,4,50,500.0,1200,2400
+Enhanced DFO-Muon,4,51,500.0,1224,2448
+Enhanced DFO-Muon,4,52,500.0,1248,2496
+Enhanced DFO-Muon,4,53,500.0,1272,2544
+Enhanced DFO-Muon,4,54,500.0,1296,2592
+Enhanced DFO-Muon,4,55,500.0,1320,2640
+Enhanced DFO-Muon,4,56,500.0,1344,2688
+Enhanced DFO-Muon,4,57,500.0,1368,2736
+Enhanced DFO-Muon,4,58,500.0,1392,2784
+Enhanced DFO-Muon,4,59,500.0,1416,2832
+Enhanced DFO-Muon,4,60,500.0,1440,2880
+Enhanced DFO-Muon,4,61,500.0,1464,2928
+Enhanced DFO-Muon,4,62,500.0,1488,2976
+Enhanced DFO-Muon,4,63,500.0,1512,3024
+Enhanced DFO-Muon,4,64,500.0,1536,3072
+Enhanced DFO-Muon,4,65,500.0,1560,3120
+Enhanced DFO-Muon,4,66,500.0,1584,3168
+Enhanced DFO-Muon,4,67,500.0,1608,3216
+Enhanced DFO-Muon,4,68,500.0,1632,3264
+Enhanced DFO-Muon,4,69,500.0,1656,3312
+Enhanced DFO-Muon,4,70,500.0,1680,3360

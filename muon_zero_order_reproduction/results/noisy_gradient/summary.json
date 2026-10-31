@@ -1,0 +1,90 @@
+{
+  "case": {
+    "id": 5,
+    "m": 8,
+    "n": 8,
+    "samples": 256,
+    "target_rank": 2,
+    "noise_std": 0.01,
+    "regularization": 0.0001,
+    "learning_rate": 0.035,
+    "seed": 5505
+  },
+  "iterations": 200,
+  "beta": 0.9,
+  "fd_radius": 0.0001,
+  "probes": 4,
+  "gradient_noise_definition": "iid N(0, (sigma*||G(W0)||_F/sqrt(m*n))^2) per entry per iteration",
+  "results": [
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.0,
+      "median_final_objective": 0.004601186889978715,
+      "q25_final_objective": 0.004601186889978715,
+      "q75_final_objective": 0.004601186889978715,
+      "median_recovery_error": 0.033468124510639505,
+      "function_evaluations": 201,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.1,
+      "median_final_objective": 0.02935204136721023,
+      "q25_final_objective": 0.02567459473089398,
+      "q75_final_objective": 0.03173328541451204,
+      "median_recovery_error": 0.08952594574611378,
+      "function_evaluations": 201,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.3,
+      "median_final_objective": 0.08593004937945904,
+      "q25_final_objective": 0.07540968482768795,
+      "q75_final_objective": 0.09603381980260053,
+      "median_recovery_error": 0.15384629072536882,
+      "function_evaluations": 201,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 1.0,
+      "median_final_objective": 0.2726283342018151,
+      "q25_final_objective": 0.2375280570651516,
+      "q75_final_objective": 0.29065539835324716,
+      "median_recovery_error": 0.27926015544747385,
+      "function_evaluations": 201,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 3.0,
+      "median_final_objective": 0.8621383725200686,
+      "q25_final_objective": 0.7401062922176975,
+      "q75_final_objective": 0.954608520149552,
+      "median_recovery_error": 0.49762154786348517,
+      "function_evaluations": 201,
+      "repetitions": 30
+    },
+    {
+      "method": "Low-rank DFO-Muon",
+      "noise_level": null,
+      "median_final_objective": 0.31350387533731805,
+      "q25_final_objective": 0.26558269556659375,
+      "q75_final_objective": 0.35058553375105383,
+      "median_recovery_error": 0.2975124228734518,
+      "function_evaluations": 1001,
+      "repetitions": 30
+    },
+    {
+      "method": "Entrywise DFO-Muon",
+      "noise_level": null,
+      "median_final_objective": 0.005335917802220431,
+      "q25_final_objective": 0.005335917802220431,
+      "q75_final_objective": 0.005335917802220431,
+      "median_recovery_error": 0.0374619040954429,
+      "function_evaluations": 13001,
+      "repetitions": 1
+    }
+  ]
+}

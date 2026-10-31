@@ -1,0 +1,1776 @@
+method,seed,iteration,return,policy_evaluations,episodes
+Policy-gradient Muon,0,0,19.5,0,0
+Policy-gradient Muon,0,1,21.2,1,48
+Policy-gradient Muon,0,2,21.65,2,96
+Policy-gradient Muon,0,3,22.675,3,144
+Policy-gradient Muon,0,4,23.4,4,192
+Policy-gradient Muon,0,5,24.9,5,240
+Policy-gradient Muon,0,6,27.175,6,288
+Policy-gradient Muon,0,7,30.95,7,336
+Policy-gradient Muon,0,8,41.775,8,384
+Policy-gradient Muon,0,9,55.2,9,432
+Policy-gradient Muon,0,10,72.025,10,480
+Policy-gradient Muon,0,11,95.325,11,528
+Policy-gradient Muon,0,12,95.4,12,576
+Policy-gradient Muon,0,13,152.625,13,624
+Policy-gradient Muon,0,14,191.175,14,672
+Policy-gradient Muon,0,15,225.025,15,720
+Policy-gradient Muon,0,16,262.675,16,768
+Policy-gradient Muon,0,17,306.25,17,816
+Policy-gradient Muon,0,18,382.375,18,864
+Policy-gradient Muon,0,19,440.75,19,912
+Policy-gradient Muon,0,20,479.5,20,960
+Policy-gradient Muon,0,21,478.775,21,1008
+Policy-gradient Muon,0,22,488.7,22,1056
+Policy-gradient Muon,0,23,494.575,23,1104
+Policy-gradient Muon,0,24,500.0,24,1152
+Policy-gradient Muon,0,25,500.0,25,1200
+Policy-gradient Muon,0,26,500.0,26,1248
+Policy-gradient Muon,0,27,500.0,27,1296
+Policy-gradient Muon,0,28,500.0,28,1344
+Policy-gradient Muon,0,29,500.0,29,1392
+Policy-gradient Muon,0,30,500.0,30,1440
+Policy-gradient Muon,0,31,500.0,31,1488
+Policy-gradient Muon,0,32,500.0,32,1536
+Policy-gradient Muon,0,33,500.0,33,1584
+Policy-gradient Muon,0,34,500.0,34,1632
+Policy-gradient Muon,0,35,500.0,35,1680
+Policy-gradient Muon,0,36,500.0,36,1728
+Policy-gradient Muon,0,37,500.0,37,1776
+Policy-gradient Muon,0,38,500.0,38,1824
+Policy-gradient Muon,0,39,500.0,39,1872
+Policy-gradient Muon,0,40,500.0,40,1920
+Policy-gradient Muon,0,41,500.0,41,1968
+Policy-gradient Muon,0,42,500.0,42,2016
+Policy-gradient Muon,0,43,500.0,43,2064
+Policy-gradient Muon,0,44,500.0,44,2112
+Policy-gradient Muon,0,45,500.0,45,2160
+Policy-gradient Muon,0,46,500.0,46,2208
+Policy-gradient Muon,0,47,500.0,47,2256
+Policy-gradient Muon,0,48,500.0,48,2304
+Policy-gradient Muon,0,49,500.0,49,2352
+Policy-gradient Muon,0,50,500.0,50,2400
+Policy-gradient Muon,0,51,500.0,51,2448
+Policy-gradient Muon,0,52,500.0,52,2496
+Policy-gradient Muon,0,53,500.0,53,2544
+Policy-gradient Muon,0,54,500.0,54,2592
+Policy-gradient Muon,0,55,500.0,55,2640
+Policy-gradient Muon,0,56,500.0,56,2688
+Policy-gradient Muon,0,57,500.0,57,2736
+Policy-gradient Muon,0,58,500.0,58,2784
+Policy-gradient Muon,0,59,500.0,59,2832
+Policy-gradient Muon,0,60,500.0,60,2880
+Policy-gradient Muon,0,61,500.0,61,2928
+Policy-gradient Muon,0,62,500.0,62,2976
+Policy-gradient Muon,0,63,500.0,63,3024
+Policy-gradient Muon,0,64,500.0,64,3072
+Policy-gradient Muon,0,65,500.0,65,3120
+Policy-gradient Muon,0,66,500.0,66,3168
+Policy-gradient Muon,0,67,500.0,67,3216
+Policy-gradient Muon,0,68,500.0,68,3264
+Policy-gradient Muon,0,69,500.0,69,3312
+Policy-gradient Muon,0,70,500.0,70,3360
+Policy-gradient Muon,1,0,22.85,0,0
+Policy-gradient Muon,1,1,23.7,1,48
+Policy-gradient Muon,1,2,23.6,2,96
+Policy-gradient Muon,1,3,25.5,3,144
+Policy-gradient Muon,1,4,26.675,4,192
+Policy-gradient Muon,1,5,30.75,5,240
+Policy-gradient Muon,1,6,32.65,6,288
+Policy-gradient Muon,1,7,39.1,7,336
+Policy-gradient Muon,1,8,45.65,8,384
+Policy-gradient Muon,1,9,52.175,9,432
+Policy-gradient Muon,1,10,66.525,10,480
+Policy-gradient Muon,1,11,87.625,11,528
+Policy-gradient Muon,1,12,105.025,12,576
+Policy-gradient Muon,1,13,138.725,13,624
+Policy-gradient Muon,1,14,169.75,14,672
+Policy-gradient Muon,1,15,202.35,15,720
+Policy-gradient Muon,1,16,256.85,16,768
+Policy-gradient Muon,1,17,339.975,17,816
+Policy-gradient Muon,1,18,385.7,18,864
+Policy-gradient Muon,1,19,436.5,19,912
+Policy-gradient Muon,1,20,464.675,20,960
+Policy-gradient Muon,1,21,480.65,21,1008
+Policy-gradient Muon,1,22,495.425,22,1056
+Policy-gradient Muon,1,23,500.0,23,1104
+Policy-gradient Muon,1,24,500.0,24,1152
+Policy-gradient Muon,1,25,494.2,25,1200
+Policy-gradient Muon,1,26,500.0,26,1248
+Policy-gradient Muon,1,27,500.0,27,1296
+Policy-gradient Muon,1,28,500.0,28,1344
+Policy-gradient Muon,1,29,500.0,29,1392
+Policy-gradient Muon,1,30,500.0,30,1440
+Policy-gradient Muon,1,31,500.0,31,1488
+Policy-gradient Muon,1,32,500.0,32,1536
+Policy-gradient Muon,1,33,500.0,33,1584
+Policy-gradient Muon,1,34,500.0,34,1632
+Policy-gradient Muon,1,35,500.0,35,1680
+Policy-gradient Muon,1,36,500.0,36,1728
+Policy-gradient Muon,1,37,500.0,37,1776
+Policy-gradient Muon,1,38,500.0,38,1824
+Policy-gradient Muon,1,39,500.0,39,1872
+Policy-gradient Muon,1,40,500.0,40,1920
+Policy-gradient Muon,1,41,500.0,41,1968
+Policy-gradient Muon,1,42,500.0,42,2016
+Policy-gradient Muon,1,43,500.0,43,2064
+Policy-gradient Muon,1,44,500.0,44,2112
+Policy-gradient Muon,1,45,500.0,45,2160
+Policy-gradient Muon,1,46,500.0,46,2208
+Policy-gradient Muon,1,47,500.0,47,2256
+Policy-gradient Muon,1,48,500.0,48,2304
+Policy-gradient Muon,1,49,500.0,49,2352
+Policy-gradient Muon,1,50,500.0,50,2400
+Policy-gradient Muon,1,51,500.0,51,2448
+Policy-gradient Muon,1,52,500.0,52,2496
+Policy-gradient Muon,1,53,500.0,53,2544
+Policy-gradient Muon,1,54,500.0,54,2592
+Policy-gradient Muon,1,55,500.0,55,2640
+Policy-gradient Muon,1,56,500.0,56,2688
+Policy-gradient Muon,1,57,500.0,57,2736
+Policy-gradient Muon,1,58,500.0,58,2784
+Policy-gradient Muon,1,59,500.0,59,2832
+Policy-gradient Muon,1,60,500.0,60,2880
+Policy-gradient Muon,1,61,500.0,61,2928
+Policy-gradient Muon,1,62,500.0,62,2976
+Policy-gradient Muon,1,63,500.0,63,3024
+Policy-gradient Muon,1,64,500.0,64,3072
+Policy-gradient Muon,1,65,500.0,65,3120
+Policy-gradient Muon,1,66,500.0,66,3168
+Policy-gradient Muon,1,67,500.0,67,3216
+Policy-gradient Muon,1,68,500.0,68,3264
+Policy-gradient Muon,1,69,500.0,69,3312
+Policy-gradient Muon,1,70,500.0,70,3360
+Policy-gradient Muon,2,0,21.35,0,0
+Policy-gradient Muon,2,1,21.675,1,48
+Policy-gradient Muon,2,2,22.85,2,96
+Policy-gradient Muon,2,3,24.5,3,144
+Policy-gradient Muon,2,4,26.225,4,192
+Policy-gradient Muon,2,5,28.775,5,240
+Policy-gradient Muon,2,6,32.85,6,288
+Policy-gradient Muon,2,7,36.05,7,336
+Policy-gradient Muon,2,8,44.5,8,384
+Policy-gradient Muon,2,9,54.825,9,432
+Policy-gradient Muon,2,10,72.15,10,480
+Policy-gradient Muon,2,11,96.1,11,528
+Policy-gradient Muon,2,12,116.275,12,576
+Policy-gradient Muon,2,13,136.9,13,624
+Policy-gradient Muon,2,14,183.975,14,672
+Policy-gradient Muon,2,15,235.3,15,720
+Policy-gradient Muon,2,16,249.475,16,768
+Policy-gradient Muon,2,17,343.275,17,816
+Policy-gradient Muon,2,18,383.95,18,864
+Policy-gradient Muon,2,19,426.675,19,912
+Policy-gradient Muon,2,20,456.175,20,960
+Policy-gradient Muon,2,21,491.0,21,1008
+Policy-gradient Muon,2,22,496.4,22,1056
+Policy-gradient Muon,2,23,500.0,23,1104
+Policy-gradient Muon,2,24,500.0,24,1152
+Policy-gradient Muon,2,25,500.0,25,1200
+Policy-gradient Muon,2,26,497.525,26,1248
+Policy-gradient Muon,2,27,500.0,27,1296
+Policy-gradient Muon,2,28,500.0,28,1344
+Policy-gradient Muon,2,29,500.0,29,1392
+Policy-gradient Muon,2,30,500.0,30,1440
+Policy-gradient Muon,2,31,500.0,31,1488
+Policy-gradient Muon,2,32,500.0,32,1536
+Policy-gradient Muon,2,33,500.0,33,1584
+Policy-gradient Muon,2,34,500.0,34,1632
+Policy-gradient Muon,2,35,500.0,35,1680
+Policy-gradient Muon,2,36,500.0,36,1728
+Policy-gradient Muon,2,37,500.0,37,1776
+Policy-gradient Muon,2,38,500.0,38,1824
+Policy-gradient Muon,2,39,500.0,39,1872
+Policy-gradient Muon,2,40,500.0,40,1920
+Policy-gradient Muon,2,41,500.0,41,1968
+Policy-gradient Muon,2,42,500.0,42,2016
+Policy-gradient Muon,2,43,500.0,43,2064
+Policy-gradient Muon,2,44,500.0,44,2112
+Policy-gradient Muon,2,45,500.0,45,2160
+Policy-gradient Muon,2,46,500.0,46,2208
+Policy-gradient Muon,2,47,500.0,47,2256
+Policy-gradient Muon,2,48,500.0,48,2304
+Policy-gradient Muon,2,49,500.0,49,2352
+Policy-gradient Muon,2,50,500.0,50,2400
+Policy-gradient Muon,2,51,500.0,51,2448
+Policy-gradient Muon,2,52,500.0,52,2496
+Policy-gradient Muon,2,53,500.0,53,2544
+Policy-gradient Muon,2,54,500.0,54,2592
+Policy-gradient Muon,2,55,500.0,55,2640
+Policy-gradient Muon,2,56,500.0,56,2688
+Policy-gradient Muon,2,57,500.0,57,2736
+Policy-gradient Muon,2,58,500.0,58,2784
+Policy-gradient Muon,2,59,500.0,59,2832
+Policy-gradient Muon,2,60,500.0,60,2880
+Policy-gradient Muon,2,61,500.0,61,2928
+Policy-gradient Muon,2,62,500.0,62,2976
+Policy-gradient Muon,2,63,500.0,63,3024
+Policy-gradient Muon,2,64,500.0,64,3072
+Policy-gradient Muon,2,65,500.0,65,3120
+Policy-gradient Muon,2,66,500.0,66,3168
+Policy-gradient Muon,2,67,500.0,67,3216
+Policy-gradient Muon,2,68,500.0,68,3264
+Policy-gradient Muon,2,69,500.0,69,3312
+Policy-gradient Muon,2,70,500.0,70,3360
+Policy-gradient Muon,3,0,22.6,0,0
+Policy-gradient Muon,3,1,23.125,1,48
+Policy-gradient Muon,3,2,23.15,2,96
+Policy-gradient Muon,3,3,24.3,3,144
+Policy-gradient Muon,3,4,25.5,4,192
+Policy-gradient Muon,3,5,24.625,5,240
+Policy-gradient Muon,3,6,28.2,6,288
+Policy-gradient Muon,3,7,31.675,7,336
+Policy-gradient Muon,3,8,32.875,8,384
+Policy-gradient Muon,3,9,43.3,9,432
+Policy-gradient Muon,3,10,47.175,10,480
+Policy-gradient Muon,3,11,62.85,11,528
+Policy-gradient Muon,3,12,87.95,12,576
+Policy-gradient Muon,3,13,141.75,13,624
+Policy-gradient Muon,3,14,184.075,14,672
+Policy-gradient Muon,3,15,210.65,15,720
+Policy-gradient Muon,3,16,251.25,16,768
+Policy-gradient Muon,3,17,323.85,17,816
+Policy-gradient Muon,3,18,418.1,18,864
+Policy-gradient Muon,3,19,460.0,19,912
+Policy-gradient Muon,3,20,458.8,20,960
+Policy-gradient Muon,3,21,480.6,21,1008
+Policy-gradient Muon,3,22,487.425,22,1056
+Policy-gradient Muon,3,23,500.0,23,1104
+Policy-gradient Muon,3,24,500.0,24,1152
+Policy-gradient Muon,3,25,500.0,25,1200
+Policy-gradient Muon,3,26,500.0,26,1248
+Policy-gradient Muon,3,27,500.0,27,1296
+Policy-gradient Muon,3,28,500.0,28,1344
+Policy-gradient Muon,3,29,500.0,29,1392
+Policy-gradient Muon,3,30,500.0,30,1440
+Policy-gradient Muon,3,31,500.0,31,1488
+Policy-gradient Muon,3,32,500.0,32,1536
+Policy-gradient Muon,3,33,500.0,33,1584
+Policy-gradient Muon,3,34,500.0,34,1632
+Policy-gradient Muon,3,35,500.0,35,1680
+Policy-gradient Muon,3,36,500.0,36,1728
+Policy-gradient Muon,3,37,500.0,37,1776
+Policy-gradient Muon,3,38,500.0,38,1824
+Policy-gradient Muon,3,39,500.0,39,1872
+Policy-gradient Muon,3,40,500.0,40,1920
+Policy-gradient Muon,3,41,500.0,41,1968
+Policy-gradient Muon,3,42,500.0,42,2016
+Policy-gradient Muon,3,43,500.0,43,2064
+Policy-gradient Muon,3,44,500.0,44,2112
+Policy-gradient Muon,3,45,500.0,45,2160
+Policy-gradient Muon,3,46,500.0,46,2208
+Policy-gradient Muon,3,47,500.0,47,2256
+Policy-gradient Muon,3,48,500.0,48,2304
+Policy-gradient Muon,3,49,500.0,49,2352
+Policy-gradient Muon,3,50,500.0,50,2400
+Policy-gradient Muon,3,51,500.0,51,2448
+Policy-gradient Muon,3,52,500.0,52,2496
+Policy-gradient Muon,3,53,500.0,53,2544
+Policy-gradient Muon,3,54,500.0,54,2592
+Policy-gradient Muon,3,55,500.0,55,2640
+Policy-gradient Muon,3,56,500.0,56,2688
+Policy-gradient Muon,3,57,500.0,57,2736
+Policy-gradient Muon,3,58,500.0,58,2784
+Policy-gradient Muon,3,59,500.0,59,2832
+Policy-gradient Muon,3,60,500.0,60,2880
+Policy-gradient Muon,3,61,500.0,61,2928
+Policy-gradient Muon,3,62,500.0,62,2976
+Policy-gradient Muon,3,63,500.0,63,3024
+Policy-gradient Muon,3,64,500.0,64,3072
+Policy-gradient Muon,3,65,500.0,65,3120
+Policy-gradient Muon,3,66,500.0,66,3168
+Policy-gradient Muon,3,67,500.0,67,3216
+Policy-gradient Muon,3,68,500.0,68,3264
+Policy-gradient Muon,3,69,500.0,69,3312
+Policy-gradient Muon,3,70,500.0,70,3360
+Policy-gradient Muon,4,0,22.375,0,0
+Policy-gradient Muon,4,1,22.625,1,48
+Policy-gradient Muon,4,2,23.95,2,96
+Policy-gradient Muon,4,3,26.95,3,144
+Policy-gradient Muon,4,4,28.9,4,192
+Policy-gradient Muon,4,5,30.4,5,240
+Policy-gradient Muon,4,6,33.275,6,288
+Policy-gradient Muon,4,7,37.125,7,336
+Policy-gradient Muon,4,8,48.15,8,384
+Policy-gradient Muon,4,9,85.375,9,432
+Policy-gradient Muon,4,10,84.825,10,480
+Policy-gradient Muon,4,11,112.075,11,528
+Policy-gradient Muon,4,12,154.8,12,576
+Policy-gradient Muon,4,13,241.15,13,624
+Policy-gradient Muon,4,14,262.8,14,672
+Policy-gradient Muon,4,15,348.25,15,720
+Policy-gradient Muon,4,16,377.0,16,768
+Policy-gradient Muon,4,17,400.85,17,816
+Policy-gradient Muon,4,18,432.425,18,864
+Policy-gradient Muon,4,19,479.375,19,912
+Policy-gradient Muon,4,20,476.4,20,960
+Policy-gradient Muon,4,21,495.65,21,1008
+Policy-gradient Muon,4,22,494.925,22,1056
+Policy-gradient Muon,4,23,500.0,23,1104
+Policy-gradient Muon,4,24,500.0,24,1152
+Policy-gradient Muon,4,25,497.05,25,1200
+Policy-gradient Muon,4,26,500.0,26,1248
+Policy-gradient Muon,4,27,500.0,27,1296
+Policy-gradient Muon,4,28,500.0,28,1344
+Policy-gradient Muon,4,29,500.0,29,1392
+Policy-gradient Muon,4,30,500.0,30,1440
+Policy-gradient Muon,4,31,500.0,31,1488
+Policy-gradient Muon,4,32,500.0,32,1536
+Policy-gradient Muon,4,33,500.0,33,1584
+Policy-gradient Muon,4,34,500.0,34,1632
+Policy-gradient Muon,4,35,500.0,35,1680
+Policy-gradient Muon,4,36,500.0,36,1728
+Policy-gradient Muon,4,37,500.0,37,1776
+Policy-gradient Muon,4,38,500.0,38,1824
+Policy-gradient Muon,4,39,500.0,39,1872
+Policy-gradient Muon,4,40,500.0,40,1920
+Policy-gradient Muon,4,41,500.0,41,1968
+Policy-gradient Muon,4,42,500.0,42,2016
+Policy-gradient Muon,4,43,500.0,43,2064
+Policy-gradient Muon,4,44,500.0,44,2112
+Policy-gradient Muon,4,45,500.0,45,2160
+Policy-gradient Muon,4,46,500.0,46,2208
+Policy-gradient Muon,4,47,500.0,47,2256
+Policy-gradient Muon,4,48,500.0,48,2304
+Policy-gradient Muon,4,49,500.0,49,2352
+Policy-gradient Muon,4,50,500.0,50,2400
+Policy-gradient Muon,4,51,500.0,51,2448
+Policy-gradient Muon,4,52,500.0,52,2496
+Policy-gradient Muon,4,53,500.0,53,2544
+Policy-gradient Muon,4,54,500.0,54,2592
+Policy-gradient Muon,4,55,500.0,55,2640
+Policy-gradient Muon,4,56,500.0,56,2688
+Policy-gradient Muon,4,57,500.0,57,2736
+Policy-gradient Muon,4,58,500.0,58,2784
+Policy-gradient Muon,4,59,500.0,59,2832
+Policy-gradient Muon,4,60,500.0,60,2880
+Policy-gradient Muon,4,61,500.0,61,2928
+Policy-gradient Muon,4,62,500.0,62,2976
+Policy-gradient Muon,4,63,500.0,63,3024
+Policy-gradient Muon,4,64,500.0,64,3072
+Policy-gradient Muon,4,65,500.0,65,3120
+Policy-gradient Muon,4,66,500.0,66,3168
+Policy-gradient Muon,4,67,500.0,67,3216
+Policy-gradient Muon,4,68,500.0,68,3264
+Policy-gradient Muon,4,69,500.0,69,3312
+Policy-gradient Muon,4,70,500.0,70,3360
+Enhanced DFO-Muon,0,0,19.5,0,0
+Enhanced DFO-Muon,0,1,20.55,24,48
+Enhanced DFO-Muon,0,2,21.2,48,96
+Enhanced DFO-Muon,0,3,21.525,72,144
+Enhanced DFO-Muon,0,4,20.925,96,192
+Enhanced DFO-Muon,0,5,20.825,120,240
+Enhanced DFO-Muon,0,6,22.05,144,288
+Enhanced DFO-Muon,0,7,23.975,168,336
+Enhanced DFO-Muon,0,8,24.0,192,384
+Enhanced DFO-Muon,0,9,25.175,216,432
+Enhanced DFO-Muon,0,10,24.95,240,480
+Enhanced DFO-Muon,0,11,30.375,264,528
+Enhanced DFO-Muon,0,12,31.0,288,576
+Enhanced DFO-Muon,0,13,33.9,312,624
+Enhanced DFO-Muon,0,14,44.15,336,672
+Enhanced DFO-Muon,0,15,54.975,360,720
+Enhanced DFO-Muon,0,16,69.875,384,768
+Enhanced DFO-Muon,0,17,83.65,408,816
+Enhanced DFO-Muon,0,18,97.625,432,864
+Enhanced DFO-Muon,0,19,134.025,456,912
+Enhanced DFO-Muon,0,20,168.775,480,960
+Enhanced DFO-Muon,0,21,225.125,504,1008
+Enhanced DFO-Muon,0,22,244.025,528,1056
+Enhanced DFO-Muon,0,23,341.725,552,1104
+Enhanced DFO-Muon,0,24,389.275,576,1152
+Enhanced DFO-Muon,0,25,419.425,600,1200
+Enhanced DFO-Muon,0,26,427.475,624,1248
+Enhanced DFO-Muon,0,27,452.525,648,1296
+Enhanced DFO-Muon,0,28,478.95,672,1344
+Enhanced DFO-Muon,0,29,489.55,696,1392
+Enhanced DFO-Muon,0,30,486.3,720,1440
+Enhanced DFO-Muon,0,31,499.6,744,1488
+Enhanced DFO-Muon,0,32,500.0,768,1536
+Enhanced DFO-Muon,0,33,500.0,792,1584
+Enhanced DFO-Muon,0,34,500.0,816,1632
+Enhanced DFO-Muon,0,35,500.0,840,1680
+Enhanced DFO-Muon,0,36,500.0,864,1728
+Enhanced DFO-Muon,0,37,500.0,888,1776
+Enhanced DFO-Muon,0,38,500.0,912,1824
+Enhanced DFO-Muon,0,39,500.0,936,1872
+Enhanced DFO-Muon,0,40,500.0,960,1920
+Enhanced DFO-Muon,0,41,500.0,984,1968
+Enhanced DFO-Muon,0,42,500.0,1008,2016
+Enhanced DFO-Muon,0,43,500.0,1032,2064
+Enhanced DFO-Muon,0,44,500.0,1056,2112
+Enhanced DFO-Muon,0,45,500.0,1080,2160
+Enhanced DFO-Muon,0,46,500.0,1104,2208
+Enhanced DFO-Muon,0,47,500.0,1128,2256
+Enhanced DFO-Muon,0,48,500.0,1152,2304
+Enhanced DFO-Muon,0,49,500.0,1176,2352
+Enhanced DFO-Muon,0,50,500.0,1200,2400
+Enhanced DFO-Muon,0,51,500.0,1224,2448
+Enhanced DFO-Muon,0,52,500.0,1248,2496
+Enhanced DFO-Muon,0,53,500.0,1272,2544
+Enhanced DFO-Muon,0,54,500.0,1296,2592
+Enhanced DFO-Muon,0,55,500.0,1320,2640
+Enhanced DFO-Muon,0,56,500.0,1344,2688
+Enhanced DFO-Muon,0,57,500.0,1368,2736
+Enhanced DFO-Muon,0,58,500.0,1392,2784
+Enhanced DFO-Muon,0,59,500.0,1416,2832
+Enhanced DFO-Muon,0,60,500.0,1440,2880
+Enhanced DFO-Muon,0,61,500.0,1464,2928
+Enhanced DFO-Muon,0,62,500.0,1488,2976
+Enhanced DFO-Muon,0,63,500.0,1512,3024
+Enhanced DFO-Muon,0,64,500.0,1536,3072
+Enhanced DFO-Muon,0,65,500.0,1560,3120
+Enhanced DFO-Muon,0,66,500.0,1584,3168
+Enhanced DFO-Muon,0,67,500.0,1608,3216
+Enhanced DFO-Muon,0,68,500.0,1632,3264
+Enhanced DFO-Muon,0,69,500.0,1656,3312
+Enhanced DFO-Muon,0,70,500.0,1680,3360
+Enhanced DFO-Muon,1,0,22.85,0,0
+Enhanced DFO-Muon,1,1,23.675,24,48
+Enhanced DFO-Muon,1,2,23.7,48,96
+Enhanced DFO-Muon,1,3,24.15,72,144
+Enhanced DFO-Muon,1,4,25.25,96,192
+Enhanced DFO-Muon,1,5,25.35,120,240
+Enhanced DFO-Muon,1,6,28.625,144,288
+Enhanced DFO-Muon,1,7,30.0,168,336
+Enhanced DFO-Muon,1,8,36.775,192,384
+Enhanced DFO-Muon,1,9,39.075,216,432
+Enhanced DFO-Muon,1,10,48.625,240,480
+Enhanced DFO-Muon,1,11,62.275,264,528
+Enhanced DFO-Muon,1,12,72.35,288,576
+Enhanced DFO-Muon,1,13,83.225,312,624
+Enhanced DFO-Muon,1,14,103.5,336,672
+Enhanced DFO-Muon,1,15,105.8,360,720
+Enhanced DFO-Muon,1,16,150.325,384,768
+Enhanced DFO-Muon,1,17,180.525,408,816
+Enhanced DFO-Muon,1,18,237.875,432,864
+Enhanced DFO-Muon,1,19,265.975,456,912
+Enhanced DFO-Muon,1,20,306.425,480,960
+Enhanced DFO-Muon,1,21,374.65,504,1008
+Enhanced DFO-Muon,1,22,404.45,528,1056
+Enhanced DFO-Muon,1,23,436.65,552,1104
+Enhanced DFO-Muon,1,24,492.15,576,1152
+Enhanced DFO-Muon,1,25,492.5,600,1200
+Enhanced DFO-Muon,1,26,496.05,624,1248
+Enhanced DFO-Muon,1,27,496.6,648,1296
+Enhanced DFO-Muon,1,28,500.0,672,1344
+Enhanced DFO-Muon,1,29,500.0,696,1392
+Enhanced DFO-Muon,1,30,500.0,720,1440
+Enhanced DFO-Muon,1,31,500.0,744,1488
+Enhanced DFO-Muon,1,32,500.0,768,1536
+Enhanced DFO-Muon,1,33,500.0,792,1584
+Enhanced DFO-Muon,1,34,500.0,816,1632
+Enhanced DFO-Muon,1,35,500.0,840,1680
+Enhanced DFO-Muon,1,36,500.0,864,1728
+Enhanced DFO-Muon,1,37,500.0,888,1776
+Enhanced DFO-Muon,1,38,500.0,912,1824
+Enhanced DFO-Muon,1,39,500.0,936,1872
+Enhanced DFO-Muon,1,40,500.0,960,1920
+Enhanced DFO-Muon,1,41,500.0,984,1968
+Enhanced DFO-Muon,1,42,500.0,1008,2016
+Enhanced DFO-Muon,1,43,500.0,1032,2064
+Enhanced DFO-Muon,1,44,500.0,1056,2112
+Enhanced DFO-Muon,1,45,500.0,1080,2160
+Enhanced DFO-Muon,1,46,500.0,1104,2208
+Enhanced DFO-Muon,1,47,500.0,1128,2256
+Enhanced DFO-Muon,1,48,500.0,1152,2304
+Enhanced DFO-Muon,1,49,500.0,1176,2352
+Enhanced DFO-Muon,1,50,500.0,1200,2400
+Enhanced DFO-Muon,1,51,500.0,1224,2448
+Enhanced DFO-Muon,1,52,500.0,1248,2496
+Enhanced DFO-Muon,1,53,500.0,1272,2544
+Enhanced DFO-Muon,1,54,500.0,1296,2592
+Enhanced DFO-Muon,1,55,500.0,1320,2640
+Enhanced DFO-Muon,1,56,500.0,1344,2688
+Enhanced DFO-Muon,1,57,500.0,1368,2736
+Enhanced DFO-Muon,1,58,500.0,1392,2784
+Enhanced DFO-Muon,1,59,500.0,1416,2832
+Enhanced DFO-Muon,1,60,500.0,1440,2880
+Enhanced DFO-Muon,1,61,500.0,1464,2928
+Enhanced DFO-Muon,1,62,500.0,1488,2976
+Enhanced DFO-Muon,1,63,500.0,1512,3024
+Enhanced DFO-Muon,1,64,500.0,1536,3072
+Enhanced DFO-Muon,1,65,500.0,1560,3120
+Enhanced DFO-Muon,1,66,500.0,1584,3168
+Enhanced DFO-Muon,1,67,500.0,1608,3216
+Enhanced DFO-Muon,1,68,500.0,1632,3264
+Enhanced DFO-Muon,1,69,500.0,1656,3312
+Enhanced DFO-Muon,1,70,500.0,1680,3360
+Enhanced DFO-Muon,2,0,21.35,0,0
+Enhanced DFO-Muon,2,1,21.4,24,48
+Enhanced DFO-Muon,2,2,21.875,48,96
+Enhanced DFO-Muon,2,3,23.7,72,144
+Enhanced DFO-Muon,2,4,24.35,96,192
+Enhanced DFO-Muon,2,5,26.5,120,240
+Enhanced DFO-Muon,2,6,27.9,144,288
+Enhanced DFO-Muon,2,7,33.65,168,336
+Enhanced DFO-Muon,2,8,36.75,192,384
+Enhanced DFO-Muon,2,9,44.3,216,432
+Enhanced DFO-Muon,2,10,47.95,240,480
+Enhanced DFO-Muon,2,11,69.2,264,528
+Enhanced DFO-Muon,2,12,82.55,288,576
+Enhanced DFO-Muon,2,13,96.3,312,624
+Enhanced DFO-Muon,2,14,120.45,336,672
+Enhanced DFO-Muon,2,15,142.475,360,720
+Enhanced DFO-Muon,2,16,177.425,384,768
+Enhanced DFO-Muon,2,17,195.05,408,816
+Enhanced DFO-Muon,2,18,250.925,432,864
+Enhanced DFO-Muon,2,19,240.65,456,912
+Enhanced DFO-Muon,2,20,264.075,480,960
+Enhanced DFO-Muon,2,21,283.125,504,1008
+Enhanced DFO-Muon,2,22,297.95,528,1056
+Enhanced DFO-Muon,2,23,370.825,552,1104
+Enhanced DFO-Muon,2,24,401.8,576,1152
+Enhanced DFO-Muon,2,25,459.15,600,1200
+Enhanced DFO-Muon,2,26,494.425,624,1248
+Enhanced DFO-Muon,2,27,497.55,648,1296
+Enhanced DFO-Muon,2,28,497.525,672,1344
+Enhanced DFO-Muon,2,29,497.2,696,1392
+Enhanced DFO-Muon,2,30,500.0,720,1440
+Enhanced DFO-Muon,2,31,499.9,744,1488
+Enhanced DFO-Muon,2,32,500.0,768,1536
+Enhanced DFO-Muon,2,33,500.0,792,1584
+Enhanced DFO-Muon,2,34,500.0,816,1632
+Enhanced DFO-Muon,2,35,500.0,840,1680
+Enhanced DFO-Muon,2,36,500.0,864,1728
+Enhanced DFO-Muon,2,37,500.0,888,1776
+Enhanced DFO-Muon,2,38,500.0,912,1824
+Enhanced DFO-Muon,2,39,500.0,936,1872
+Enhanced DFO-Muon,2,40,500.0,960,1920
+Enhanced DFO-Muon,2,41,500.0,984,1968
+Enhanced DFO-Muon,2,42,500.0,1008,2016
+Enhanced DFO-Muon,2,43,500.0,1032,2064
+Enhanced DFO-Muon,2,44,500.0,1056,2112
+Enhanced DFO-Muon,2,45,500.0,1080,2160
+Enhanced DFO-Muon,2,46,500.0,1104,2208
+Enhanced DFO-Muon,2,47,500.0,1128,2256
+Enhanced DFO-Muon,2,48,500.0,1152,2304
+Enhanced DFO-Muon,2,49,500.0,1176,2352
+Enhanced DFO-Muon,2,50,500.0,1200,2400
+Enhanced DFO-Muon,2,51,500.0,1224,2448
+Enhanced DFO-Muon,2,52,500.0,1248,2496
+Enhanced DFO-Muon,2,53,500.0,1272,2544
+Enhanced DFO-Muon,2,54,500.0,1296,2592
+Enhanced DFO-Muon,2,55,500.0,1320,2640
+Enhanced DFO-Muon,2,56,500.0,1344,2688
+Enhanced DFO-Muon,2,57,500.0,1368,2736
+Enhanced DFO-Muon,2,58,500.0,1392,2784
+Enhanced DFO-Muon,2,59,500.0,1416,2832
+Enhanced DFO-Muon,2,60,500.0,1440,2880
+Enhanced DFO-Muon,2,61,500.0,1464,2928
+Enhanced DFO-Muon,2,62,500.0,1488,2976
+Enhanced DFO-Muon,2,63,500.0,1512,3024
+Enhanced DFO-Muon,2,64,500.0,1536,3072
+Enhanced DFO-Muon,2,65,500.0,1560,3120
+Enhanced DFO-Muon,2,66,500.0,1584,3168
+Enhanced DFO-Muon,2,67,500.0,1608,3216
+Enhanced DFO-Muon,2,68,500.0,1632,3264
+Enhanced DFO-Muon,2,69,500.0,1656,3312
+Enhanced DFO-Muon,2,70,500.0,1680,3360
+Enhanced DFO-Muon,3,0,22.6,0,0
+Enhanced DFO-Muon,3,1,22.975,24,48
+Enhanced DFO-Muon,3,2,22.7,48,96
+Enhanced DFO-Muon,3,3,23.075,72,144
+Enhanced DFO-Muon,3,4,23.2,96,192
+Enhanced DFO-Muon,3,5,23.85,120,240
+Enhanced DFO-Muon,3,6,24.7,144,288
+Enhanced DFO-Muon,3,7,24.4,168,336
+Enhanced DFO-Muon,3,8,25.6,192,384
+Enhanced DFO-Muon,3,9,25.75,216,432
+Enhanced DFO-Muon,3,10,25.9,240,480
+Enhanced DFO-Muon,3,11,29.5,264,528
+Enhanced DFO-Muon,3,12,29.775,288,576
+Enhanced DFO-Muon,3,13,32.025,312,624
+Enhanced DFO-Muon,3,14,35.475,336,672
+Enhanced DFO-Muon,3,15,35.45,360,720
+Enhanced DFO-Muon,3,16,35.45,384,768
+Enhanced DFO-Muon,3,17,36.325,408,816
+Enhanced DFO-Muon,3,18,42.275,432,864
+Enhanced DFO-Muon,3,19,44.525,456,912
+Enhanced DFO-Muon,3,20,61.3,480,960
+Enhanced DFO-Muon,3,21,91.0,504,1008
+Enhanced DFO-Muon,3,22,104.4,528,1056
+Enhanced DFO-Muon,3,23,156.45,552,1104
+Enhanced DFO-Muon,3,24,178.225,576,1152
+Enhanced DFO-Muon,3,25,205.775,600,1200
+Enhanced DFO-Muon,3,26,260.45,624,1248
+Enhanced DFO-Muon,3,27,291.6,648,1296
+Enhanced DFO-Muon,3,28,285.175,672,1344
+Enhanced DFO-Muon,3,29,307.0,696,1392
+Enhanced DFO-Muon,3,30,334.55,720,1440
+Enhanced DFO-Muon,3,31,390.075,744,1488
+Enhanced DFO-Muon,3,32,454.6,768,1536
+Enhanced DFO-Muon,3,33,467.525,792,1584
+Enhanced DFO-Muon,3,34,483.625,816,1632
+Enhanced DFO-Muon,3,35,495.65,840,1680
+Enhanced DFO-Muon,3,36,497.775,864,1728
+Enhanced DFO-Muon,3,37,499.3,888,1776
+Enhanced DFO-Muon,3,38,500.0,912,1824
+Enhanced DFO-Muon,3,39,500.0,936,1872
+Enhanced DFO-Muon,3,40,500.0,960,1920
+Enhanced DFO-Muon,3,41,500.0,984,1968
+Enhanced DFO-Muon,3,42,500.0,1008,2016
+Enhanced DFO-Muon,3,43,500.0,1032,2064
+Enhanced DFO-Muon,3,44,500.0,1056,2112
+Enhanced DFO-Muon,3,45,500.0,1080,2160
+Enhanced DFO-Muon,3,46,500.0,1104,2208
+Enhanced DFO-Muon,3,47,500.0,1128,2256
+Enhanced DFO-Muon,3,48,500.0,1152,2304
+Enhanced DFO-Muon,3,49,500.0,1176,2352
+Enhanced DFO-Muon,3,50,500.0,1200,2400
+Enhanced DFO-Muon,3,51,500.0,1224,2448
+Enhanced DFO-Muon,3,52,500.0,1248,2496
+Enhanced DFO-Muon,3,53,500.0,1272,2544
+Enhanced DFO-Muon,3,54,500.0,1296,2592
+Enhanced DFO-Muon,3,55,500.0,1320,2640
+Enhanced DFO-Muon,3,56,500.0,1344,2688
+Enhanced DFO-Muon,3,57,500.0,1368,2736
+Enhanced DFO-Muon,3,58,500.0,1392,2784
+Enhanced DFO-Muon,3,59,500.0,1416,2832
+Enhanced DFO-Muon,3,60,500.0,1440,2880
+Enhanced DFO-Muon,3,61,500.0,1464,2928
+Enhanced DFO-Muon,3,62,500.0,1488,2976
+Enhanced DFO-Muon,3,63,500.0,1512,3024
+Enhanced DFO-Muon,3,64,500.0,1536,3072
+Enhanced DFO-Muon,3,65,500.0,1560,3120
+Enhanced DFO-Muon,3,66,500.0,1584,3168
+Enhanced DFO-Muon,3,67,500.0,1608,3216
+Enhanced DFO-Muon,3,68,500.0,1632,3264
+Enhanced DFO-Muon,3,69,500.0,1656,3312
+Enhanced DFO-Muon,3,70,500.0,1680,3360
+Enhanced DFO-Muon,4,0,22.375,0,0
+Enhanced DFO-Muon,4,1,22.375,24,48
+Enhanced DFO-Muon,4,2,22.375,48,96
+Enhanced DFO-Muon,4,3,24.45,72,144
+Enhanced DFO-Muon,4,4,24.325,96,192
+Enhanced DFO-Muon,4,5,25.3,120,240
+Enhanced DFO-Muon,4,6,27.825,144,288
+Enhanced DFO-Muon,4,7,29.05,168,336
+Enhanced DFO-Muon,4,8,30.2,192,384
+Enhanced DFO-Muon,4,9,33.875,216,432
+Enhanced DFO-Muon,4,10,36.1,240,480
+Enhanced DFO-Muon,4,11,45.975,264,528
+Enhanced DFO-Muon,4,12,60.6,288,576
+Enhanced DFO-Muon,4,13,63.55,312,624
+Enhanced DFO-Muon,4,14,88.175,336,672
+Enhanced DFO-Muon,4,15,111.525,360,720
+Enhanced DFO-Muon,4,16,134.7,384,768
+Enhanced DFO-Muon,4,17,229.25,408,816
+Enhanced DFO-Muon,4,18,282.225,432,864
+Enhanced DFO-Muon,4,19,357.05,456,912
+Enhanced DFO-Muon,4,20,398.225,480,960
+Enhanced DFO-Muon,4,21,352.75,504,1008
+Enhanced DFO-Muon,4,22,425.95,528,1056
+Enhanced DFO-Muon,4,23,470.225,552,1104
+Enhanced DFO-Muon,4,24,493.0,576,1152
+Enhanced DFO-Muon,4,25,493.825,600,1200
+Enhanced DFO-Muon,4,26,490.875,624,1248
+Enhanced DFO-Muon,4,27,500.0,648,1296
+Enhanced DFO-Muon,4,28,489.15,672,1344
+Enhanced DFO-Muon,4,29,500.0,696,1392
+Enhanced DFO-Muon,4,30,500.0,720,1440
+Enhanced DFO-Muon,4,31,500.0,744,1488
+Enhanced DFO-Muon,4,32,500.0,768,1536
+Enhanced DFO-Muon,4,33,500.0,792,1584
+Enhanced DFO-Muon,4,34,500.0,816,1632
+Enhanced DFO-Muon,4,35,500.0,840,1680
+Enhanced DFO-Muon,4,36,500.0,864,1728
+Enhanced DFO-Muon,4,37,500.0,888,1776
+Enhanced DFO-Muon,4,38,500.0,912,1824
+Enhanced DFO-Muon,4,39,500.0,936,1872
+Enhanced DFO-Muon,4,40,500.0,960,1920
+Enhanced DFO-Muon,4,41,500.0,984,1968
+Enhanced DFO-Muon,4,42,500.0,1008,2016
+Enhanced DFO-Muon,4,43,500.0,1032,2064
+Enhanced DFO-Muon,4,44,500.0,1056,2112
+Enhanced DFO-Muon,4,45,500.0,1080,2160
+Enhanced DFO-Muon,4,46,500.0,1104,2208
+Enhanced DFO-Muon,4,47,500.0,1128,2256
+Enhanced DFO-Muon,4,48,500.0,1152,2304
+Enhanced DFO-Muon,4,49,500.0,1176,2352
+Enhanced DFO-Muon,4,50,500.0,1200,2400
+Enhanced DFO-Muon,4,51,500.0,1224,2448
+Enhanced DFO-Muon,4,52,500.0,1248,2496
+Enhanced DFO-Muon,4,53,500.0,1272,2544
+Enhanced DFO-Muon,4,54,500.0,1296,2592
+Enhanced DFO-Muon,4,55,500.0,1320,2640
+Enhanced DFO-Muon,4,56,500.0,1344,2688
+Enhanced DFO-Muon,4,57,500.0,1368,2736
+Enhanced DFO-Muon,4,58,500.0,1392,2784
+Enhanced DFO-Muon,4,59,500.0,1416,2832
+Enhanced DFO-Muon,4,60,500.0,1440,2880
+Enhanced DFO-Muon,4,61,500.0,1464,2928
+Enhanced DFO-Muon,4,62,500.0,1488,2976
+Enhanced DFO-Muon,4,63,500.0,1512,3024
+Enhanced DFO-Muon,4,64,500.0,1536,3072
+Enhanced DFO-Muon,4,65,500.0,1560,3120
+Enhanced DFO-Muon,4,66,500.0,1584,3168
+Enhanced DFO-Muon,4,67,500.0,1608,3216
+Enhanced DFO-Muon,4,68,500.0,1632,3264
+Enhanced DFO-Muon,4,69,500.0,1656,3312
+Enhanced DFO-Muon,4,70,500.0,1680,3360
+Noisy policy-gradient Muon (sigma=1),0,0,19.5,0,0
+Noisy policy-gradient Muon (sigma=1),0,1,20.55,1,48
+Noisy policy-gradient Muon (sigma=1),0,2,21.55,2,96
+Noisy policy-gradient Muon (sigma=1),0,3,22.275,3,144
+Noisy policy-gradient Muon (sigma=1),0,4,22.9,4,192
+Noisy policy-gradient Muon (sigma=1),0,5,23.0,5,240
+Noisy policy-gradient Muon (sigma=1),0,6,24.525,6,288
+Noisy policy-gradient Muon (sigma=1),0,7,27.775,7,336
+Noisy policy-gradient Muon (sigma=1),0,8,31.825,8,384
+Noisy policy-gradient Muon (sigma=1),0,9,40.7,9,432
+Noisy policy-gradient Muon (sigma=1),0,10,53.05,10,480
+Noisy policy-gradient Muon (sigma=1),0,11,71.175,11,528
+Noisy policy-gradient Muon (sigma=1),0,12,93.625,12,576
+Noisy policy-gradient Muon (sigma=1),0,13,105.125,13,624
+Noisy policy-gradient Muon (sigma=1),0,14,124.775,14,672
+Noisy policy-gradient Muon (sigma=1),0,15,179.025,15,720
+Noisy policy-gradient Muon (sigma=1),0,16,206.325,16,768
+Noisy policy-gradient Muon (sigma=1),0,17,285.45,17,816
+Noisy policy-gradient Muon (sigma=1),0,18,281.075,18,864
+Noisy policy-gradient Muon (sigma=1),0,19,357.8,19,912
+Noisy policy-gradient Muon (sigma=1),0,20,442.475,20,960
+Noisy policy-gradient Muon (sigma=1),0,21,473.925,21,1008
+Noisy policy-gradient Muon (sigma=1),0,22,492.35,22,1056
+Noisy policy-gradient Muon (sigma=1),0,23,491.925,23,1104
+Noisy policy-gradient Muon (sigma=1),0,24,496.775,24,1152
+Noisy policy-gradient Muon (sigma=1),0,25,500.0,25,1200
+Noisy policy-gradient Muon (sigma=1),0,26,500.0,26,1248
+Noisy policy-gradient Muon (sigma=1),0,27,500.0,27,1296
+Noisy policy-gradient Muon (sigma=1),0,28,500.0,28,1344
+Noisy policy-gradient Muon (sigma=1),0,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=1),0,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=1),0,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=1),0,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=1),0,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=1),0,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=1),0,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=1),0,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=1),0,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=1),0,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=1),0,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=1),0,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=1),0,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=1),0,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=1),0,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=1),0,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=1),0,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=1),0,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=1),0,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=1),0,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=1),0,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=1),0,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=1),0,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=1),0,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=1),0,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=1),0,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=1),0,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=1),0,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=1),0,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=1),0,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=1),0,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=1),0,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=1),0,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=1),0,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=1),0,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=1),0,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=1),0,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=1),0,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=1),0,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=1),0,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=1),0,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=1),0,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=1),1,0,22.85,0,0
+Noisy policy-gradient Muon (sigma=1),1,1,23.675,1,48
+Noisy policy-gradient Muon (sigma=1),1,2,23.7,2,96
+Noisy policy-gradient Muon (sigma=1),1,3,24.15,3,144
+Noisy policy-gradient Muon (sigma=1),1,4,25.425,4,192
+Noisy policy-gradient Muon (sigma=1),1,5,30.075,5,240
+Noisy policy-gradient Muon (sigma=1),1,6,32.175,6,288
+Noisy policy-gradient Muon (sigma=1),1,7,36.6,7,336
+Noisy policy-gradient Muon (sigma=1),1,8,42.925,8,384
+Noisy policy-gradient Muon (sigma=1),1,9,49.075,9,432
+Noisy policy-gradient Muon (sigma=1),1,10,63.7,10,480
+Noisy policy-gradient Muon (sigma=1),1,11,77.475,11,528
+Noisy policy-gradient Muon (sigma=1),1,12,100.7,12,576
+Noisy policy-gradient Muon (sigma=1),1,13,111.525,13,624
+Noisy policy-gradient Muon (sigma=1),1,14,147.375,14,672
+Noisy policy-gradient Muon (sigma=1),1,15,200.75,15,720
+Noisy policy-gradient Muon (sigma=1),1,16,250.5,16,768
+Noisy policy-gradient Muon (sigma=1),1,17,291.9,17,816
+Noisy policy-gradient Muon (sigma=1),1,18,381.95,18,864
+Noisy policy-gradient Muon (sigma=1),1,19,416.4,19,912
+Noisy policy-gradient Muon (sigma=1),1,20,445.475,20,960
+Noisy policy-gradient Muon (sigma=1),1,21,480.375,21,1008
+Noisy policy-gradient Muon (sigma=1),1,22,490.425,22,1056
+Noisy policy-gradient Muon (sigma=1),1,23,496.125,23,1104
+Noisy policy-gradient Muon (sigma=1),1,24,496.025,24,1152
+Noisy policy-gradient Muon (sigma=1),1,25,500.0,25,1200
+Noisy policy-gradient Muon (sigma=1),1,26,500.0,26,1248
+Noisy policy-gradient Muon (sigma=1),1,27,500.0,27,1296
+Noisy policy-gradient Muon (sigma=1),1,28,500.0,28,1344
+Noisy policy-gradient Muon (sigma=1),1,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=1),1,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=1),1,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=1),1,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=1),1,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=1),1,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=1),1,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=1),1,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=1),1,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=1),1,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=1),1,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=1),1,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=1),1,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=1),1,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=1),1,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=1),1,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=1),1,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=1),1,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=1),1,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=1),1,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=1),1,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=1),1,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=1),1,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=1),1,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=1),1,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=1),1,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=1),1,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=1),1,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=1),1,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=1),1,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=1),1,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=1),1,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=1),1,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=1),1,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=1),1,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=1),1,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=1),1,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=1),1,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=1),1,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=1),1,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=1),1,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=1),1,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=1),2,0,21.35,0,0
+Noisy policy-gradient Muon (sigma=1),2,1,21.4,1,48
+Noisy policy-gradient Muon (sigma=1),2,2,23.025,2,96
+Noisy policy-gradient Muon (sigma=1),2,3,24.25,3,144
+Noisy policy-gradient Muon (sigma=1),2,4,26.075,4,192
+Noisy policy-gradient Muon (sigma=1),2,5,26.625,5,240
+Noisy policy-gradient Muon (sigma=1),2,6,31.2,6,288
+Noisy policy-gradient Muon (sigma=1),2,7,33.675,7,336
+Noisy policy-gradient Muon (sigma=1),2,8,42.95,8,384
+Noisy policy-gradient Muon (sigma=1),2,9,45.75,9,432
+Noisy policy-gradient Muon (sigma=1),2,10,63.775,10,480
+Noisy policy-gradient Muon (sigma=1),2,11,77.65,11,528
+Noisy policy-gradient Muon (sigma=1),2,12,98.375,12,576
+Noisy policy-gradient Muon (sigma=1),2,13,115.125,13,624
+Noisy policy-gradient Muon (sigma=1),2,14,159.625,14,672
+Noisy policy-gradient Muon (sigma=1),2,15,189.925,15,720
+Noisy policy-gradient Muon (sigma=1),2,16,212.45,16,768
+Noisy policy-gradient Muon (sigma=1),2,17,307.6,17,816
+Noisy policy-gradient Muon (sigma=1),2,18,331.425,18,864
+Noisy policy-gradient Muon (sigma=1),2,19,424.5,19,912
+Noisy policy-gradient Muon (sigma=1),2,20,429.45,20,960
+Noisy policy-gradient Muon (sigma=1),2,21,459.725,21,1008
+Noisy policy-gradient Muon (sigma=1),2,22,476.3,22,1056
+Noisy policy-gradient Muon (sigma=1),2,23,497.85,23,1104
+Noisy policy-gradient Muon (sigma=1),2,24,500.0,24,1152
+Noisy policy-gradient Muon (sigma=1),2,25,497.575,25,1200
+Noisy policy-gradient Muon (sigma=1),2,26,500.0,26,1248
+Noisy policy-gradient Muon (sigma=1),2,27,497.525,27,1296
+Noisy policy-gradient Muon (sigma=1),2,28,500.0,28,1344
+Noisy policy-gradient Muon (sigma=1),2,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=1),2,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=1),2,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=1),2,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=1),2,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=1),2,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=1),2,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=1),2,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=1),2,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=1),2,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=1),2,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=1),2,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=1),2,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=1),2,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=1),2,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=1),2,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=1),2,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=1),2,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=1),2,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=1),2,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=1),2,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=1),2,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=1),2,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=1),2,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=1),2,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=1),2,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=1),2,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=1),2,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=1),2,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=1),2,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=1),2,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=1),2,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=1),2,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=1),2,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=1),2,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=1),2,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=1),2,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=1),2,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=1),2,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=1),2,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=1),2,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=1),2,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=1),3,0,22.6,0,0
+Noisy policy-gradient Muon (sigma=1),3,1,23.125,1,48
+Noisy policy-gradient Muon (sigma=1),3,2,23.175,2,96
+Noisy policy-gradient Muon (sigma=1),3,3,24.2,3,144
+Noisy policy-gradient Muon (sigma=1),3,4,24.675,4,192
+Noisy policy-gradient Muon (sigma=1),3,5,26.975,5,240
+Noisy policy-gradient Muon (sigma=1),3,6,28.15,6,288
+Noisy policy-gradient Muon (sigma=1),3,7,31.375,7,336
+Noisy policy-gradient Muon (sigma=1),3,8,32.8,8,384
+Noisy policy-gradient Muon (sigma=1),3,9,43.7,9,432
+Noisy policy-gradient Muon (sigma=1),3,10,51.6,10,480
+Noisy policy-gradient Muon (sigma=1),3,11,58.9,11,528
+Noisy policy-gradient Muon (sigma=1),3,12,71.175,12,576
+Noisy policy-gradient Muon (sigma=1),3,13,133.375,13,624
+Noisy policy-gradient Muon (sigma=1),3,14,183.0,14,672
+Noisy policy-gradient Muon (sigma=1),3,15,202.825,15,720
+Noisy policy-gradient Muon (sigma=1),3,16,248.925,16,768
+Noisy policy-gradient Muon (sigma=1),3,17,261.85,17,816
+Noisy policy-gradient Muon (sigma=1),3,18,342.35,18,864
+Noisy policy-gradient Muon (sigma=1),3,19,380.475,19,912
+Noisy policy-gradient Muon (sigma=1),3,20,428.025,20,960
+Noisy policy-gradient Muon (sigma=1),3,21,472.95,21,1008
+Noisy policy-gradient Muon (sigma=1),3,22,473.45,22,1056
+Noisy policy-gradient Muon (sigma=1),3,23,484.175,23,1104
+Noisy policy-gradient Muon (sigma=1),3,24,500.0,24,1152
+Noisy policy-gradient Muon (sigma=1),3,25,496.875,25,1200
+Noisy policy-gradient Muon (sigma=1),3,26,497.725,26,1248
+Noisy policy-gradient Muon (sigma=1),3,27,500.0,27,1296
+Noisy policy-gradient Muon (sigma=1),3,28,497.675,28,1344
+Noisy policy-gradient Muon (sigma=1),3,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=1),3,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=1),3,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=1),3,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=1),3,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=1),3,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=1),3,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=1),3,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=1),3,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=1),3,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=1),3,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=1),3,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=1),3,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=1),3,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=1),3,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=1),3,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=1),3,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=1),3,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=1),3,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=1),3,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=1),3,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=1),3,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=1),3,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=1),3,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=1),3,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=1),3,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=1),3,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=1),3,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=1),3,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=1),3,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=1),3,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=1),3,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=1),3,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=1),3,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=1),3,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=1),3,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=1),3,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=1),3,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=1),3,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=1),3,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=1),3,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=1),3,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=1),4,0,22.375,0,0
+Noisy policy-gradient Muon (sigma=1),4,1,22.625,1,48
+Noisy policy-gradient Muon (sigma=1),4,2,23.8,2,96
+Noisy policy-gradient Muon (sigma=1),4,3,26.35,3,144
+Noisy policy-gradient Muon (sigma=1),4,4,28.85,4,192
+Noisy policy-gradient Muon (sigma=1),4,5,29.975,5,240
+Noisy policy-gradient Muon (sigma=1),4,6,31.7,6,288
+Noisy policy-gradient Muon (sigma=1),4,7,36.625,7,336
+Noisy policy-gradient Muon (sigma=1),4,8,43.75,8,384
+Noisy policy-gradient Muon (sigma=1),4,9,62.6,9,432
+Noisy policy-gradient Muon (sigma=1),4,10,77.45,10,480
+Noisy policy-gradient Muon (sigma=1),4,11,101.275,11,528
+Noisy policy-gradient Muon (sigma=1),4,12,128.35,12,576
+Noisy policy-gradient Muon (sigma=1),4,13,132.75,13,624
+Noisy policy-gradient Muon (sigma=1),4,14,225.375,14,672
+Noisy policy-gradient Muon (sigma=1),4,15,300.825,15,720
+Noisy policy-gradient Muon (sigma=1),4,16,329.1,16,768
+Noisy policy-gradient Muon (sigma=1),4,17,374.7,17,816
+Noisy policy-gradient Muon (sigma=1),4,18,419.375,18,864
+Noisy policy-gradient Muon (sigma=1),4,19,461.025,19,912
+Noisy policy-gradient Muon (sigma=1),4,20,480.525,20,960
+Noisy policy-gradient Muon (sigma=1),4,21,493.05,21,1008
+Noisy policy-gradient Muon (sigma=1),4,22,480.125,22,1056
+Noisy policy-gradient Muon (sigma=1),4,23,500.0,23,1104
+Noisy policy-gradient Muon (sigma=1),4,24,498.425,24,1152
+Noisy policy-gradient Muon (sigma=1),4,25,500.0,25,1200
+Noisy policy-gradient Muon (sigma=1),4,26,500.0,26,1248
+Noisy policy-gradient Muon (sigma=1),4,27,500.0,27,1296
+Noisy policy-gradient Muon (sigma=1),4,28,500.0,28,1344
+Noisy policy-gradient Muon (sigma=1),4,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=1),4,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=1),4,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=1),4,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=1),4,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=1),4,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=1),4,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=1),4,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=1),4,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=1),4,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=1),4,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=1),4,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=1),4,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=1),4,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=1),4,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=1),4,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=1),4,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=1),4,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=1),4,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=1),4,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=1),4,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=1),4,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=1),4,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=1),4,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=1),4,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=1),4,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=1),4,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=1),4,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=1),4,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=1),4,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=1),4,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=1),4,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=1),4,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=1),4,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=1),4,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=1),4,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=1),4,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=1),4,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=1),4,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=1),4,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=1),4,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=1),4,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=3),0,0,19.5,0,0
+Noisy policy-gradient Muon (sigma=3),0,1,19.725,1,48
+Noisy policy-gradient Muon (sigma=3),0,2,20.575,2,96
+Noisy policy-gradient Muon (sigma=3),0,3,20.25,3,144
+Noisy policy-gradient Muon (sigma=3),0,4,20.45,4,192
+Noisy policy-gradient Muon (sigma=3),0,5,20.35,5,240
+Noisy policy-gradient Muon (sigma=3),0,6,21.375,6,288
+Noisy policy-gradient Muon (sigma=3),0,7,21.925,7,336
+Noisy policy-gradient Muon (sigma=3),0,8,23.9,8,384
+Noisy policy-gradient Muon (sigma=3),0,9,24.5,9,432
+Noisy policy-gradient Muon (sigma=3),0,10,23.6,10,480
+Noisy policy-gradient Muon (sigma=3),0,11,29.125,11,528
+Noisy policy-gradient Muon (sigma=3),0,12,29.025,12,576
+Noisy policy-gradient Muon (sigma=3),0,13,33.525,13,624
+Noisy policy-gradient Muon (sigma=3),0,14,45.025,14,672
+Noisy policy-gradient Muon (sigma=3),0,15,52.775,15,720
+Noisy policy-gradient Muon (sigma=3),0,16,75.15,16,768
+Noisy policy-gradient Muon (sigma=3),0,17,96.05,17,816
+Noisy policy-gradient Muon (sigma=3),0,18,119.55,18,864
+Noisy policy-gradient Muon (sigma=3),0,19,155.875,19,912
+Noisy policy-gradient Muon (sigma=3),0,20,168.45,20,960
+Noisy policy-gradient Muon (sigma=3),0,21,239.325,21,1008
+Noisy policy-gradient Muon (sigma=3),0,22,263.975,22,1056
+Noisy policy-gradient Muon (sigma=3),0,23,285.625,23,1104
+Noisy policy-gradient Muon (sigma=3),0,24,309.775,24,1152
+Noisy policy-gradient Muon (sigma=3),0,25,388.975,25,1200
+Noisy policy-gradient Muon (sigma=3),0,26,408.3,26,1248
+Noisy policy-gradient Muon (sigma=3),0,27,434.425,27,1296
+Noisy policy-gradient Muon (sigma=3),0,28,468.325,28,1344
+Noisy policy-gradient Muon (sigma=3),0,29,480.1,29,1392
+Noisy policy-gradient Muon (sigma=3),0,30,491.7,30,1440
+Noisy policy-gradient Muon (sigma=3),0,31,486.4,31,1488
+Noisy policy-gradient Muon (sigma=3),0,32,496.575,32,1536
+Noisy policy-gradient Muon (sigma=3),0,33,492.35,33,1584
+Noisy policy-gradient Muon (sigma=3),0,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=3),0,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=3),0,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=3),0,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=3),0,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=3),0,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=3),0,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=3),0,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=3),0,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=3),0,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=3),0,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=3),0,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=3),0,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=3),0,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=3),0,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=3),0,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=3),0,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=3),0,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=3),0,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=3),0,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=3),0,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=3),0,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=3),0,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=3),0,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=3),0,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=3),0,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=3),0,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=3),0,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=3),0,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=3),0,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=3),0,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=3),0,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=3),0,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=3),0,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=3),0,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=3),0,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=3),0,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=3),1,0,22.85,0,0
+Noisy policy-gradient Muon (sigma=3),1,1,22.975,1,48
+Noisy policy-gradient Muon (sigma=3),1,2,24.05,2,96
+Noisy policy-gradient Muon (sigma=3),1,3,23.7,3,144
+Noisy policy-gradient Muon (sigma=3),1,4,24.15,4,192
+Noisy policy-gradient Muon (sigma=3),1,5,25.65,5,240
+Noisy policy-gradient Muon (sigma=3),1,6,26.0,6,288
+Noisy policy-gradient Muon (sigma=3),1,7,28.2,7,336
+Noisy policy-gradient Muon (sigma=3),1,8,30.725,8,384
+Noisy policy-gradient Muon (sigma=3),1,9,34.475,9,432
+Noisy policy-gradient Muon (sigma=3),1,10,41.075,10,480
+Noisy policy-gradient Muon (sigma=3),1,11,44.225,11,528
+Noisy policy-gradient Muon (sigma=3),1,12,50.825,12,576
+Noisy policy-gradient Muon (sigma=3),1,13,70.75,13,624
+Noisy policy-gradient Muon (sigma=3),1,14,89.3,14,672
+Noisy policy-gradient Muon (sigma=3),1,15,104.6,15,720
+Noisy policy-gradient Muon (sigma=3),1,16,121.075,16,768
+Noisy policy-gradient Muon (sigma=3),1,17,158.525,17,816
+Noisy policy-gradient Muon (sigma=3),1,18,178.3,18,864
+Noisy policy-gradient Muon (sigma=3),1,19,219.5,19,912
+Noisy policy-gradient Muon (sigma=3),1,20,284.425,20,960
+Noisy policy-gradient Muon (sigma=3),1,21,306.075,21,1008
+Noisy policy-gradient Muon (sigma=3),1,22,383.85,22,1056
+Noisy policy-gradient Muon (sigma=3),1,23,445.275,23,1104
+Noisy policy-gradient Muon (sigma=3),1,24,487.9,24,1152
+Noisy policy-gradient Muon (sigma=3),1,25,473.95,25,1200
+Noisy policy-gradient Muon (sigma=3),1,26,491.725,26,1248
+Noisy policy-gradient Muon (sigma=3),1,27,496.225,27,1296
+Noisy policy-gradient Muon (sigma=3),1,28,496.725,28,1344
+Noisy policy-gradient Muon (sigma=3),1,29,500.0,29,1392
+Noisy policy-gradient Muon (sigma=3),1,30,496.225,30,1440
+Noisy policy-gradient Muon (sigma=3),1,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=3),1,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=3),1,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=3),1,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=3),1,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=3),1,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=3),1,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=3),1,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=3),1,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=3),1,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=3),1,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=3),1,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=3),1,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=3),1,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=3),1,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=3),1,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=3),1,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=3),1,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=3),1,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=3),1,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=3),1,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=3),1,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=3),1,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=3),1,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=3),1,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=3),1,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=3),1,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=3),1,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=3),1,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=3),1,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=3),1,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=3),1,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=3),1,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=3),1,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=3),1,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=3),1,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=3),1,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=3),1,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=3),1,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=3),1,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=3),2,0,21.35,0,0
+Noisy policy-gradient Muon (sigma=3),2,1,21.35,1,48
+Noisy policy-gradient Muon (sigma=3),2,2,21.65,2,96
+Noisy policy-gradient Muon (sigma=3),2,3,22.825,3,144
+Noisy policy-gradient Muon (sigma=3),2,4,24.1,4,192
+Noisy policy-gradient Muon (sigma=3),2,5,26.05,5,240
+Noisy policy-gradient Muon (sigma=3),2,6,26.925,6,288
+Noisy policy-gradient Muon (sigma=3),2,7,27.075,7,336
+Noisy policy-gradient Muon (sigma=3),2,8,29.525,8,384
+Noisy policy-gradient Muon (sigma=3),2,9,32.4,9,432
+Noisy policy-gradient Muon (sigma=3),2,10,36.425,10,480
+Noisy policy-gradient Muon (sigma=3),2,11,44.05,11,528
+Noisy policy-gradient Muon (sigma=3),2,12,48.525,12,576
+Noisy policy-gradient Muon (sigma=3),2,13,64.075,13,624
+Noisy policy-gradient Muon (sigma=3),2,14,76.8,14,672
+Noisy policy-gradient Muon (sigma=3),2,15,89.7,15,720
+Noisy policy-gradient Muon (sigma=3),2,16,95.8,16,768
+Noisy policy-gradient Muon (sigma=3),2,17,114.0,17,816
+Noisy policy-gradient Muon (sigma=3),2,18,169.475,18,864
+Noisy policy-gradient Muon (sigma=3),2,19,211.375,19,912
+Noisy policy-gradient Muon (sigma=3),2,20,235.775,20,960
+Noisy policy-gradient Muon (sigma=3),2,21,265.175,21,1008
+Noisy policy-gradient Muon (sigma=3),2,22,302.475,22,1056
+Noisy policy-gradient Muon (sigma=3),2,23,343.65,23,1104
+Noisy policy-gradient Muon (sigma=3),2,24,392.5,24,1152
+Noisy policy-gradient Muon (sigma=3),2,25,422.375,25,1200
+Noisy policy-gradient Muon (sigma=3),2,26,454.775,26,1248
+Noisy policy-gradient Muon (sigma=3),2,27,489.075,27,1296
+Noisy policy-gradient Muon (sigma=3),2,28,490.925,28,1344
+Noisy policy-gradient Muon (sigma=3),2,29,498.55,29,1392
+Noisy policy-gradient Muon (sigma=3),2,30,498.325,30,1440
+Noisy policy-gradient Muon (sigma=3),2,31,497.175,31,1488
+Noisy policy-gradient Muon (sigma=3),2,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=3),2,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=3),2,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=3),2,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=3),2,36,497.475,36,1728
+Noisy policy-gradient Muon (sigma=3),2,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=3),2,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=3),2,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=3),2,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=3),2,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=3),2,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=3),2,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=3),2,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=3),2,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=3),2,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=3),2,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=3),2,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=3),2,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=3),2,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=3),2,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=3),2,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=3),2,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=3),2,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=3),2,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=3),2,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=3),2,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=3),2,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=3),2,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=3),2,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=3),2,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=3),2,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=3),2,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=3),2,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=3),2,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=3),2,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=3),2,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=3),2,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=3),2,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=3),2,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=3),3,0,22.6,0,0
+Noisy policy-gradient Muon (sigma=3),3,1,23.05,1,48
+Noisy policy-gradient Muon (sigma=3),3,2,23.15,2,96
+Noisy policy-gradient Muon (sigma=3),3,3,23.2,3,144
+Noisy policy-gradient Muon (sigma=3),3,4,24.7,4,192
+Noisy policy-gradient Muon (sigma=3),3,5,25.625,5,240
+Noisy policy-gradient Muon (sigma=3),3,6,28.125,6,288
+Noisy policy-gradient Muon (sigma=3),3,7,28.25,7,336
+Noisy policy-gradient Muon (sigma=3),3,8,30.7,8,384
+Noisy policy-gradient Muon (sigma=3),3,9,34.225,9,432
+Noisy policy-gradient Muon (sigma=3),3,10,38.075,10,480
+Noisy policy-gradient Muon (sigma=3),3,11,44.6,11,528
+Noisy policy-gradient Muon (sigma=3),3,12,41.2,12,576
+Noisy policy-gradient Muon (sigma=3),3,13,55.25,13,624
+Noisy policy-gradient Muon (sigma=3),3,14,62.8,14,672
+Noisy policy-gradient Muon (sigma=3),3,15,104.5,15,720
+Noisy policy-gradient Muon (sigma=3),3,16,141.65,16,768
+Noisy policy-gradient Muon (sigma=3),3,17,195.275,17,816
+Noisy policy-gradient Muon (sigma=3),3,18,234.975,18,864
+Noisy policy-gradient Muon (sigma=3),3,19,256.15,19,912
+Noisy policy-gradient Muon (sigma=3),3,20,317.225,20,960
+Noisy policy-gradient Muon (sigma=3),3,21,340.725,21,1008
+Noisy policy-gradient Muon (sigma=3),3,22,399.975,22,1056
+Noisy policy-gradient Muon (sigma=3),3,23,416.575,23,1104
+Noisy policy-gradient Muon (sigma=3),3,24,446.95,24,1152
+Noisy policy-gradient Muon (sigma=3),3,25,472.475,25,1200
+Noisy policy-gradient Muon (sigma=3),3,26,478.125,26,1248
+Noisy policy-gradient Muon (sigma=3),3,27,488.375,27,1296
+Noisy policy-gradient Muon (sigma=3),3,28,493.625,28,1344
+Noisy policy-gradient Muon (sigma=3),3,29,484.75,29,1392
+Noisy policy-gradient Muon (sigma=3),3,30,500.0,30,1440
+Noisy policy-gradient Muon (sigma=3),3,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=3),3,32,500.0,32,1536
+Noisy policy-gradient Muon (sigma=3),3,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=3),3,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=3),3,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=3),3,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=3),3,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=3),3,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=3),3,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=3),3,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=3),3,41,491.35,41,1968
+Noisy policy-gradient Muon (sigma=3),3,42,491.35,42,2016
+Noisy policy-gradient Muon (sigma=3),3,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=3),3,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=3),3,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=3),3,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=3),3,47,488.75,47,2256
+Noisy policy-gradient Muon (sigma=3),3,48,495.25,48,2304
+Noisy policy-gradient Muon (sigma=3),3,49,495.45,49,2352
+Noisy policy-gradient Muon (sigma=3),3,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=3),3,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=3),3,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=3),3,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=3),3,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=3),3,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=3),3,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=3),3,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=3),3,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=3),3,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=3),3,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=3),3,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=3),3,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=3),3,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=3),3,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=3),3,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=3),3,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=3),3,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=3),3,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=3),3,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=3),3,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=3),4,0,22.375,0,0
+Noisy policy-gradient Muon (sigma=3),4,1,22.375,1,48
+Noisy policy-gradient Muon (sigma=3),4,2,23.725,2,96
+Noisy policy-gradient Muon (sigma=3),4,3,24.5,3,144
+Noisy policy-gradient Muon (sigma=3),4,4,24.975,4,192
+Noisy policy-gradient Muon (sigma=3),4,5,26.75,5,240
+Noisy policy-gradient Muon (sigma=3),4,6,32.075,6,288
+Noisy policy-gradient Muon (sigma=3),4,7,29.8,7,336
+Noisy policy-gradient Muon (sigma=3),4,8,31.125,8,384
+Noisy policy-gradient Muon (sigma=3),4,9,32.275,9,432
+Noisy policy-gradient Muon (sigma=3),4,10,33.725,10,480
+Noisy policy-gradient Muon (sigma=3),4,11,36.125,11,528
+Noisy policy-gradient Muon (sigma=3),4,12,36.775,12,576
+Noisy policy-gradient Muon (sigma=3),4,13,46.575,13,624
+Noisy policy-gradient Muon (sigma=3),4,14,61.25,14,672
+Noisy policy-gradient Muon (sigma=3),4,15,72.4,15,720
+Noisy policy-gradient Muon (sigma=3),4,16,88.525,16,768
+Noisy policy-gradient Muon (sigma=3),4,17,111.55,17,816
+Noisy policy-gradient Muon (sigma=3),4,18,119.275,18,864
+Noisy policy-gradient Muon (sigma=3),4,19,149.525,19,912
+Noisy policy-gradient Muon (sigma=3),4,20,200.425,20,960
+Noisy policy-gradient Muon (sigma=3),4,21,230.75,21,1008
+Noisy policy-gradient Muon (sigma=3),4,22,250.675,22,1056
+Noisy policy-gradient Muon (sigma=3),4,23,272.25,23,1104
+Noisy policy-gradient Muon (sigma=3),4,24,305.3,24,1152
+Noisy policy-gradient Muon (sigma=3),4,25,359.975,25,1200
+Noisy policy-gradient Muon (sigma=3),4,26,383.475,26,1248
+Noisy policy-gradient Muon (sigma=3),4,27,433.65,27,1296
+Noisy policy-gradient Muon (sigma=3),4,28,464.5,28,1344
+Noisy policy-gradient Muon (sigma=3),4,29,482.75,29,1392
+Noisy policy-gradient Muon (sigma=3),4,30,495.0,30,1440
+Noisy policy-gradient Muon (sigma=3),4,31,500.0,31,1488
+Noisy policy-gradient Muon (sigma=3),4,32,498.6,32,1536
+Noisy policy-gradient Muon (sigma=3),4,33,500.0,33,1584
+Noisy policy-gradient Muon (sigma=3),4,34,500.0,34,1632
+Noisy policy-gradient Muon (sigma=3),4,35,500.0,35,1680
+Noisy policy-gradient Muon (sigma=3),4,36,500.0,36,1728
+Noisy policy-gradient Muon (sigma=3),4,37,500.0,37,1776
+Noisy policy-gradient Muon (sigma=3),4,38,500.0,38,1824
+Noisy policy-gradient Muon (sigma=3),4,39,500.0,39,1872
+Noisy policy-gradient Muon (sigma=3),4,40,500.0,40,1920
+Noisy policy-gradient Muon (sigma=3),4,41,500.0,41,1968
+Noisy policy-gradient Muon (sigma=3),4,42,500.0,42,2016
+Noisy policy-gradient Muon (sigma=3),4,43,500.0,43,2064
+Noisy policy-gradient Muon (sigma=3),4,44,500.0,44,2112
+Noisy policy-gradient Muon (sigma=3),4,45,500.0,45,2160
+Noisy policy-gradient Muon (sigma=3),4,46,500.0,46,2208
+Noisy policy-gradient Muon (sigma=3),4,47,500.0,47,2256
+Noisy policy-gradient Muon (sigma=3),4,48,500.0,48,2304
+Noisy policy-gradient Muon (sigma=3),4,49,500.0,49,2352
+Noisy policy-gradient Muon (sigma=3),4,50,500.0,50,2400
+Noisy policy-gradient Muon (sigma=3),4,51,500.0,51,2448
+Noisy policy-gradient Muon (sigma=3),4,52,500.0,52,2496
+Noisy policy-gradient Muon (sigma=3),4,53,500.0,53,2544
+Noisy policy-gradient Muon (sigma=3),4,54,500.0,54,2592
+Noisy policy-gradient Muon (sigma=3),4,55,500.0,55,2640
+Noisy policy-gradient Muon (sigma=3),4,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=3),4,57,500.0,57,2736
+Noisy policy-gradient Muon (sigma=3),4,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=3),4,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=3),4,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=3),4,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=3),4,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=3),4,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=3),4,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=3),4,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=3),4,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=3),4,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=3),4,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=3),4,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=3),4,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=10),0,0,19.5,0,0
+Noisy policy-gradient Muon (sigma=10),0,1,19.925,1,48
+Noisy policy-gradient Muon (sigma=10),0,2,20.15,2,96
+Noisy policy-gradient Muon (sigma=10),0,3,19.35,3,144
+Noisy policy-gradient Muon (sigma=10),0,4,19.875,4,192
+Noisy policy-gradient Muon (sigma=10),0,5,20.375,5,240
+Noisy policy-gradient Muon (sigma=10),0,6,19.5,6,288
+Noisy policy-gradient Muon (sigma=10),0,7,19.45,7,336
+Noisy policy-gradient Muon (sigma=10),0,8,19.925,8,384
+Noisy policy-gradient Muon (sigma=10),0,9,19.875,9,432
+Noisy policy-gradient Muon (sigma=10),0,10,19.325,10,480
+Noisy policy-gradient Muon (sigma=10),0,11,18.775,11,528
+Noisy policy-gradient Muon (sigma=10),0,12,18.725,12,576
+Noisy policy-gradient Muon (sigma=10),0,13,18.475,13,624
+Noisy policy-gradient Muon (sigma=10),0,14,18.325,14,672
+Noisy policy-gradient Muon (sigma=10),0,15,18.625,15,720
+Noisy policy-gradient Muon (sigma=10),0,16,19.1,16,768
+Noisy policy-gradient Muon (sigma=10),0,17,19.875,17,816
+Noisy policy-gradient Muon (sigma=10),0,18,20.475,18,864
+Noisy policy-gradient Muon (sigma=10),0,19,20.95,19,912
+Noisy policy-gradient Muon (sigma=10),0,20,21.15,20,960
+Noisy policy-gradient Muon (sigma=10),0,21,21.575,21,1008
+Noisy policy-gradient Muon (sigma=10),0,22,23.75,22,1056
+Noisy policy-gradient Muon (sigma=10),0,23,25.875,23,1104
+Noisy policy-gradient Muon (sigma=10),0,24,29.025,24,1152
+Noisy policy-gradient Muon (sigma=10),0,25,31.2,25,1200
+Noisy policy-gradient Muon (sigma=10),0,26,35.5,26,1248
+Noisy policy-gradient Muon (sigma=10),0,27,36.0,27,1296
+Noisy policy-gradient Muon (sigma=10),0,28,36.025,28,1344
+Noisy policy-gradient Muon (sigma=10),0,29,37.5,29,1392
+Noisy policy-gradient Muon (sigma=10),0,30,37.125,30,1440
+Noisy policy-gradient Muon (sigma=10),0,31,37.175,31,1488
+Noisy policy-gradient Muon (sigma=10),0,32,37.2,32,1536
+Noisy policy-gradient Muon (sigma=10),0,33,36.475,33,1584
+Noisy policy-gradient Muon (sigma=10),0,34,38.625,34,1632
+Noisy policy-gradient Muon (sigma=10),0,35,39.275,35,1680
+Noisy policy-gradient Muon (sigma=10),0,36,44.3,36,1728
+Noisy policy-gradient Muon (sigma=10),0,37,55.875,37,1776
+Noisy policy-gradient Muon (sigma=10),0,38,65.425,38,1824
+Noisy policy-gradient Muon (sigma=10),0,39,72.525,39,1872
+Noisy policy-gradient Muon (sigma=10),0,40,79.55,40,1920
+Noisy policy-gradient Muon (sigma=10),0,41,88.525,41,1968
+Noisy policy-gradient Muon (sigma=10),0,42,103.6,42,2016
+Noisy policy-gradient Muon (sigma=10),0,43,117.225,43,2064
+Noisy policy-gradient Muon (sigma=10),0,44,120.975,44,2112
+Noisy policy-gradient Muon (sigma=10),0,45,116.5,45,2160
+Noisy policy-gradient Muon (sigma=10),0,46,122.975,46,2208
+Noisy policy-gradient Muon (sigma=10),0,47,128.525,47,2256
+Noisy policy-gradient Muon (sigma=10),0,48,133.45,48,2304
+Noisy policy-gradient Muon (sigma=10),0,49,149.175,49,2352
+Noisy policy-gradient Muon (sigma=10),0,50,167.5,50,2400
+Noisy policy-gradient Muon (sigma=10),0,51,161.9,51,2448
+Noisy policy-gradient Muon (sigma=10),0,52,147.775,52,2496
+Noisy policy-gradient Muon (sigma=10),0,53,119.825,53,2544
+Noisy policy-gradient Muon (sigma=10),0,54,140.4,54,2592
+Noisy policy-gradient Muon (sigma=10),0,55,194.45,55,2640
+Noisy policy-gradient Muon (sigma=10),0,56,228.35,56,2688
+Noisy policy-gradient Muon (sigma=10),0,57,184.325,57,2736
+Noisy policy-gradient Muon (sigma=10),0,58,185.55,58,2784
+Noisy policy-gradient Muon (sigma=10),0,59,205.975,59,2832
+Noisy policy-gradient Muon (sigma=10),0,60,210.7,60,2880
+Noisy policy-gradient Muon (sigma=10),0,61,242.625,61,2928
+Noisy policy-gradient Muon (sigma=10),0,62,289.125,62,2976
+Noisy policy-gradient Muon (sigma=10),0,63,315.3,63,3024
+Noisy policy-gradient Muon (sigma=10),0,64,360.35,64,3072
+Noisy policy-gradient Muon (sigma=10),0,65,376.05,65,3120
+Noisy policy-gradient Muon (sigma=10),0,66,386.65,66,3168
+Noisy policy-gradient Muon (sigma=10),0,67,406.15,67,3216
+Noisy policy-gradient Muon (sigma=10),0,68,426.8,68,3264
+Noisy policy-gradient Muon (sigma=10),0,69,430.35,69,3312
+Noisy policy-gradient Muon (sigma=10),0,70,400.225,70,3360
+Noisy policy-gradient Muon (sigma=10),1,0,22.85,0,0
+Noisy policy-gradient Muon (sigma=10),1,1,22.95,1,48
+Noisy policy-gradient Muon (sigma=10),1,2,23.0,2,96
+Noisy policy-gradient Muon (sigma=10),1,3,23.075,3,144
+Noisy policy-gradient Muon (sigma=10),1,4,23.7,4,192
+Noisy policy-gradient Muon (sigma=10),1,5,22.8,5,240
+Noisy policy-gradient Muon (sigma=10),1,6,23.05,6,288
+Noisy policy-gradient Muon (sigma=10),1,7,22.75,7,336
+Noisy policy-gradient Muon (sigma=10),1,8,22.875,8,384
+Noisy policy-gradient Muon (sigma=10),1,9,23.825,9,432
+Noisy policy-gradient Muon (sigma=10),1,10,23.875,10,480
+Noisy policy-gradient Muon (sigma=10),1,11,26.175,11,528
+Noisy policy-gradient Muon (sigma=10),1,12,30.525,12,576
+Noisy policy-gradient Muon (sigma=10),1,13,30.425,13,624
+Noisy policy-gradient Muon (sigma=10),1,14,34.875,14,672
+Noisy policy-gradient Muon (sigma=10),1,15,38.475,15,720
+Noisy policy-gradient Muon (sigma=10),1,16,39.975,16,768
+Noisy policy-gradient Muon (sigma=10),1,17,48.125,17,816
+Noisy policy-gradient Muon (sigma=10),1,18,46.575,18,864
+Noisy policy-gradient Muon (sigma=10),1,19,50.025,19,912
+Noisy policy-gradient Muon (sigma=10),1,20,46.8,20,960
+Noisy policy-gradient Muon (sigma=10),1,21,45.0,21,1008
+Noisy policy-gradient Muon (sigma=10),1,22,48.5,22,1056
+Noisy policy-gradient Muon (sigma=10),1,23,55.0,23,1104
+Noisy policy-gradient Muon (sigma=10),1,24,65.625,24,1152
+Noisy policy-gradient Muon (sigma=10),1,25,68.85,25,1200
+Noisy policy-gradient Muon (sigma=10),1,26,76.975,26,1248
+Noisy policy-gradient Muon (sigma=10),1,27,87.2,27,1296
+Noisy policy-gradient Muon (sigma=10),1,28,98.825,28,1344
+Noisy policy-gradient Muon (sigma=10),1,29,107.7,29,1392
+Noisy policy-gradient Muon (sigma=10),1,30,109.325,30,1440
+Noisy policy-gradient Muon (sigma=10),1,31,120.775,31,1488
+Noisy policy-gradient Muon (sigma=10),1,32,140.975,32,1536
+Noisy policy-gradient Muon (sigma=10),1,33,159.475,33,1584
+Noisy policy-gradient Muon (sigma=10),1,34,212.425,34,1632
+Noisy policy-gradient Muon (sigma=10),1,35,257.3,35,1680
+Noisy policy-gradient Muon (sigma=10),1,36,280.6,36,1728
+Noisy policy-gradient Muon (sigma=10),1,37,280.85,37,1776
+Noisy policy-gradient Muon (sigma=10),1,38,294.325,38,1824
+Noisy policy-gradient Muon (sigma=10),1,39,259.425,39,1872
+Noisy policy-gradient Muon (sigma=10),1,40,341.8,40,1920
+Noisy policy-gradient Muon (sigma=10),1,41,311.5,41,1968
+Noisy policy-gradient Muon (sigma=10),1,42,365.7,42,2016
+Noisy policy-gradient Muon (sigma=10),1,43,383.225,43,2064
+Noisy policy-gradient Muon (sigma=10),1,44,369.975,44,2112
+Noisy policy-gradient Muon (sigma=10),1,45,399.05,45,2160
+Noisy policy-gradient Muon (sigma=10),1,46,433.95,46,2208
+Noisy policy-gradient Muon (sigma=10),1,47,430.375,47,2256
+Noisy policy-gradient Muon (sigma=10),1,48,432.7,48,2304
+Noisy policy-gradient Muon (sigma=10),1,49,417.05,49,2352
+Noisy policy-gradient Muon (sigma=10),1,50,453.15,50,2400
+Noisy policy-gradient Muon (sigma=10),1,51,453.475,51,2448
+Noisy policy-gradient Muon (sigma=10),1,52,448.325,52,2496
+Noisy policy-gradient Muon (sigma=10),1,53,459.8,53,2544
+Noisy policy-gradient Muon (sigma=10),1,54,470.525,54,2592
+Noisy policy-gradient Muon (sigma=10),1,55,484.15,55,2640
+Noisy policy-gradient Muon (sigma=10),1,56,488.075,56,2688
+Noisy policy-gradient Muon (sigma=10),1,57,495.375,57,2736
+Noisy policy-gradient Muon (sigma=10),1,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=10),1,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=10),1,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=10),1,61,500.0,61,2928
+Noisy policy-gradient Muon (sigma=10),1,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=10),1,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=10),1,64,498.3,64,3072
+Noisy policy-gradient Muon (sigma=10),1,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=10),1,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=10),1,67,498.9,67,3216
+Noisy policy-gradient Muon (sigma=10),1,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=10),1,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=10),1,70,500.0,70,3360
+Noisy policy-gradient Muon (sigma=10),2,0,21.35,0,0
+Noisy policy-gradient Muon (sigma=10),2,1,21.225,1,48
+Noisy policy-gradient Muon (sigma=10),2,2,21.45,2,96
+Noisy policy-gradient Muon (sigma=10),2,3,21.625,3,144
+Noisy policy-gradient Muon (sigma=10),2,4,21.45,4,192
+Noisy policy-gradient Muon (sigma=10),2,5,21.45,5,240
+Noisy policy-gradient Muon (sigma=10),2,6,21.4,6,288
+Noisy policy-gradient Muon (sigma=10),2,7,20.925,7,336
+Noisy policy-gradient Muon (sigma=10),2,8,20.6,8,384
+Noisy policy-gradient Muon (sigma=10),2,9,20.95,9,432
+Noisy policy-gradient Muon (sigma=10),2,10,22.325,10,480
+Noisy policy-gradient Muon (sigma=10),2,11,23.025,11,528
+Noisy policy-gradient Muon (sigma=10),2,12,25.375,12,576
+Noisy policy-gradient Muon (sigma=10),2,13,27.125,13,624
+Noisy policy-gradient Muon (sigma=10),2,14,25.35,14,672
+Noisy policy-gradient Muon (sigma=10),2,15,26.75,15,720
+Noisy policy-gradient Muon (sigma=10),2,16,26.725,16,768
+Noisy policy-gradient Muon (sigma=10),2,17,27.225,17,816
+Noisy policy-gradient Muon (sigma=10),2,18,27.7,18,864
+Noisy policy-gradient Muon (sigma=10),2,19,29.675,19,912
+Noisy policy-gradient Muon (sigma=10),2,20,32.3,20,960
+Noisy policy-gradient Muon (sigma=10),2,21,36.825,21,1008
+Noisy policy-gradient Muon (sigma=10),2,22,43.875,22,1056
+Noisy policy-gradient Muon (sigma=10),2,23,44.95,23,1104
+Noisy policy-gradient Muon (sigma=10),2,24,47.525,24,1152
+Noisy policy-gradient Muon (sigma=10),2,25,51.125,25,1200
+Noisy policy-gradient Muon (sigma=10),2,26,55.8,26,1248
+Noisy policy-gradient Muon (sigma=10),2,27,57.275,27,1296
+Noisy policy-gradient Muon (sigma=10),2,28,61.45,28,1344
+Noisy policy-gradient Muon (sigma=10),2,29,71.0,29,1392
+Noisy policy-gradient Muon (sigma=10),2,30,96.5,30,1440
+Noisy policy-gradient Muon (sigma=10),2,31,102.275,31,1488
+Noisy policy-gradient Muon (sigma=10),2,32,113.4,32,1536
+Noisy policy-gradient Muon (sigma=10),2,33,134.875,33,1584
+Noisy policy-gradient Muon (sigma=10),2,34,143.625,34,1632
+Noisy policy-gradient Muon (sigma=10),2,35,152.925,35,1680
+Noisy policy-gradient Muon (sigma=10),2,36,156.7,36,1728
+Noisy policy-gradient Muon (sigma=10),2,37,173.8,37,1776
+Noisy policy-gradient Muon (sigma=10),2,38,186.0,38,1824
+Noisy policy-gradient Muon (sigma=10),2,39,193.425,39,1872
+Noisy policy-gradient Muon (sigma=10),2,40,206.725,40,1920
+Noisy policy-gradient Muon (sigma=10),2,41,224.075,41,1968
+Noisy policy-gradient Muon (sigma=10),2,42,222.175,42,2016
+Noisy policy-gradient Muon (sigma=10),2,43,224.075,43,2064
+Noisy policy-gradient Muon (sigma=10),2,44,239.825,44,2112
+Noisy policy-gradient Muon (sigma=10),2,45,259.75,45,2160
+Noisy policy-gradient Muon (sigma=10),2,46,281.025,46,2208
+Noisy policy-gradient Muon (sigma=10),2,47,285.175,47,2256
+Noisy policy-gradient Muon (sigma=10),2,48,303.225,48,2304
+Noisy policy-gradient Muon (sigma=10),2,49,303.675,49,2352
+Noisy policy-gradient Muon (sigma=10),2,50,298.85,50,2400
+Noisy policy-gradient Muon (sigma=10),2,51,289.3,51,2448
+Noisy policy-gradient Muon (sigma=10),2,52,291.3,52,2496
+Noisy policy-gradient Muon (sigma=10),2,53,297.175,53,2544
+Noisy policy-gradient Muon (sigma=10),2,54,304.575,54,2592
+Noisy policy-gradient Muon (sigma=10),2,55,314.85,55,2640
+Noisy policy-gradient Muon (sigma=10),2,56,310.75,56,2688
+Noisy policy-gradient Muon (sigma=10),2,57,319.525,57,2736
+Noisy policy-gradient Muon (sigma=10),2,58,346.45,58,2784
+Noisy policy-gradient Muon (sigma=10),2,59,374.025,59,2832
+Noisy policy-gradient Muon (sigma=10),2,60,388.425,60,2880
+Noisy policy-gradient Muon (sigma=10),2,61,416.575,61,2928
+Noisy policy-gradient Muon (sigma=10),2,62,430.625,62,2976
+Noisy policy-gradient Muon (sigma=10),2,63,441.825,63,3024
+Noisy policy-gradient Muon (sigma=10),2,64,434.675,64,3072
+Noisy policy-gradient Muon (sigma=10),2,65,435.825,65,3120
+Noisy policy-gradient Muon (sigma=10),2,66,459.275,66,3168
+Noisy policy-gradient Muon (sigma=10),2,67,449.15,67,3216
+Noisy policy-gradient Muon (sigma=10),2,68,484.075,68,3264
+Noisy policy-gradient Muon (sigma=10),2,69,489.5,69,3312
+Noisy policy-gradient Muon (sigma=10),2,70,499.625,70,3360
+Noisy policy-gradient Muon (sigma=10),3,0,22.6,0,0
+Noisy policy-gradient Muon (sigma=10),3,1,22.7,1,48
+Noisy policy-gradient Muon (sigma=10),3,2,22.775,2,96
+Noisy policy-gradient Muon (sigma=10),3,3,22.6,3,144
+Noisy policy-gradient Muon (sigma=10),3,4,22.825,4,192
+Noisy policy-gradient Muon (sigma=10),3,5,23.15,5,240
+Noisy policy-gradient Muon (sigma=10),3,6,23.675,6,288
+Noisy policy-gradient Muon (sigma=10),3,7,24.05,7,336
+Noisy policy-gradient Muon (sigma=10),3,8,24.175,8,384
+Noisy policy-gradient Muon (sigma=10),3,9,25.175,9,432
+Noisy policy-gradient Muon (sigma=10),3,10,26.125,10,480
+Noisy policy-gradient Muon (sigma=10),3,11,27.35,11,528
+Noisy policy-gradient Muon (sigma=10),3,12,29.45,12,576
+Noisy policy-gradient Muon (sigma=10),3,13,29.4,13,624
+Noisy policy-gradient Muon (sigma=10),3,14,31.075,14,672
+Noisy policy-gradient Muon (sigma=10),3,15,29.7,15,720
+Noisy policy-gradient Muon (sigma=10),3,16,31.825,16,768
+Noisy policy-gradient Muon (sigma=10),3,17,32.95,17,816
+Noisy policy-gradient Muon (sigma=10),3,18,35.95,18,864
+Noisy policy-gradient Muon (sigma=10),3,19,35.95,19,912
+Noisy policy-gradient Muon (sigma=10),3,20,34.975,20,960
+Noisy policy-gradient Muon (sigma=10),3,21,35.3,21,1008
+Noisy policy-gradient Muon (sigma=10),3,22,36.825,22,1056
+Noisy policy-gradient Muon (sigma=10),3,23,42.95,23,1104
+Noisy policy-gradient Muon (sigma=10),3,24,48.35,24,1152
+Noisy policy-gradient Muon (sigma=10),3,25,55.025,25,1200
+Noisy policy-gradient Muon (sigma=10),3,26,83.575,26,1248
+Noisy policy-gradient Muon (sigma=10),3,27,90.95,27,1296
+Noisy policy-gradient Muon (sigma=10),3,28,120.625,28,1344
+Noisy policy-gradient Muon (sigma=10),3,29,123.425,29,1392
+Noisy policy-gradient Muon (sigma=10),3,30,148.7,30,1440
+Noisy policy-gradient Muon (sigma=10),3,31,164.975,31,1488
+Noisy policy-gradient Muon (sigma=10),3,32,176.825,32,1536
+Noisy policy-gradient Muon (sigma=10),3,33,181.675,33,1584
+Noisy policy-gradient Muon (sigma=10),3,34,200.6,34,1632
+Noisy policy-gradient Muon (sigma=10),3,35,195.75,35,1680
+Noisy policy-gradient Muon (sigma=10),3,36,211.375,36,1728
+Noisy policy-gradient Muon (sigma=10),3,37,232.95,37,1776
+Noisy policy-gradient Muon (sigma=10),3,38,234.225,38,1824
+Noisy policy-gradient Muon (sigma=10),3,39,222.225,39,1872
+Noisy policy-gradient Muon (sigma=10),3,40,259.575,40,1920
+Noisy policy-gradient Muon (sigma=10),3,41,280.525,41,1968
+Noisy policy-gradient Muon (sigma=10),3,42,292.725,42,2016
+Noisy policy-gradient Muon (sigma=10),3,43,306.05,43,2064
+Noisy policy-gradient Muon (sigma=10),3,44,359.05,44,2112
+Noisy policy-gradient Muon (sigma=10),3,45,333.75,45,2160
+Noisy policy-gradient Muon (sigma=10),3,46,300.075,46,2208
+Noisy policy-gradient Muon (sigma=10),3,47,281.65,47,2256
+Noisy policy-gradient Muon (sigma=10),3,48,249.3,48,2304
+Noisy policy-gradient Muon (sigma=10),3,49,237.6,49,2352
+Noisy policy-gradient Muon (sigma=10),3,50,241.325,50,2400
+Noisy policy-gradient Muon (sigma=10),3,51,268.525,51,2448
+Noisy policy-gradient Muon (sigma=10),3,52,306.175,52,2496
+Noisy policy-gradient Muon (sigma=10),3,53,286.275,53,2544
+Noisy policy-gradient Muon (sigma=10),3,54,300.925,54,2592
+Noisy policy-gradient Muon (sigma=10),3,55,293.35,55,2640
+Noisy policy-gradient Muon (sigma=10),3,56,298.8,56,2688
+Noisy policy-gradient Muon (sigma=10),3,57,301.925,57,2736
+Noisy policy-gradient Muon (sigma=10),3,58,318.425,58,2784
+Noisy policy-gradient Muon (sigma=10),3,59,337.9,59,2832
+Noisy policy-gradient Muon (sigma=10),3,60,359.05,60,2880
+Noisy policy-gradient Muon (sigma=10),3,61,386.125,61,2928
+Noisy policy-gradient Muon (sigma=10),3,62,432.275,62,2976
+Noisy policy-gradient Muon (sigma=10),3,63,472.775,63,3024
+Noisy policy-gradient Muon (sigma=10),3,64,481.6,64,3072
+Noisy policy-gradient Muon (sigma=10),3,65,492.475,65,3120
+Noisy policy-gradient Muon (sigma=10),3,66,493.9,66,3168
+Noisy policy-gradient Muon (sigma=10),3,67,493.8,67,3216
+Noisy policy-gradient Muon (sigma=10),3,68,493.175,68,3264
+Noisy policy-gradient Muon (sigma=10),3,69,494.15,69,3312
+Noisy policy-gradient Muon (sigma=10),3,70,497.325,70,3360
+Noisy policy-gradient Muon (sigma=10),4,0,22.375,0,0
+Noisy policy-gradient Muon (sigma=10),4,1,22.375,1,48
+Noisy policy-gradient Muon (sigma=10),4,2,22.375,2,96
+Noisy policy-gradient Muon (sigma=10),4,3,22.775,3,144
+Noisy policy-gradient Muon (sigma=10),4,4,23.8,4,192
+Noisy policy-gradient Muon (sigma=10),4,5,24.75,5,240
+Noisy policy-gradient Muon (sigma=10),4,6,25.45,6,288
+Noisy policy-gradient Muon (sigma=10),4,7,24.4,7,336
+Noisy policy-gradient Muon (sigma=10),4,8,24.425,8,384
+Noisy policy-gradient Muon (sigma=10),4,9,24.1,9,432
+Noisy policy-gradient Muon (sigma=10),4,10,23.075,10,480
+Noisy policy-gradient Muon (sigma=10),4,11,22.925,11,528
+Noisy policy-gradient Muon (sigma=10),4,12,22.3,12,576
+Noisy policy-gradient Muon (sigma=10),4,13,23.1,13,624
+Noisy policy-gradient Muon (sigma=10),4,14,23.6,14,672
+Noisy policy-gradient Muon (sigma=10),4,15,24.2,15,720
+Noisy policy-gradient Muon (sigma=10),4,16,25.15,16,768
+Noisy policy-gradient Muon (sigma=10),4,17,24.825,17,816
+Noisy policy-gradient Muon (sigma=10),4,18,26.075,18,864
+Noisy policy-gradient Muon (sigma=10),4,19,27.05,19,912
+Noisy policy-gradient Muon (sigma=10),4,20,28.75,20,960
+Noisy policy-gradient Muon (sigma=10),4,21,31.125,21,1008
+Noisy policy-gradient Muon (sigma=10),4,22,32.15,22,1056
+Noisy policy-gradient Muon (sigma=10),4,23,33.875,23,1104
+Noisy policy-gradient Muon (sigma=10),4,24,36.25,24,1152
+Noisy policy-gradient Muon (sigma=10),4,25,46.95,25,1200
+Noisy policy-gradient Muon (sigma=10),4,26,50.85,26,1248
+Noisy policy-gradient Muon (sigma=10),4,27,58.975,27,1296
+Noisy policy-gradient Muon (sigma=10),4,28,62.15,28,1344
+Noisy policy-gradient Muon (sigma=10),4,29,68.275,29,1392
+Noisy policy-gradient Muon (sigma=10),4,30,81.575,30,1440
+Noisy policy-gradient Muon (sigma=10),4,31,90.0,31,1488
+Noisy policy-gradient Muon (sigma=10),4,32,106.025,32,1536
+Noisy policy-gradient Muon (sigma=10),4,33,155.7,33,1584
+Noisy policy-gradient Muon (sigma=10),4,34,163.95,34,1632
+Noisy policy-gradient Muon (sigma=10),4,35,172.05,35,1680
+Noisy policy-gradient Muon (sigma=10),4,36,198.525,36,1728
+Noisy policy-gradient Muon (sigma=10),4,37,206.6,37,1776
+Noisy policy-gradient Muon (sigma=10),4,38,240.7,38,1824
+Noisy policy-gradient Muon (sigma=10),4,39,259.525,39,1872
+Noisy policy-gradient Muon (sigma=10),4,40,302.775,40,1920
+Noisy policy-gradient Muon (sigma=10),4,41,335.2,41,1968
+Noisy policy-gradient Muon (sigma=10),4,42,388.175,42,2016
+Noisy policy-gradient Muon (sigma=10),4,43,426.075,43,2064
+Noisy policy-gradient Muon (sigma=10),4,44,435.9,44,2112
+Noisy policy-gradient Muon (sigma=10),4,45,444.6,45,2160
+Noisy policy-gradient Muon (sigma=10),4,46,476.825,46,2208
+Noisy policy-gradient Muon (sigma=10),4,47,466.1,47,2256
+Noisy policy-gradient Muon (sigma=10),4,48,464.75,48,2304
+Noisy policy-gradient Muon (sigma=10),4,49,467.15,49,2352
+Noisy policy-gradient Muon (sigma=10),4,50,450.25,50,2400
+Noisy policy-gradient Muon (sigma=10),4,51,473.575,51,2448
+Noisy policy-gradient Muon (sigma=10),4,52,479.7,52,2496
+Noisy policy-gradient Muon (sigma=10),4,53,477.3,53,2544
+Noisy policy-gradient Muon (sigma=10),4,54,474.35,54,2592
+Noisy policy-gradient Muon (sigma=10),4,55,479.475,55,2640
+Noisy policy-gradient Muon (sigma=10),4,56,500.0,56,2688
+Noisy policy-gradient Muon (sigma=10),4,57,497.95,57,2736
+Noisy policy-gradient Muon (sigma=10),4,58,500.0,58,2784
+Noisy policy-gradient Muon (sigma=10),4,59,500.0,59,2832
+Noisy policy-gradient Muon (sigma=10),4,60,500.0,60,2880
+Noisy policy-gradient Muon (sigma=10),4,61,498.825,61,2928
+Noisy policy-gradient Muon (sigma=10),4,62,500.0,62,2976
+Noisy policy-gradient Muon (sigma=10),4,63,500.0,63,3024
+Noisy policy-gradient Muon (sigma=10),4,64,500.0,64,3072
+Noisy policy-gradient Muon (sigma=10),4,65,500.0,65,3120
+Noisy policy-gradient Muon (sigma=10),4,66,500.0,66,3168
+Noisy policy-gradient Muon (sigma=10),4,67,500.0,67,3216
+Noisy policy-gradient Muon (sigma=10),4,68,500.0,68,3264
+Noisy policy-gradient Muon (sigma=10),4,69,500.0,69,3312
+Noisy policy-gradient Muon (sigma=10),4,70,500.0,70,3360

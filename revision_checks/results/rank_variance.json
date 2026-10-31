@@ -1,0 +1,32 @@
+[
+  {
+    "rank": 1,
+    "frobenius_norm": 0.9999999999999996,
+    "empirical_mse": 15.348198582475186,
+    "standard_error": 0.1646188344616525,
+    "theoretical_mse": 15.75,
+    "q": 4,
+    "trials": 10000,
+    "seed": 314159
+  },
+  {
+    "rank": 2,
+    "frobenius_norm": 0.9999999999999998,
+    "empirical_mse": 15.822203975114826,
+    "standard_error": 0.13338703627660511,
+    "theoretical_mse": 15.75,
+    "q": 4,
+    "trials": 10000,
+    "seed": 314159
+  },
+  {
+    "rank": 8,
+    "frobenius_norm": 0.9999999999999998,
+    "empirical_mse": 15.789346912634912,
+    "standard_error": 0.09362135486268365,
+    "theoretical_mse": 15.75,
+    "q": 4,
+    "trials": 10000,
+    "seed": 314159
+  }
+]

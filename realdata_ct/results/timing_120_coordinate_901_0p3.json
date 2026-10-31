@@ -1,0 +1,14 @@
+{
+  "views": 120,
+  "method": "coordinate",
+  "seed": 901,
+  "eta": 0.3,
+  "phase": "timing",
+  "calls": 13450,
+  "iterations": 1,
+  "objective": 0.2601444896031309,
+  "seconds": 8.775841416005278,
+  "polar_seconds": 0.0006277500069700181,
+  "data_residual": 0.6925374918342408,
+  "all_view_residual": 0.6925374918342408
+}

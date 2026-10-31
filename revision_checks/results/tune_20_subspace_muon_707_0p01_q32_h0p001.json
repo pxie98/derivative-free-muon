@@ -1,0 +1,25 @@
+{
+  "views": 20,
+  "method": "subspace_muon",
+  "seed": 707,
+  "eta": 0.01,
+  "phase": "tune",
+  "q": 32,
+  "radius": 0.001,
+  "beta": 0.9,
+  "projection_rank": 8,
+  "projection_refresh": 100,
+  "calls": 19999,
+  "iterations": 606,
+  "objective": 0.16570604263711627,
+  "gap": 0.3033923334593887,
+  "data_residual": 0.553315462732933,
+  "times": {
+    "objective": 2.031406839900228,
+    "probes_and_estimate": 0.45813463110062,
+    "update": 0.02771686401865736,
+    "total": 2.5174879590013006,
+    "other": 0.0002296239817951573
+  },
+  "heldout_residual": 0.5603848504792808
+}

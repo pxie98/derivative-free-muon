@@ -1,0 +1,12 @@
+{
+  "iterations": 200,
+  "beta": 0.9,
+  "fd_radius": 0.0001,
+  "polar_method": "svd",
+  "cases": [
+    {"id": 1, "m": 8, "n": 8, "samples": 256, "target_rank": null, "noise_std": 0.01, "regularization": 0.0001, "learning_rate": 0.035, "low_rank_probes": 4, "direct_candidates": 8, "direct_learning_rate": 0.003, "seed": 1101},
+    {"id": 2, "m": 8, "n": 8, "samples": 256, "target_rank": null, "noise_std": 0.10, "regularization": 0.0001, "learning_rate": 0.035, "low_rank_probes": 4, "direct_candidates": 8, "direct_learning_rate": 0.003, "seed": 2202},
+    {"id": 3, "m": 8, "n": 8, "samples": 256, "target_rank": 2, "noise_std": 0.01, "regularization": 0.0001, "learning_rate": 0.035, "low_rank_probes": 4, "direct_candidates": 8, "direct_learning_rate": 0.003, "seed": 3303},
+    {"id": 4, "m": 16, "n": 16, "samples": 512, "target_rank": null, "noise_std": 0.01, "regularization": 0.0001, "learning_rate": 0.025, "low_rank_probes": 8, "direct_candidates": 12, "direct_learning_rate": 0.002, "seed": 4404}
+  ]
+}

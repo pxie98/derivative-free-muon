@@ -1,0 +1,26 @@
+{
+  "views": 20,
+  "method": "rankone",
+  "seed": 903,
+  "eta": 0.01,
+  "phase": "sensitivity",
+  "q": 32,
+  "probes_per_update": 32,
+  "radius": 0.001,
+  "beta": 0.9,
+  "projection_rank": 8,
+  "projection_refresh": 100,
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.12293715504240245,
+  "gap": 0.2142697683286341,
+  "data_residual": 0.17252413613045017,
+  "times": {
+    "objective": 2.3302871698215313,
+    "probes_and_estimate": 0.49917291016026866,
+    "update": 0.198399413991865,
+    "total": 3.028078874998755,
+    "other": 0.00021938102509011514
+  },
+  "heldout_residual": 0.3040202804160796
+}

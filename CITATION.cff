@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the associated paper and the versioned code release when using this software."
+type: software
+title: "Derivative-Free Muon for Matrix Optimization with Rank-One Perturbations"
+authors:
+  - family-names: "Xie"
+    given-names: "Pengcheng"
+    orcid: "https://orcid.org/0000-0001-5973-1535"
+version: "1.0.0"
+date-released: "2026-10-31"
+keywords:
+  - derivative-free optimization
+  - matrix optimization
+  - Muon
+  - rank-one perturbations
+  - scientific computing
+repository-code: "https://github.com/pxie98/derivative-free-muon"
+url: "https://github.com/pxie98/derivative-free-muon/releases/tag/v1.0.0"

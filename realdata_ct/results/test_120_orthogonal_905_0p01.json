@@ -1,0 +1,14 @@
+{
+  "views": 120,
+  "method": "orthogonal",
+  "seed": 905,
+  "eta": 0.01,
+  "phase": "test",
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.052024805786128274,
+  "seconds": 14.12238983399584,
+  "polar_seconds": 0.1952910765830893,
+  "data_residual": 0.23390165032398527,
+  "all_view_residual": 0.23390165032398527
+}

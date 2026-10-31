@@ -1,0 +1,42 @@
+{
+  "python": "3.12.2",
+  "numpy": "1.26.4",
+  "scipy": "1.13.1",
+  "platform": "macOS-14.5-arm64-arm-64bit",
+  "machine": "arm64",
+  "workers": 4,
+  "blas_threads": "1",
+  "budget": 20000,
+  "q": 32,
+  "radius": 0.001,
+  "beta": 0.9,
+  "grid": [
+    0.001,
+    0.003,
+    0.01,
+    0.03,
+    0.1
+  ],
+  "coordinate_grid": [
+    0.001,
+    0.003,
+    0.01,
+    0.03,
+    0.1,
+    0.3,
+    1.0
+  ],
+  "tune_seeds": [
+    707,
+    808
+  ],
+  "test_seeds": [
+    901,
+    902,
+    903,
+    904,
+    905
+  ],
+  "data_sha256": "03a35c57ae52026f980ffcf540a4243a02f198b3fcdd8dff72cb251f70b067cc",
+  "cpu": "Apple M3 Max"
+}

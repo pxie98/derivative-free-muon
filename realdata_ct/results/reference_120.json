@@ -1,0 +1,12 @@
+{
+  "views": 120,
+  "objective": 0.004746402320932149,
+  "seconds": 0.07486937497742474,
+  "iterations": 69,
+  "forward": 69,
+  "adjoint": 70,
+  "relative_normal_residual": 9.320773164182346e-11,
+  "objective_error_bound": 9.656854870766142e-19,
+  "data_residual": 0.03739671077624712,
+  "all_view_residual": 0.03739671077624712
+}

@@ -1,0 +1,61 @@
+case,method,relative_gap_target,calls_to_target,iteration_to_target,last_recorded_calls,extra_gradient_work_excluded
+1,Full-gradient Muon,0.1,33,32,201,True
+1,Full-gradient Muon,0.01,64,63,201,True
+1,Full-gradient Muon,0.001,103,102,201,True
+1,Entrywise DFO-Muon,0.1,2081,32,13001,False
+1,Entrywise DFO-Muon,0.01,4161,64,13001,False
+1,Entrywise DFO-Muon,0.001,6956,107,13001,False
+1,Low-rank DFO-Muon,0.1,331,66,1001,False
+1,Low-rank DFO-Muon,0.01,,,1001,False
+1,Low-rank DFO-Muon,0.001,,,1001,False
+1,Low-rank DFO-Muon v2,0.1,2081,32,13001,False
+1,Low-rank DFO-Muon v2,0.01,4161,64,13001,False
+1,Low-rank DFO-Muon v2,0.001,6956,107,13001,False
+1,Direct structured search,0.1,,,1801,False
+1,Direct structured search,0.01,,,1801,False
+1,Direct structured search,0.001,,,1801,False
+2,Full-gradient Muon,0.1,33,32,201,True
+2,Full-gradient Muon,0.01,50,49,201,True
+2,Full-gradient Muon,0.001,113,112,201,True
+2,Entrywise DFO-Muon,0.1,2081,32,13001,False
+2,Entrywise DFO-Muon,0.01,3186,49,13001,False
+2,Entrywise DFO-Muon,0.001,6306,97,13001,False
+2,Low-rank DFO-Muon,0.1,296,59,1001,False
+2,Low-rank DFO-Muon,0.01,,,1001,False
+2,Low-rank DFO-Muon,0.001,,,1001,False
+2,Low-rank DFO-Muon v2,0.1,2081,32,13001,False
+2,Low-rank DFO-Muon v2,0.01,3186,49,13001,False
+2,Low-rank DFO-Muon v2,0.001,6306,97,13001,False
+2,Direct structured search,0.1,,,1801,False
+2,Direct structured search,0.01,,,1801,False
+2,Direct structured search,0.001,,,1801,False
+3,Full-gradient Muon,0.1,59,58,201,True
+3,Full-gradient Muon,0.01,83,82,201,True
+3,Full-gradient Muon,0.001,114,113,201,True
+3,Entrywise DFO-Muon,0.1,3771,58,13001,False
+3,Entrywise DFO-Muon,0.01,5331,82,13001,False
+3,Entrywise DFO-Muon,0.001,7151,110,13001,False
+3,Low-rank DFO-Muon,0.1,476,95,1001,False
+3,Low-rank DFO-Muon,0.01,,,1001,False
+3,Low-rank DFO-Muon,0.001,,,1001,False
+3,Low-rank DFO-Muon v2,0.1,3771,58,13001,False
+3,Low-rank DFO-Muon v2,0.01,5331,82,13001,False
+3,Low-rank DFO-Muon v2,0.001,7151,110,13001,False
+3,Direct structured search,0.1,,,1801,False
+3,Direct structured search,0.01,,,1801,False
+3,Direct structured search,0.001,,,1801,False
+4,Full-gradient Muon,0.1,43,42,201,True
+4,Full-gradient Muon,0.01,67,66,201,True
+4,Full-gradient Muon,0.001,111,110,201,True
+4,Entrywise DFO-Muon,0.1,10795,42,51401,False
+4,Entrywise DFO-Muon,0.01,16963,66,51401,False
+4,Entrywise DFO-Muon,0.001,28014,109,51401,False
+4,Low-rank DFO-Muon,0.1,1171,130,1801,False
+4,Low-rank DFO-Muon,0.01,,,1801,False
+4,Low-rank DFO-Muon,0.001,,,1801,False
+4,Low-rank DFO-Muon v2,0.1,10795,42,51401,False
+4,Low-rank DFO-Muon v2,0.01,16963,66,51401,False
+4,Low-rank DFO-Muon v2,0.001,28014,109,51401,False
+4,Direct structured search,0.1,,,2601,False
+4,Direct structured search,0.01,,,2601,False
+4,Direct structured search,0.001,,,2601,False

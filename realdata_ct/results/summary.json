@@ -1,0 +1,170 @@
+{
+  "20": {
+    "reference": {
+      "views": 20,
+      "objective": 0.020111572956117027,
+      "seconds": 0.007282041013240814,
+      "iterations": 33,
+      "forward": 33,
+      "adjoint": 34,
+      "relative_normal_residual": 5.987681557893697e-11,
+      "objective_error_bound": 6.658139751039473e-20,
+      "data_residual": 0.06962274480105386,
+      "all_view_residual": 0.11951144725171292,
+      "heldout_residual": 0.12716509147286417
+    },
+    "methods": {
+      "rankone": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.21608208372421323,
+        "gap_quartiles": [
+          0.2142697683286341,
+          0.21749118366788564
+        ],
+        "residual_median": 0.1659064865519587,
+        "heldout_median": 0.30203528474884295,
+        "serial_seconds": 2.604380416974891,
+        "serial_polar_seconds": 0.16278979610069655
+      },
+      "orthogonal": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.21396282117549356,
+        "gap_quartiles": [
+          0.20705054155630503,
+          0.21794437649615836
+        ],
+        "residual_median": 0.16754552817265708,
+        "heldout_median": 0.3000806300361054,
+        "serial_seconds": 2.7171352920122445,
+        "serial_polar_seconds": 0.1708016176125966
+      },
+      "sphere": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.1817414925486007,
+        "gap_quartiles": [
+          0.1785621629173466,
+          0.18293168264395915
+        ],
+        "residual_median": 0.1562961878448219,
+        "heldout_median": 0.2821442484459372,
+        "serial_seconds": 2.911454417015193,
+        "serial_polar_seconds": 0.17326884000794962
+      },
+      "zo_sgd": {
+        "eta": 0.003,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.030778287961419595,
+        "gap_quartiles": [
+          0.029744230195433156,
+          0.03115841850344134
+        ],
+        "residual_median": 0.10053790011396689,
+        "heldout_median": 0.16866266221830373,
+        "serial_seconds": 2.550784583989298,
+        "serial_polar_seconds": 0.003786469082115218
+      },
+      "coordinate": {
+        "eta": 0.3,
+        "calls": 13450,
+        "iterations": 1,
+        "gap_median": 0.720693012968674,
+        "gap_quartiles": [
+          0.720693012968674,
+          0.720693012968674
+        ],
+        "residual_median": 0.698522430293213,
+        "heldout_median": 0.7226586625648481,
+        "serial_seconds": 1.6649182499968447,
+        "serial_polar_seconds": 0.0006046660128049552
+      }
+    }
+  },
+  "120": {
+    "reference": {
+      "views": 120,
+      "objective": 0.004746402320932149,
+      "seconds": 0.07486937497742474,
+      "iterations": 69,
+      "forward": 69,
+      "adjoint": 70,
+      "relative_normal_residual": 9.320773164182346e-11,
+      "objective_error_bound": 9.656854870766142e-19,
+      "data_residual": 0.03739671077624712,
+      "all_view_residual": 0.03739671077624712
+    },
+    "methods": {
+      "rankone": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.10299448891716682,
+        "gap_quartiles": [
+          0.09807616648172496,
+          0.10311108630915188
+        ],
+        "residual_median": 0.24390958025973053,
+        "serial_seconds": 13.547961125004804,
+        "serial_polar_seconds": 0.1872307906160131
+      },
+      "orthogonal": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.10166874750106512,
+        "gap_quartiles": [
+          0.10097783357318753,
+          0.10175177730801302
+        ],
+        "residual_median": 0.24044700239605787,
+        "serial_seconds": 13.623174457985442,
+        "serial_polar_seconds": 0.18498595713754185
+      },
+      "sphere": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.08481292549284442,
+        "gap_quartiles": [
+          0.08387816035252793,
+          0.08502047132898342
+        ],
+        "residual_median": 0.2193603483260975,
+        "serial_seconds": 13.410553207999328,
+        "serial_polar_seconds": 0.17806828356697224
+      },
+      "zo_sgd": {
+        "eta": 0.003,
+        "calls": 19956,
+        "iterations": 307,
+        "gap_median": 0.018910936405755155,
+        "gap_quartiles": [
+          0.018881337668370662,
+          0.019090398056375076
+        ],
+        "residual_median": 0.12363378364900442,
+        "serial_seconds": 12.973779583000578,
+        "serial_polar_seconds": 0.0027062389126513153
+      },
+      "coordinate": {
+        "eta": 0.3,
+        "calls": 13450,
+        "iterations": 1,
+        "gap_median": 0.5156915335478305,
+        "gap_quartiles": [
+          0.5156915335478305,
+          0.5156915335478305
+        ],
+        "residual_median": 0.6925374918342408,
+        "serial_seconds": 8.775841416005278,
+        "serial_polar_seconds": 0.0006277500069700181
+      }
+    }
+  }
+}

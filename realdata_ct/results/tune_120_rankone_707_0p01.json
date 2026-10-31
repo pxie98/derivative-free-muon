@@ -1,0 +1,14 @@
+{
+  "views": 120,
+  "method": "rankone",
+  "seed": 707,
+  "eta": 0.01,
+  "phase": "tune",
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.05712633809714081,
+  "seconds": 14.23510258301394,
+  "polar_seconds": 0.20300270471489057,
+  "data_residual": 0.2459304023853905,
+  "all_view_residual": 0.2459304023853905
+}

@@ -1,0 +1,14 @@
+{
+  "views": 120,
+  "method": "sphere",
+  "seed": 808,
+  "eta": 0.003,
+  "phase": "tune",
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.10304334125893576,
+  "seconds": 14.45602733301348,
+  "polar_seconds": 0.2078141742385924,
+  "data_residual": 0.4433250933564059,
+  "all_view_residual": 0.4433250933564059
+}

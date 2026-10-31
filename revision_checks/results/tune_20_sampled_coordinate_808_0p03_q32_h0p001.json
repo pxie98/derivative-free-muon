@@ -1,0 +1,25 @@
+{
+  "views": 20,
+  "method": "sampled_coordinate",
+  "seed": 808,
+  "eta": 0.03,
+  "phase": "tune",
+  "q": 32,
+  "radius": 0.001,
+  "beta": 0.9,
+  "projection_rank": 8,
+  "projection_refresh": 100,
+  "calls": 19956,
+  "iterations": 307,
+  "objective": 0.8096280456706332,
+  "gap": 1.6452084030822431,
+  "data_residual": 0.4268470370838049,
+  "times": {
+    "objective": 1.9911624600244977,
+    "probes_and_estimate": 0.20652654197874654,
+    "update": 0.17113307399267796,
+    "total": 2.3689492079993215,
+    "other": 0.00012713200339931063
+  },
+  "heldout_residual": 0.7658451773901788
+}

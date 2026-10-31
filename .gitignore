@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+*.log
+*.part
+*.pdf
+*.png
+*.tex
+realdata_ct/data/*.mat
+realdata_ct/audit.json
+revision_checks/results/audit*.json
+rank_one_study/results/audit.json
+submission_checks/results/mathematics_audit.json

@@ -1,0 +1,226 @@
+{
+  "methods": {
+    "20": {
+      "sampled_coordinate": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "median_gap": 0.20884519262525797,
+        "gap_quartiles": [
+          0.20876773936168902,
+          0.21098890294032946
+        ],
+        "median_residual": 0.17119581710977286,
+        "median_heldout_residual": 0.3032632089897609,
+        "serial_times": {
+          "objective": 1.8412510770140216,
+          "probes_and_estimate": 0.12150095998185861,
+          "update": 0.16196069599027396,
+          "total": 2.1248732919993927,
+          "other": 0.00016055901323852595
+        }
+      },
+      "jaguar": {
+        "eta": 0.0003,
+        "calls": 19999,
+        "iterations": 6666,
+        "median_gap": 0.6384695503730515,
+        "gap_quartiles": [
+          0.6342767666896996,
+          0.6433207223713965
+        ],
+        "median_residual": 0.639617752458387,
+        "median_heldout_residual": 0.6565495889322197,
+        "serial_times": {
+          "objective": 1.8974509260369814,
+          "probes_and_estimate": 0.0772843440699944,
+          "update": 3.430189818955114,
+          "total": 5.407106209000631,
+          "other": 0.0021811199385410873
+        }
+      },
+      "subspace_muon": {
+        "eta": 0.03,
+        "calls": 19999,
+        "iterations": 606,
+        "median_gap": 0.14546749686707472,
+        "gap_quartiles": [
+          0.12611786875266473,
+          0.15252560425439268
+        ],
+        "median_residual": 0.23096662046982888,
+        "median_heldout_residual": 0.3082827035749463,
+        "serial_times": {
+          "objective": 1.8798928311607597,
+          "probes_and_estimate": 0.3200347968522692,
+          "update": 0.019998041019789525,
+          "total": 2.2201548749999347,
+          "other": 0.00022920596711628605
+        }
+      },
+      "rank_matched_sgd": {
+        "eta": 0.003,
+        "calls": 19956,
+        "iterations": 307,
+        "median_gap": 0.030749924594449175,
+        "gap_quartiles": [
+          0.02971405414605076,
+          0.031126933551511977
+        ],
+        "median_residual": 0.10054667851939332,
+        "median_heldout_residual": 0.16865257255208047,
+        "serial_times": {
+          "objective": 1.8748798261003685,
+          "probes_and_estimate": 0.2860917609086755,
+          "update": 0.06643938299021102,
+          "total": 2.2275462090001383,
+          "other": 0.00013523900088330265
+        }
+      }
+    },
+    "120": {
+      "sampled_coordinate": {
+        "eta": 0.01,
+        "calls": 19956,
+        "iterations": 307,
+        "median_gap": 0.09505013984188172,
+        "gap_quartiles": [
+          0.0947349447685694,
+          0.09713151538712629
+        ],
+        "median_residual": 0.23312439597370216,
+        "serial_times": {
+          "objective": 10.614619195086561,
+          "probes_and_estimate": 0.6309330739259167,
+          "update": 0.17738099100643012,
+          "total": 11.42315895899992,
+          "other": 0.00022569898101210129
+        }
+      },
+      "jaguar": {
+        "eta": 0.0003,
+        "calls": 19999,
+        "iterations": 6666,
+        "median_gap": 0.46729811698349993,
+        "gap_quartiles": [
+          0.466034717234863,
+          0.46741229234774384
+        ],
+        "median_residual": 0.6561074479524187,
+        "serial_times": {
+          "objective": 10.620258257051319,
+          "probes_and_estimate": 0.29600112606567563,
+          "update": 3.56287090087244,
+          "total": 14.481340209000336,
+          "other": 0.002209925010902225
+        }
+      },
+      "subspace_muon": {
+        "eta": 0.03,
+        "calls": 19999,
+        "iterations": 606,
+        "median_gap": 0.09828797609483,
+        "gap_quartiles": [
+          0.09268118848918858,
+          0.10878747244401135
+        ],
+        "median_residual": 0.2864980718139846,
+        "serial_times": {
+          "objective": 10.680985632005104,
+          "probes_and_estimate": 0.9250581419782975,
+          "update": 0.027200340993658756,
+          "total": 11.63357999999971,
+          "other": 0.0003358850226504728
+        }
+      },
+      "rank_matched_sgd": {
+        "eta": 0.003,
+        "calls": 19956,
+        "iterations": 307,
+        "median_gap": 0.018907831257897537,
+        "gap_quartiles": [
+          0.018878143290544724,
+          0.01908647129824475
+        ],
+        "median_residual": 0.12365976990679564,
+        "serial_times": {
+          "objective": 10.676033769001151,
+          "probes_and_estimate": 1.056203144024039,
+          "update": 0.0681923659885797,
+          "total": 11.800673832998655,
+          "other": 0.0002445539848849876
+        }
+      }
+    }
+  },
+  "sensitivity": [
+    {
+      "q": 8,
+      "radius": 0.001,
+      "eta": 0.01,
+      "median_gap": 0.35977234856534906,
+      "gap_quartiles": [
+        0.35743979639545703,
+        0.36241759301117904
+      ],
+      "calls": 19993,
+      "iterations": 1176
+    },
+    {
+      "q": 32,
+      "radius": 0.0001,
+      "eta": 0.01,
+      "median_gap": 0.2160820837205436,
+      "gap_quartiles": [
+        0.21426976832667297,
+        0.21749118366915315
+      ],
+      "calls": 19956,
+      "iterations": 307
+    },
+    {
+      "q": 32,
+      "radius": 0.001,
+      "eta": 0.01,
+      "median_gap": 0.21608208372421323,
+      "gap_quartiles": [
+        0.2142697683286341,
+        0.21749118366788564
+      ],
+      "calls": 19956,
+      "iterations": 307
+    },
+    {
+      "q": 32,
+      "radius": 0.01,
+      "eta": 0.01,
+      "median_gap": 0.21608208372411727,
+      "gap_quartiles": [
+        0.21426976832927547,
+        0.21749118366771805
+      ],
+      "calls": 19956,
+      "iterations": 307
+    },
+    {
+      "q": 64,
+      "radius": 0.001,
+      "eta": 0.01,
+      "median_gap": 0.24307579307178886,
+      "gap_quartiles": [
+        0.24212637317762495,
+        0.24451761407447578
+      ],
+      "calls": 19996,
+      "iterations": 155
+    }
+  ],
+  "tuning_calls": 1918184,
+  "evaluation_calls": 799100,
+  "sensitivity_calls": 499285,
+  "serial_timing_calls": 266544,
+  "tune_runs": 96,
+  "test_runs": 40,
+  "sensitivity_runs": 25,
+  "timing_runs": 14
+}

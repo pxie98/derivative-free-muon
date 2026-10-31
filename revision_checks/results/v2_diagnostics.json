@@ -1,0 +1,122 @@
+[
+  {
+    "case": 1,
+    "max_shared_estimate_relative_error": 0.0,
+    "max_shared_momentum_relative_error": 4.339865211271847e-16,
+    "max_shared_polar_direction_error": 8.934377327592646e-14,
+    "max_unscaled_polar_direction_error": 5.6465127205975986e-14,
+    "max_finite_difference_formula_error": 5.6098335832682185e-11,
+    "min_relative_singular_value": 2.2711557042659965e-06,
+    "first_parameter_distance_above_1e_8": {
+      "iteration": 84,
+      "shared_estimate_relative_error": 0.0,
+      "finite_difference_formula_error": 7.93753229294899e-14,
+      "shared_momentum_relative_error": 3.065833517996648e-16,
+      "shared_polar_direction_error": 3.52166810581337e-15,
+      "unscaled_polar_direction_error": 3.147540423460481e-15,
+      "relative_smallest_singular_value": 0.016011794753867697,
+      "independent_direction_error": 2.9253203358286794e-07,
+      "parameter_distance": 1.0272352386045606e-08,
+      "entry_objective": 0.012925976601377913,
+      "v2_objective": 0.01292597665639143
+    },
+    "zero_threshold_hits": [
+      0,
+      0
+    ],
+    "rerun_terminal_entry": 0.0039053994839980104,
+    "rerun_terminal_v2": 0.005009101436472228,
+    "recorded_terminal_entry": 0.006765942719058162,
+    "recorded_terminal_v2": 0.005249581782851738
+  },
+  {
+    "case": 2,
+    "max_shared_estimate_relative_error": 0.0,
+    "max_shared_momentum_relative_error": 6.268478455693419e-16,
+    "max_shared_polar_direction_error": 3.9693958649379897e-14,
+    "max_unscaled_polar_direction_error": 3.576286194543322e-14,
+    "max_finite_difference_formula_error": 5.2076860829345143e-11,
+    "min_relative_singular_value": 4.504653052086103e-05,
+    "first_parameter_distance_above_1e_8": {
+      "iteration": 99,
+      "shared_estimate_relative_error": 0.0,
+      "finite_difference_formula_error": 5.667093493894693e-13,
+      "shared_momentum_relative_error": 3.4542721484494326e-16,
+      "shared_polar_direction_error": 3.4460064900004828e-15,
+      "unscaled_polar_direction_error": 3.394573175152346e-15,
+      "relative_smallest_singular_value": 0.02643399102833616,
+      "independent_direction_error": 4.3616510637186584e-07,
+      "parameter_distance": 1.4735075687606537e-08,
+      "entry_objective": 0.045662791870378215,
+      "v2_objective": 0.04566279177543496
+    },
+    "zero_threshold_hits": [
+      0,
+      0
+    ],
+    "rerun_terminal_entry": 0.04565495081889027,
+    "rerun_terminal_v2": 0.044028146543093144,
+    "recorded_terminal_entry": 0.045046332117756424,
+    "recorded_terminal_v2": 0.04391955273651033
+  },
+  {
+    "case": 3,
+    "max_shared_estimate_relative_error": 0.0,
+    "max_shared_momentum_relative_error": 6.771839261785624e-16,
+    "max_shared_polar_direction_error": 6.889309808029975e-13,
+    "max_unscaled_polar_direction_error": 5.551500639481922e-13,
+    "max_finite_difference_formula_error": 7.90038120616574e-11,
+    "min_relative_singular_value": 1.583436626607043e-05,
+    "first_parameter_distance_above_1e_8": {
+      "iteration": 80,
+      "shared_estimate_relative_error": 0.0,
+      "finite_difference_formula_error": 6.755489147420845e-13,
+      "shared_momentum_relative_error": 2.361193821098941e-16,
+      "shared_polar_direction_error": 3.7893332389910106e-14,
+      "unscaled_polar_direction_error": 2.7382702549861842e-14,
+      "relative_smallest_singular_value": 0.000763634425275762,
+      "independent_direction_error": 2.3905116902684016e-07,
+      "parameter_distance": 1.001996455118867e-08,
+      "entry_objective": 0.07723209738067469,
+      "v2_objective": 0.07723209746159752
+    },
+    "zero_threshold_hits": [
+      0,
+      0
+    ],
+    "rerun_terminal_entry": 0.005887050745918936,
+    "rerun_terminal_v2": 0.004656607514666899,
+    "recorded_terminal_entry": 0.006709627819374153,
+    "recorded_terminal_v2": 0.00519032912888022
+  },
+  {
+    "case": 4,
+    "max_shared_estimate_relative_error": 0.0,
+    "max_shared_momentum_relative_error": 5.805311805614463e-16,
+    "max_shared_polar_direction_error": 2.587256986521217e-13,
+    "max_unscaled_polar_direction_error": 1.7192541684880928e-13,
+    "max_finite_difference_formula_error": 1.663179607901351e-10,
+    "min_relative_singular_value": 1.5291901851404577e-05,
+    "first_parameter_distance_above_1e_8": {
+      "iteration": 81,
+      "shared_estimate_relative_error": 0.0,
+      "finite_difference_formula_error": 7.587904993280383e-13,
+      "shared_momentum_relative_error": 4.573793384389311e-16,
+      "shared_polar_direction_error": 1.0315018065794824e-14,
+      "unscaled_polar_direction_error": 9.15292802059043e-15,
+      "relative_smallest_singular_value": 0.0014101155212595876,
+      "independent_direction_error": 4.2097634273930493e-07,
+      "parameter_distance": 1.0260104672704913e-08,
+      "entry_objective": 0.04188354632698251,
+      "v2_objective": 0.04188354636720985
+    },
+    "zero_threshold_hits": [
+      0,
+      0
+    ],
+    "rerun_terminal_entry": 0.008621855439684491,
+    "rerun_terminal_v2": 0.008700189415764186,
+    "recorded_terminal_entry": 0.008698122553459083,
+    "recorded_terminal_v2": 0.008367735871919621
+  }
+]

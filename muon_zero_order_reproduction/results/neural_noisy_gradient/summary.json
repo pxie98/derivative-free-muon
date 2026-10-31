@@ -1,0 +1,74 @@
+{
+  "architecture": "y=A tanh(Wx), fixed A, optimized W in R^(8x6)",
+  "samples": 512,
+  "iterations": 300,
+  "learning_rate": 0.025,
+  "beta": 0.9,
+  "fd_radius": 0.0001,
+  "low_rank_probes": 6,
+  "results": [
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.0,
+      "median": 0.01043018150731204,
+      "q25": 0.01043018150731204,
+      "q75": 0.01043018150731204,
+      "evaluations": 301,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.1,
+      "median": 0.018141782441275858,
+      "q25": 0.009369519449630416,
+      "q75": 0.020763659618806406,
+      "evaluations": 301,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 0.3,
+      "median": 0.03724465091129535,
+      "q25": 0.028105360250033525,
+      "q75": 0.044499328657296805,
+      "evaluations": 301,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 1.0,
+      "median": 0.0931083836163617,
+      "q25": 0.0861763187970266,
+      "q75": 0.09947451819310019,
+      "evaluations": 301,
+      "repetitions": 30
+    },
+    {
+      "method": "Noisy-gradient Muon",
+      "noise_level": 3.0,
+      "median": 0.1969781031984107,
+      "q25": 0.17246196479834464,
+      "q75": 0.21788951499011128,
+      "evaluations": 301,
+      "repetitions": 30
+    },
+    {
+      "method": "Low-rank DFO-Muon",
+      "noise_level": null,
+      "median": 0.03001742878181176,
+      "q25": 0.02509096487133912,
+      "q75": 0.03605414345708143,
+      "evaluations": 2101,
+      "repetitions": 30
+    },
+    {
+      "method": "Entrywise DFO-Muon",
+      "noise_level": null,
+      "median": 0.010614441239300838,
+      "q25": 0.010614441239300838,
+      "q75": 0.010614441239300838,
+      "evaluations": 14701,
+      "repetitions": 1
+    }
+  ]
+}
